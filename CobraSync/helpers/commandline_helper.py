@@ -3,8 +3,10 @@ from __future__ import absolute_import, division, print_function, unicode_litera
 import argparse
 import codecs
 from CobraSync import __version__
+import CobraSync.helpers.config_helper
 
 def sync(args):
+    config = CobraSync.helpers.config_helper.get_config()
     print("Es wird gesynct!!!")
 
 
