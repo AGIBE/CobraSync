@@ -72,6 +72,5 @@ def get_config():
 
     # Connection-Strings zusammensetzen
     create_connection_string(config, 'GDBP')
-    create_connection_string(config, 'DD')
     
     return config
