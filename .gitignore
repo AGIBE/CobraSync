@@ -1,6 +1,7 @@
 *.pyc
 *.pydevproject
 *.project
+*.recover
 .settings/*
 build/*
 dist/*
