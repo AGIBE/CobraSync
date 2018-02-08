@@ -18,51 +18,51 @@
 #          --LOGFILE ""
 #    
 #    
-#!   HISTORY=""
-#!   SOURCE="NONE"
-#!   PYTHON_COMPATIBILITY="27"
-#!   USAGE="&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;br/&gt;&#10;&lt;/p&gt;&#10;"
-#!   MAX_LOG_FEATURES="200"
+#!   END_PYTHON=""
 #!   BEGIN_TCL=""
-#!   FME_REPROJECTION_ENGINE="FME"
-#!   MULTI_WRITER_DATASET_ORDER="BY_ID"
-#!   WARN_INVALID_XFORM_PARAM="Yes"
 #!   FME_BUILD_NUM="16674"
-#!   REDIRECT_TERMINATORS="NONE"
-#!   WORKSPACE_VERSION="1"
-#!   ZOOM_SCALE="100"
-#!   END_TCL=""
-#!   DOC_TOP_LEFT="-51.3756 -4571.92"
-#!   TERMINATE_REJECTED="YES"
-#!   BEGIN_PYTHON=""
-#!   SOURCE_ROUTING_FILE=""
+#!   FME_REPROJECTION_ENGINE="FME"
+#!   LEGAL_TERMS_CONDITIONS="&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;br/&gt;&#10;&lt;/p&gt;&#10;"
+#!   PASSWORD=""
+#!   LAST_SAVE_BUILD="FME(R) 2016.1.2.1 (20160929 - Build 16674 - WIN32)"
+#!   DESCRIPTION="&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;br/&gt;&#10;&lt;/p&gt;&#10;"
+#!   MAX_LOG_FEATURES="200"
 #!   FME_SERVER_SERVICES=""
 #!   FME_STROKE_MAX_DEVIATION="0"
-#!   LOG_FILE="$(LOGFILE)"
-#!   FME_DOCUMENT_GUID="a66dff16-f0cf-4703-b62f-3d409248ff5a"
-#!   REQUIREMENTS_KEYWORD="none"
-#!   VIEW_POSITION="-359.379 -1412.51"
-#!   REQUIREMENTS="&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;br/&gt;&#10;&lt;/p&gt;&#10;"
-#!   FME_IMPLICIT_CSMAP_REPROJECTION_MODE="Auto"
-#!   SHOW_INFO_NODES="true"
-#!   IGNORE_READER_FAILURE="No"
-#!   TITLE="CobraSync_PostProcessing"
-#!   LAST_SAVE_BUILD="FME(R) 2016.1.2.1 (20160929 - Build 16674 - WIN32)"
-#!   PASSWORD=""
-#!   FME_DOCUMENT_PRIORGUID="08078d45-bdfa-4d7c-858b-d516b475d073,6cbde160-4f6b-463e-9dc5-b9580c04cb7b,6f40d782-e7c9-40ab-aa7e-82f2c2659148,d583021d-b3ca-4e93-b537-5d2412a1056c"
-#!   DESTINATION="VISUALIZER"
 #!   DOC_EXTENTS="3763.91 4534.3"
-#!   LEGAL_TERMS_CONDITIONS="&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;br/&gt;&#10;&lt;/p&gt;&#10;"
-#!   ATTR_TYPE_ENCODING="SDF"
-#!   END_PYTHON=""
-#!   DESTINATION_ROUTING_FILE=""
-#!   LOG_MAX_RECORDED_FEATURES="200"
-#!   LAST_SAVE_DATE="2018-01-05T11:24:45"
 #!   SHOW_ANNOTATIONS="true"
-#!   FME_GEOMETRY_HANDLING="Enhanced"
-#!   DESCRIPTION="&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;br/&gt;&#10;&lt;/p&gt;&#10;"
+#!   HISTORY=""
 #!   EXPLICIT_BOOKMARK_ORDER="false"
+#!   LOG_FILE="$(LOGFILE)"
+#!   DOC_TOP_LEFT="-51.3756 -4571.92"
+#!   PYTHON_COMPATIBILITY="27"
+#!   ZOOM_SCALE="100"
+#!   USAGE="&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;br/&gt;&#10;&lt;/p&gt;&#10;"
+#!   FME_DOCUMENT_PRIORGUID="08078d45-bdfa-4d7c-858b-d516b475d073,6cbde160-4f6b-463e-9dc5-b9580c04cb7b,6f40d782-e7c9-40ab-aa7e-82f2c2659148,d583021d-b3ca-4e93-b537-5d2412a1056c,a66dff16-f0cf-4703-b62f-3d409248ff5a"
+#!   DESTINATION="NONE"
+#!   BEGIN_PYTHON=""
+#!   REQUIREMENTS="&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;br/&gt;&#10;&lt;/p&gt;&#10;"
+#!   LAST_SAVE_DATE="2018-02-08T08:54:05"
+#!   FME_DOCUMENT_GUID="48c3555a-f305-44dc-a121-30e966ccacd1"
+#!   DESTINATION_ROUTING_FILE=""
+#!   TERMINATE_REJECTED="YES"
+#!   WARN_INVALID_XFORM_PARAM="Yes"
+#!   END_TCL=""
+#!   SOURCE_ROUTING_FILE=""
+#!   SOURCE="NONE"
+#!   TITLE="CobraSync_PostProcessing"
+#!   FME_GEOMETRY_HANDLING="Enhanced"
+#!   VIEW_POSITION="-359.379 -37.5004"
+#!   MULTI_WRITER_DATASET_ORDER="BY_ID"
+#!   SHOW_INFO_NODES="true"
+#!   REDIRECT_TERMINATORS="NONE"
+#!   IGNORE_READER_FAILURE="No"
+#!   FME_IMPLICIT_CSMAP_REPROJECTION_MODE="Auto"
+#!   REQUIREMENTS_KEYWORD="none"
+#!   LOG_MAX_RECORDED_FEATURES="200"
+#!   WORKSPACE_VERSION="1"
 #!   CATEGORY=""
+#!   ATTR_TYPE_ENCODING="SDF"
 #! >
 #! <DATASETS>
 #! <DATASET
@@ -78,7 +78,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE="mysql_type {FME_GEN_GEOMETRY} mysql_sql_where_clause_wwjd &quot;&quot; mysql_sql_statement_wwjd &quot;&quot;"
 #!   DEFLINE_ATTRS="true"
-#!   EXPOSABLE_ATTRS="fme_fill_color char(50) fme_text_size double fme_rotation double mysql_type char(50) fme_primary_axis double multi_reader_id int fme_feature_type char(50) fme_type char(50) fme_geometry fme_char(50) multi_reader_keyword char(50) fme_basename char(50) multi_reader_full_id int fme_color char(50) fme_dataset char(50) fme_start_angle double multi_reader_type char(50) fme_secondary_axis double fme_sweep_angle double fme_text_string char(50)"
+#!   EXPOSABLE_ATTRS="fme_feature_type char(50) multi_reader_keyword char(50) fme_basename char(50) fme_primary_axis double fme_color char(50) fme_text_size double multi_reader_full_id int multi_reader_id int fme_geometry fme_char(50) mysql_type char(50) fme_text_string char(50) fme_sweep_angle double fme_fill_color char(50) fme_type char(50) fme_start_angle double multi_reader_type char(50) fme_rotation double fme_secondary_axis double fme_dataset char(50)"
 #!   DEFLINE_PARMS="&quot;GUI NAMEDGROUP mysql_query_settings_group mysql_sql_where_clause_wwjd%mysql_sql_statement_wwjd Table Settings&quot; &quot;&quot; &quot;GUI OPTIONAL TEXT_EDIT_SQL_CFG mysql_sql_where_clause_wwjd MODE,WHERE WHERE Clause&quot; &quot;&quot; &quot;GUI OPTIONAL TEXT_EDIT_SQL_CFG mysql_sql_statement_wwjd MODE,SQL SELECT Statement&quot; &quot;&quot; "
 #!   ATTR_INDEX_TYPES="BTREE HASH PRIKEY"
 #!   ATTR_NAME_INVALID_CHARS=""
@@ -88,28 +88,28 @@
 #!   DATASET_TYPE="DATABASE"
 #!   GENERATE_FME_BUILD_NUM="16674"
 #!   NAME="GeoDBmeta_Read"
-#!   MAX_FEATURES=""
-#!   MIN_FEATURES=""
-#!   COORDSYS=""
 #!   START_FEATURE=""
-#!   FEATURE_TYPES=""
+#!   COORDSYS=""
+#!   MIN_FEATURES=""
 #!   MAX_FEATURES_PER_FEATURE_TYPE=""
+#!   FEATURE_TYPES=""
+#!   MAX_FEATURES=""
 #! >
-#! <METAFILE_PARAMETER
-#!   NAME="FEATURE_TYPE_DEFAULT_NAME"
-#!   VALUE="Table1"
-#! />
 #! <METAFILE_PARAMETER
 #!   NAME="DATASET_NAME"
 #!   VALUE="Database"
 #! />
 #! <METAFILE_PARAMETER
-#!   NAME="NETWORK_AUTHENTICATION"
-#!   VALUE="NO"
+#!   NAME="FEATURE_TYPE_DEFAULT_NAME"
+#!   VALUE="Table1"
 #! />
 #! <METAFILE_PARAMETER
 #!   NAME="FEATURE_TYPE_NAME"
 #!   VALUE="Table"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="NETWORK_AUTHENTICATION"
+#!   VALUE="NO"
 #! />
 #! <METAFILE_PARAMETER
 #!   NAME="NETWORK_PROXY"
@@ -129,7 +129,7 @@
 #!   WRITE_DEFS="false"
 #!   DEFLINE_TEMPLATE=""
 #!   DEFLINE_ATTRS="true"
-#!   EXPOSABLE_ATTRS="fme_fill_color char(50) fme_text_size real64 fme_rotation real64 fme_primary_axis real64 multi_reader_id int32 fme_feature_type char(50) fme_type char(50) fme_geometry fme_char(50) multi_reader_keyword char(50) fme_basename char(50) multi_reader_full_id int32 fme_dataset char(50) fme_color char(50) fme_start_angle real64 multi_reader_type char(50) fme_secondary_axis real64 fme_sweep_angle real64 fme_text_string char(50)"
+#!   EXPOSABLE_ATTRS="fme_feature_type char(50) multi_reader_keyword char(50) fme_basename char(50) fme_primary_axis real64 fme_color char(50) fme_text_size real64 multi_reader_full_id int32 multi_reader_id int32 fme_geometry fme_char(50) fme_text_string char(50) fme_sweep_angle real64 fme_fill_color char(50) fme_type char(50) fme_start_angle real64 multi_reader_type char(50) fme_rotation real64 fme_secondary_axis real64 fme_dataset char(50)"
 #!   DEFLINE_PARMS=""
 #!   ATTR_INDEX_TYPES=""
 #!   ATTR_NAME_INVALID_CHARS=""
@@ -139,12 +139,12 @@
 #!   DATASET_TYPE="FILE"
 #!   GENERATE_FME_BUILD_NUM="6198"
 #!   NAME="GUIDCOL_FFS"
-#!   MAX_FEATURES=""
-#!   MIN_FEATURES=""
-#!   COORDSYS=""
 #!   START_FEATURE=""
-#!   FEATURE_TYPES=""
+#!   COORDSYS=""
+#!   MIN_FEATURES=""
 #!   MAX_FEATURES_PER_FEATURE_TYPE=""
+#!   FEATURE_TYPES=""
+#!   MAX_FEATURES=""
 #! />
 #! <DATASET
 #!   IS_SOURCE="true"
@@ -159,7 +159,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE="oracle_sql_encoded &quot;&quot; oracle_where_clause_encoded &quot;&quot;"
 #!   DEFLINE_ATTRS="true"
-#!   EXPOSABLE_ATTRS="fme_fill_color char(50) fme_text_size float fme_rotation float fme_primary_axis float multi_reader_id integer fme_db_operation char(8) fme_feature_type char(50) fme_type char(50) fme_geometry fme_char(50) multi_reader_keyword char(50) fme_basename char(50) multi_reader_full_id integer fme_color char(50) fme_dataset char(50) oracle_type char(50) fme_start_angle float multi_reader_type char(50) fme_secondary_axis float fme_sweep_angle float fme_text_string char(50)"
+#!   EXPOSABLE_ATTRS="fme_feature_type char(50) multi_reader_keyword char(50) fme_basename char(50) fme_primary_axis float fme_color char(50) oracle_type char(50) fme_db_operation char(8) fme_text_size float multi_reader_full_id integer multi_reader_id integer fme_geometry fme_char(50) fme_text_string char(50) fme_sweep_angle float fme_fill_color char(50) fme_type char(50) fme_start_angle float multi_reader_type char(50) fme_rotation float fme_secondary_axis float fme_dataset char(50)"
 #!   DEFLINE_PARMS="&quot;GUI NAMEDGROUP oracle_reader_group oracle_where_clause_encoded%oracle_sql_encoded Table Settings&quot; &quot;&quot; &quot;GUI OPTIONAL WHOLE_LINE TEXT_EDIT_SQL_CFG oracle_sql_encoded MODE,SQL SELECT Statement&quot; &quot;&quot; &quot;GUI OPTIONAL WHOLE_LINE TEXT_EDIT_SQL_CFG oracle_where_clause_encoded MODE,WHERE WHERE Clause&quot; &quot;&quot; "
 #!   ATTR_INDEX_TYPES="BTree Bitmap PrimaryKey Unique"
 #!   ATTR_NAME_INVALID_CHARS=""
@@ -169,44 +169,44 @@
 #!   DATASET_TYPE="DATABASE"
 #!   GENERATE_FME_BUILD_NUM="16674"
 #!   NAME="GeoDBprozess_Read"
-#!   MAX_FEATURES=""
-#!   MIN_FEATURES=""
-#!   COORDSYS=""
 #!   START_FEATURE=""
-#!   FEATURE_TYPES=""
+#!   COORDSYS=""
+#!   MIN_FEATURES=""
 #!   MAX_FEATURES_PER_FEATURE_TYPE=""
+#!   FEATURE_TYPES=""
+#!   MAX_FEATURES=""
 #! >
 #! <METAFILE_PARAMETER
-#!   NAME="FEATURE_TYPE_DEFAULT_NAME"
-#!   VALUE="Table1"
-#! />
-#! <METAFILE_PARAMETER
-#!   NAME="PARAMS_TO_NOT_PROPAGATE_ON_INSPECT"
-#!   VALUE="BEGIN_SQL{0} END_SQL{0}"
+#!   NAME="ADVANCED_PARMS"
+#!   VALUE="ORACLE_NONSPATIAL_IN_CHUNK_SIZE ORACLE_NONSPATIAL_IN_BEGIN_SQL{0} ORACLE_NONSPATIAL_IN_END_SQL{0} ORACLE_NONSPATIAL_IN_PERSISTENT_CONNECTION ORACLE_NONSPATIAL_IN_REMOVE_SCHEMA_QUALIFIER ORACLE_NONSPATIAL_IN_CLIP_TO_ENVELOPE SEARCH_ENVELOPE_COORDINATE_SYSTEM ORACLE_NONSPATIAL_IN_SHOW_SYSTEM_TABLES"
 #! />
 #! <METAFILE_PARAMETER
 #!   NAME="DATASET_NAME"
 #!   VALUE="Database"
 #! />
 #! <METAFILE_PARAMETER
-#!   NAME="NETWORK_AUTHENTICATION"
-#!   VALUE="NO"
-#! />
-#! <METAFILE_PARAMETER
-#!   NAME="ADVANCED_PARMS"
-#!   VALUE="ORACLE_NONSPATIAL_IN_CHUNK_SIZE ORACLE_NONSPATIAL_IN_BEGIN_SQL{0} ORACLE_NONSPATIAL_IN_END_SQL{0} ORACLE_NONSPATIAL_IN_PERSISTENT_CONNECTION ORACLE_NONSPATIAL_IN_REMOVE_SCHEMA_QUALIFIER ORACLE_NONSPATIAL_IN_CLIP_TO_ENVELOPE SEARCH_ENVELOPE_COORDINATE_SYSTEM ORACLE_NONSPATIAL_IN_SHOW_SYSTEM_TABLES"
-#! />
-#! <METAFILE_PARAMETER
-#!   NAME="ATTRIBUTE_READING"
-#!   VALUE="DEFLINE_ATTRS"
+#!   NAME="FEATURE_TYPE_DEFAULT_NAME"
+#!   VALUE="Table1"
 #! />
 #! <METAFILE_PARAMETER
 #!   NAME="FEATURE_TYPE_NAME"
 #!   VALUE="Table"
 #! />
 #! <METAFILE_PARAMETER
+#!   NAME="NETWORK_AUTHENTICATION"
+#!   VALUE="NO"
+#! />
+#! <METAFILE_PARAMETER
 #!   NAME="NETWORK_PROXY"
 #!   VALUE="NO"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="ATTRIBUTE_READING"
+#!   VALUE="DEFLINE_ATTRS"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="PARAMS_TO_NOT_PROPAGATE_ON_INSPECT"
+#!   VALUE="BEGIN_SQL{0} END_SQL{0}"
 #! />
 #! </DATASET>
 #! <DATASET
@@ -222,7 +222,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE="mysql_type {FME_GEN_GEOMETRY} mysql_mode INHERIT_FROM_WRITER mysql_table_type MYISAM mysql_drop_table NO mysql_truncate_table NO mysql_ops_per_sql_stmt 1000"
 #!   DEFLINE_ATTRS="true"
-#!   EXPOSABLE_ATTRS="fme_feature_type char(50) fme_sweep_angle double fme_dataset char(50) fme_type char(50) fme_color char(50) fme_geometry fme_char(50) mysql_type char(50) fme_fill_color char(50) fme_basename char(50) fme_secondary_axis double fme_where char(254) fme_rotation double fme_text_size double fme_start_angle double fme_db_operation char(8) fme_primary_axis double fme_text_string char(50)"
+#!   EXPOSABLE_ATTRS="fme_where char(254) fme_text_size double fme_fill_color char(50) fme_geometry fme_char(50) fme_dataset char(50) fme_sweep_angle double fme_color char(50) fme_feature_type char(50) fme_text_string char(50) fme_basename char(50) fme_rotation double fme_primary_axis double fme_type char(50) mysql_type char(50) fme_start_angle double fme_db_operation char(8) fme_secondary_axis double"
 #!   DEFLINE_PARMS="&quot;GUI NAMEDGROUP mysql_layer_group mysql_general_group%mysql_advanced_group Table Settings&quot; &quot;&quot; &quot;GUI NAMEDGROUP mysql_general_group mysql_mode%mysql_drop_table%mysql_truncate_table%mysql_tblcreateparam_group General&quot; &quot;&quot; &quot;GUI DISCLOSUREGROUP mysql_tblcreateparam_group FME_DISCLOSURE_CLOSED%mysql_table_type Table Creation Parameters&quot; &quot;&quot; &quot;GUI DISCLOSUREGROUP mysql_advanced_group mysql_ops_per_sql_stmt Advanced&quot; &quot;&quot; &quot;GUI CHOICE mysql_drop_table YES%NO Drop Table&quot; NO &quot;GUI CHOICE mysql_truncate_table YES%NO Truncate Table&quot; NO &quot;GUI CHOICE mysql_mode INHERIT_FROM_WRITER%INSERT%UPDATE%DELETE Writer Mode&quot; INHERIT_FROM_WRITER &quot;GUI CHOICE mysql_table_type MYISAM%InnoDB%MEMORY%BDB%CSV%ARCHIVE%MERGE%NDB%FEDERATED Table Type&quot; MYISAM &quot;GUI OPTIONAL INTEGER mysql_ops_per_sql_stmt Operations Per SQL Statement&quot; 1000 "
 #!   ATTR_INDEX_TYPES="BTREE HASH PRIKEY"
 #!   ATTR_NAME_INVALID_CHARS=". %-#[]&quot;()!?*&apos;&amp;+\/"
@@ -232,25 +232,25 @@
 #!   DATASET_TYPE="DATABASE"
 #!   GENERATE_FME_BUILD_NUM="16674"
 #!   NAME="GeoDBmeta_Update"
-#!   FANOUT_GROUP="NO"
 #!   COORDSYS=""
 #!   FANOUT_EXPRESSION=""
+#!   FANOUT_GROUP="NO"
 #! >
-#! <METAFILE_PARAMETER
-#!   NAME="FEATURE_TYPE_DEFAULT_NAME"
-#!   VALUE="Table1"
-#! />
 #! <METAFILE_PARAMETER
 #!   NAME="DATASET_NAME"
 #!   VALUE="Database"
 #! />
 #! <METAFILE_PARAMETER
-#!   NAME="NETWORK_AUTHENTICATION"
-#!   VALUE="NO"
+#!   NAME="FEATURE_TYPE_DEFAULT_NAME"
+#!   VALUE="Table1"
 #! />
 #! <METAFILE_PARAMETER
 #!   NAME="FEATURE_TYPE_NAME"
 #!   VALUE="Table"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="NETWORK_AUTHENTICATION"
+#!   VALUE="NO"
 #! />
 #! <METAFILE_PARAMETER
 #!   NAME="NETWORK_PROXY"
@@ -270,7 +270,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE="oracle_create_table &quot;&quot; oracle_drop_table &quot;&quot; oracle_table_writer_mode &quot;&quot; oracle_update_key_columns &quot;&quot; oracle_truncate_table &quot;&quot; fme_feature_operation INSERT fme_table_handling CREATE_IF_MISSING fme_selection_method MATCH_COLUMNS fme_match_columns &quot;&quot; fme_where_builder_clause &quot;&quot; oracle_params &quot;&quot; oracle_sql_encoded &quot;&quot; oracle_sequenced_cols &quot;&quot;"
 #!   DEFLINE_ATTRS="true"
-#!   EXPOSABLE_ATTRS="fme_feature_type char(50) fme_sweep_angle float oracle_type char(50) fme_dataset char(50) fme_type char(50) fme_color char(50) fme_geometry fme_char(50) fme_fill_color char(50) fme_basename char(50) fme_secondary_axis float fme_rotation float fme_text_size float fme_start_angle float fme_db_operation char(8) fme_primary_axis float fme_text_string char(50)"
+#!   EXPOSABLE_ATTRS="fme_text_size float oracle_type char(50) fme_fill_color char(50) fme_geometry fme_char(50) fme_dataset char(50) fme_sweep_angle float fme_color char(50) fme_feature_type char(50) fme_text_string char(50) fme_basename char(50) fme_rotation float fme_primary_axis float fme_type char(50) fme_start_angle float fme_db_operation char(8) fme_secondary_axis float"
 #!   DEFLINE_PARMS="&quot;GUI NAMEDGROUP fme_configuration_group fme_configuration_common_group%fme_spatial_group%fme_advanced_group%oracle_advanced_group Table Settings&quot; &quot;&quot; &quot;GUI NAMEDGROUP fme_configuration_common_group fme_feature_operation%fme_table_handling%oracle_model%fme_update_geometry%fme_selection_group%fme_table_creation_group General&quot; &quot;&quot; &quot;GUI ACTIVECHOICE_LOOKUP fme_feature_operation Insert,INSERT,fme_update_geometry,fme_selection_group%Update,UPDATE,++fme_table_handling+USE_EXISTING,++fme_selection_group+FME_DISCLOSURE_OPEN%Delete,DELETE,++fme_table_handling+USE_EXISTING,fme_update_geometry,++fme_selection_group+FME_DISCLOSURE_OPEN,fme_spatial_group,fme_advanced_group,oracle_sequenced_cols%&lt;at&gt;Value&lt;openparen&gt;fme_db_operation&lt;closeparen&gt;,MULTIPLE,++fme_table_handling+USE_EXISTING,++fme_selection_group+FME_DISCLOSURE_OPEN Feature Operation&quot; INSERT &quot;GUI ACTIVECHOICE_LOOKUP fme_table_handling Use&lt;space&gt;Existing,USE_EXISTING,fme_table_creation_group%Create&lt;space&gt;If&lt;space&gt;Needed,CREATE_IF_MISSING%Drop&lt;space&gt;and&lt;space&gt;Create,DROP_CREATE%Truncate&lt;space&gt;Existing,TRUNCATE_EXISTING,fme_table_creation_group Table Handling&quot; CREATE_IF_MISSING &quot;GUI DISCLOSUREGROUP fme_selection_group fme_selection_method Row Selection&quot; &quot;&quot; &quot;GUI WHOLE_LINE RADIOPARAMETERGROUP fme_selection_method fme_match_columns,MATCH_COLUMNS%fme_where_builder_clause,BUILDER Row Selection Method&quot; MATCH_COLUMNS &quot;GUI WHOLE_LINE ATTRLIST_COMMAS fme_match_columns Match Columns&quot; &quot;&quot; &quot;GUI WHOLE_LINE TEXT_EDIT_SQL_CFG_OR_ATTR fme_where_builder_clause MODE,WHERE WHERE Clause&quot; &quot;&quot; &quot;GUI DISCLOSUREGROUP fme_table_creation_group oracle_params Table Creation Parameters&quot; &quot;&quot; &quot;GUI OPTIONAL WHOLE_LINE TEXT oracle_params Additional CREATE TABLE Clause(s)&quot; &quot;&quot; &quot;GUI DISCLOSUREGROUP oracle_advanced_group oracle_sequenced_cols%oracle_sql_encoded Advanced&quot; &quot;&quot; &quot;GUI OPTIONAL WHOLE_LINE TEXT oracle_sequenced_cols Sequenced Table Columns&quot; &quot;&quot; &quot;GUI OPTIONAL WHOLE_LINE TEXT_EDIT_SQL_CFG oracle_sql_encoded MODE,SQL SQL Statement (Overrides Feature Operation)&quot; &quot;&quot; "
 #!   ATTR_INDEX_TYPES="BTree Bitmap PrimaryKey Unique"
 #!   ATTR_NAME_INVALID_CHARS=".%&lt;&gt;|: []()?*&apos;&amp;+-/}{\\&quot;"
@@ -280,45 +280,267 @@
 #!   DATASET_TYPE="DATABASE"
 #!   GENERATE_FME_BUILD_NUM="16674"
 #!   NAME="GeoDBprozess_Update"
-#!   FANOUT_GROUP="NO"
 #!   COORDSYS=""
 #!   FANOUT_EXPRESSION=""
+#!   FANOUT_GROUP="NO"
 #! >
 #! <METAFILE_PARAMETER
-#!   NAME="FEATURE_TYPE_DEFAULT_NAME"
-#!   VALUE="Table1"
-#! />
-#! <METAFILE_PARAMETER
-#!   NAME="PARAMS_TO_NOT_PROPAGATE_ON_INSPECT"
-#!   VALUE="BEGIN_SQL{0} END_SQL{0}"
+#!   NAME="ADVANCED_PARMS"
+#!   VALUE="ORACLE_NONSPATIAL_OUT_START_TRANSACTION ORACLE_NONSPATIAL_OUT_CHUNK_SIZE ORACLE_NONSPATIAL_OUT_TRANSACTION_INTERVAL ORACLE_NONSPATIAL_OUT_BEGIN_SQL{0} ORACLE_NONSPATIAL_OUT_END_SQL{0} ORACLE_NONSPATIAL_OUT_STRICT_ATTR_CONVERSION"
 #! />
 #! <METAFILE_PARAMETER
 #!   NAME="DATASET_NAME"
 #!   VALUE="Database"
 #! />
 #! <METAFILE_PARAMETER
-#!   NAME="NETWORK_AUTHENTICATION"
-#!   VALUE="NO"
-#! />
-#! <METAFILE_PARAMETER
-#!   NAME="ADVANCED_PARMS"
-#!   VALUE="ORACLE_NONSPATIAL_OUT_START_TRANSACTION ORACLE_NONSPATIAL_OUT_CHUNK_SIZE ORACLE_NONSPATIAL_OUT_TRANSACTION_INTERVAL ORACLE_NONSPATIAL_OUT_BEGIN_SQL{0} ORACLE_NONSPATIAL_OUT_END_SQL{0} ORACLE_NONSPATIAL_OUT_STRICT_ATTR_CONVERSION"
-#! />
-#! <METAFILE_PARAMETER
-#!   NAME="ATTRIBUTE_READING"
-#!   VALUE="DEFLINE_ATTRS"
+#!   NAME="FEATURE_TYPE_DEFAULT_NAME"
+#!   VALUE="Table1"
 #! />
 #! <METAFILE_PARAMETER
 #!   NAME="FEATURE_TYPE_NAME"
 #!   VALUE="Table"
 #! />
 #! <METAFILE_PARAMETER
+#!   NAME="NETWORK_AUTHENTICATION"
+#!   VALUE="NO"
+#! />
+#! <METAFILE_PARAMETER
 #!   NAME="NETWORK_PROXY"
 #!   VALUE="NO"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="ATTRIBUTE_READING"
+#!   VALUE="DEFLINE_ATTRS"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="PARAMS_TO_NOT_PROPAGATE_ON_INSPECT"
+#!   VALUE="BEGIN_SQL{0} END_SQL{0}"
 #! />
 #! </DATASET>
 #! </DATASETS>
 #! <DATA_TYPES>
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="smallint"
+#!   FME_TYPE="fme_int16"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="smallint"
+#!   FME_TYPE="fme_uint8"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="tinyint"
+#!   FME_TYPE="fme_int8"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="tinyint"
+#!   FME_TYPE="fme_boolean"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="int"
+#!   FME_TYPE="fme_int32"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="bigint"
+#!   FME_TYPE="fme_int64"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="bigint"
+#!   FME_TYPE="fme_uint32"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="mediumint"
+#!   FME_TYPE="fme_int32"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="mediumint"
+#!   FME_TYPE="fme_uint16"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="float"
+#!   FME_TYPE="fme_real32"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="float(width,decimal)"
+#!   FME_TYPE="fme_real32"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="double"
+#!   FME_TYPE="fme_real64"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="double(width,decimal)"
+#!   FME_TYPE="fme_real64"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="decimal(width,decimal)"
+#!   FME_TYPE="fme_decimal(width,decimal)"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="decimal(20,0)"
+#!   FME_TYPE="fme_uint64"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="date"
+#!   FME_TYPE="fme_date"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="time"
+#!   FME_TYPE="fme_time"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="datetime"
+#!   FME_TYPE="fme_datetime"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="timestamp"
+#!   FME_TYPE="fme_datetime"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="year"
+#!   FME_TYPE="fme_date"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="year(width)"
+#!   FME_TYPE="fme_date"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="char(width)"
+#!   FME_TYPE="fme_char(width)"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="varchar(width)"
+#!   FME_TYPE="fme_varchar(width)"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="blob"
+#!   FME_TYPE="fme_binarybuffer"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="blob"
+#!   FME_TYPE="fme_binary(width)"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="blob"
+#!   FME_TYPE="fme_varbinary(width)"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="text"
+#!   FME_TYPE="fme_buffer"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="text"
+#!   FME_TYPE="fme_xml"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="text"
+#!   FME_TYPE="fme_json"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="tinyblob"
+#!   FME_TYPE="fme_binarybuffer"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="tinytext"
+#!   FME_TYPE="fme_buffer"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="mediumblob"
+#!   FME_TYPE="fme_binarybuffer"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="mediumtext"
+#!   FME_TYPE="fme_buffer"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="longblob"
+#!   FME_TYPE="fme_binarybuffer"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="longtext"
+#!   FME_TYPE="fme_buffer"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="enum(stringset)"
+#!   FME_TYPE="fme_char(width)"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="set(stringset)"
+#!   FME_TYPE="fme_char(width)"
+#!   FORMAT="MYSQL_DB"
+#! />
 #! <DATA_TYPE
 #!   IS_SOURCE="true"
 #!   FORMAT_TYPE="char(width)"
@@ -656,223 +878,223 @@
 #!   FORMAT="ORACLE_NONSPATIAL"
 #! />
 #! <DATA_TYPE
-#!   IS_SOURCE="true"
+#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="smallint"
 #!   FME_TYPE="fme_int16"
 #!   FORMAT="MYSQL_DB"
 #! />
 #! <DATA_TYPE
-#!   IS_SOURCE="true"
+#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="smallint"
 #!   FME_TYPE="fme_uint8"
 #!   FORMAT="MYSQL_DB"
 #! />
 #! <DATA_TYPE
-#!   IS_SOURCE="true"
+#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="tinyint"
 #!   FME_TYPE="fme_int8"
 #!   FORMAT="MYSQL_DB"
 #! />
 #! <DATA_TYPE
-#!   IS_SOURCE="true"
+#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="tinyint"
 #!   FME_TYPE="fme_boolean"
 #!   FORMAT="MYSQL_DB"
 #! />
 #! <DATA_TYPE
-#!   IS_SOURCE="true"
+#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="int"
 #!   FME_TYPE="fme_int32"
 #!   FORMAT="MYSQL_DB"
 #! />
 #! <DATA_TYPE
-#!   IS_SOURCE="true"
+#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="bigint"
 #!   FME_TYPE="fme_int64"
 #!   FORMAT="MYSQL_DB"
 #! />
 #! <DATA_TYPE
-#!   IS_SOURCE="true"
+#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="bigint"
 #!   FME_TYPE="fme_uint32"
 #!   FORMAT="MYSQL_DB"
 #! />
 #! <DATA_TYPE
-#!   IS_SOURCE="true"
+#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="mediumint"
 #!   FME_TYPE="fme_int32"
 #!   FORMAT="MYSQL_DB"
 #! />
 #! <DATA_TYPE
-#!   IS_SOURCE="true"
+#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="mediumint"
 #!   FME_TYPE="fme_uint16"
 #!   FORMAT="MYSQL_DB"
 #! />
 #! <DATA_TYPE
-#!   IS_SOURCE="true"
+#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="float"
 #!   FME_TYPE="fme_real32"
 #!   FORMAT="MYSQL_DB"
 #! />
 #! <DATA_TYPE
-#!   IS_SOURCE="true"
+#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="float(width,decimal)"
 #!   FME_TYPE="fme_real32"
 #!   FORMAT="MYSQL_DB"
 #! />
 #! <DATA_TYPE
-#!   IS_SOURCE="true"
+#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="double"
 #!   FME_TYPE="fme_real64"
 #!   FORMAT="MYSQL_DB"
 #! />
 #! <DATA_TYPE
-#!   IS_SOURCE="true"
+#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="double(width,decimal)"
 #!   FME_TYPE="fme_real64"
 #!   FORMAT="MYSQL_DB"
 #! />
 #! <DATA_TYPE
-#!   IS_SOURCE="true"
+#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="decimal(width,decimal)"
 #!   FME_TYPE="fme_decimal(width,decimal)"
 #!   FORMAT="MYSQL_DB"
 #! />
 #! <DATA_TYPE
-#!   IS_SOURCE="true"
+#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="decimal(20,0)"
 #!   FME_TYPE="fme_uint64"
 #!   FORMAT="MYSQL_DB"
 #! />
 #! <DATA_TYPE
-#!   IS_SOURCE="true"
+#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="date"
 #!   FME_TYPE="fme_date"
 #!   FORMAT="MYSQL_DB"
 #! />
 #! <DATA_TYPE
-#!   IS_SOURCE="true"
+#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="time"
 #!   FME_TYPE="fme_time"
 #!   FORMAT="MYSQL_DB"
 #! />
 #! <DATA_TYPE
-#!   IS_SOURCE="true"
+#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="datetime"
 #!   FME_TYPE="fme_datetime"
 #!   FORMAT="MYSQL_DB"
 #! />
 #! <DATA_TYPE
-#!   IS_SOURCE="true"
+#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="timestamp"
 #!   FME_TYPE="fme_datetime"
 #!   FORMAT="MYSQL_DB"
 #! />
 #! <DATA_TYPE
-#!   IS_SOURCE="true"
+#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="year"
 #!   FME_TYPE="fme_date"
 #!   FORMAT="MYSQL_DB"
 #! />
 #! <DATA_TYPE
-#!   IS_SOURCE="true"
+#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="year(width)"
 #!   FME_TYPE="fme_date"
 #!   FORMAT="MYSQL_DB"
 #! />
 #! <DATA_TYPE
-#!   IS_SOURCE="true"
+#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="char(width)"
 #!   FME_TYPE="fme_char(width)"
 #!   FORMAT="MYSQL_DB"
 #! />
 #! <DATA_TYPE
-#!   IS_SOURCE="true"
+#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="varchar(width)"
 #!   FME_TYPE="fme_varchar(width)"
 #!   FORMAT="MYSQL_DB"
 #! />
 #! <DATA_TYPE
-#!   IS_SOURCE="true"
+#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="blob"
 #!   FME_TYPE="fme_binarybuffer"
 #!   FORMAT="MYSQL_DB"
 #! />
 #! <DATA_TYPE
-#!   IS_SOURCE="true"
+#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="blob"
 #!   FME_TYPE="fme_binary(width)"
 #!   FORMAT="MYSQL_DB"
 #! />
 #! <DATA_TYPE
-#!   IS_SOURCE="true"
+#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="blob"
 #!   FME_TYPE="fme_varbinary(width)"
 #!   FORMAT="MYSQL_DB"
 #! />
 #! <DATA_TYPE
-#!   IS_SOURCE="true"
+#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="text"
 #!   FME_TYPE="fme_buffer"
 #!   FORMAT="MYSQL_DB"
 #! />
 #! <DATA_TYPE
-#!   IS_SOURCE="true"
+#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="text"
 #!   FME_TYPE="fme_xml"
 #!   FORMAT="MYSQL_DB"
 #! />
 #! <DATA_TYPE
-#!   IS_SOURCE="true"
+#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="text"
 #!   FME_TYPE="fme_json"
 #!   FORMAT="MYSQL_DB"
 #! />
 #! <DATA_TYPE
-#!   IS_SOURCE="true"
+#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="tinyblob"
 #!   FME_TYPE="fme_binarybuffer"
 #!   FORMAT="MYSQL_DB"
 #! />
 #! <DATA_TYPE
-#!   IS_SOURCE="true"
+#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="tinytext"
 #!   FME_TYPE="fme_buffer"
 #!   FORMAT="MYSQL_DB"
 #! />
 #! <DATA_TYPE
-#!   IS_SOURCE="true"
+#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="mediumblob"
 #!   FME_TYPE="fme_binarybuffer"
 #!   FORMAT="MYSQL_DB"
 #! />
 #! <DATA_TYPE
-#!   IS_SOURCE="true"
+#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="mediumtext"
 #!   FME_TYPE="fme_buffer"
 #!   FORMAT="MYSQL_DB"
 #! />
 #! <DATA_TYPE
-#!   IS_SOURCE="true"
+#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="longblob"
 #!   FME_TYPE="fme_binarybuffer"
 #!   FORMAT="MYSQL_DB"
 #! />
 #! <DATA_TYPE
-#!   IS_SOURCE="true"
+#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="longtext"
 #!   FME_TYPE="fme_buffer"
 #!   FORMAT="MYSQL_DB"
 #! />
 #! <DATA_TYPE
-#!   IS_SOURCE="true"
+#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="enum(stringset)"
 #!   FME_TYPE="fme_char(width)"
 #!   FORMAT="MYSQL_DB"
 #! />
 #! <DATA_TYPE
-#!   IS_SOURCE="true"
+#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="set(stringset)"
 #!   FME_TYPE="fme_char(width)"
 #!   FORMAT="MYSQL_DB"
@@ -1057,230 +1279,98 @@
 #!   FME_TYPE="fme_real64"
 #!   FORMAT="ORACLE_NONSPATIAL"
 #! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="smallint"
-#!   FME_TYPE="fme_int16"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="smallint"
-#!   FME_TYPE="fme_uint8"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="tinyint"
-#!   FME_TYPE="fme_int8"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="tinyint"
-#!   FME_TYPE="fme_boolean"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="int"
-#!   FME_TYPE="fme_int32"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="bigint"
-#!   FME_TYPE="fme_int64"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="bigint"
-#!   FME_TYPE="fme_uint32"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="mediumint"
-#!   FME_TYPE="fme_int32"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="mediumint"
-#!   FME_TYPE="fme_uint16"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="float"
-#!   FME_TYPE="fme_real32"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="float(width,decimal)"
-#!   FME_TYPE="fme_real32"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="double"
-#!   FME_TYPE="fme_real64"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="double(width,decimal)"
-#!   FME_TYPE="fme_real64"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="decimal(width,decimal)"
-#!   FME_TYPE="fme_decimal(width,decimal)"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="decimal(20,0)"
-#!   FME_TYPE="fme_uint64"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="date"
-#!   FME_TYPE="fme_date"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="time"
-#!   FME_TYPE="fme_time"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="datetime"
-#!   FME_TYPE="fme_datetime"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="timestamp"
-#!   FME_TYPE="fme_datetime"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="year"
-#!   FME_TYPE="fme_date"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="year(width)"
-#!   FME_TYPE="fme_date"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="char(width)"
-#!   FME_TYPE="fme_char(width)"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="varchar(width)"
-#!   FME_TYPE="fme_varchar(width)"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="blob"
-#!   FME_TYPE="fme_binarybuffer"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="blob"
-#!   FME_TYPE="fme_binary(width)"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="blob"
-#!   FME_TYPE="fme_varbinary(width)"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="text"
-#!   FME_TYPE="fme_buffer"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="text"
-#!   FME_TYPE="fme_xml"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="text"
-#!   FME_TYPE="fme_json"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="tinyblob"
-#!   FME_TYPE="fme_binarybuffer"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="tinytext"
-#!   FME_TYPE="fme_buffer"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="mediumblob"
-#!   FME_TYPE="fme_binarybuffer"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="mediumtext"
-#!   FME_TYPE="fme_buffer"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="longblob"
-#!   FME_TYPE="fme_binarybuffer"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="longtext"
-#!   FME_TYPE="fme_buffer"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="enum(stringset)"
-#!   FME_TYPE="fme_char(width)"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="set(stringset)"
-#!   FME_TYPE="fme_char(width)"
-#!   FORMAT="MYSQL_DB"
-#! />
 #! </DATA_TYPES>
 #! <GEOM_TYPES>
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="mysql_none"
+#!   FME_TYPE="fme_no_geom"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="mysql_none"
+#!   FME_TYPE="fme_point"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="mysql_none"
+#!   FME_TYPE="fme_line"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="mysql_none"
+#!   FME_TYPE="fme_area"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="mysql_none"
+#!   FME_TYPE="fme_rectangle"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="mysql_none"
+#!   FME_TYPE="fme_rounded_rectangle"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="mysql_none"
+#!   FME_TYPE="fme_text"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="mysql_none"
+#!   FME_TYPE="fme_ellipse"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="mysql_none"
+#!   FME_TYPE="fme_arc"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="mysql_none"
+#!   FME_TYPE="fme_collection"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="mysql_none"
+#!   FME_TYPE="fme_raster"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="mysql_none"
+#!   FME_TYPE="fme_surface"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="mysql_none"
+#!   FME_TYPE="fme_solid"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="mysql_none"
+#!   FME_TYPE="fme_point_cloud"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="mysql_none"
+#!   FME_TYPE="fme_feature_table"
+#!   FORMAT="MYSQL_DB"
+#! />
 #! <GEOM_TYPE
 #!   IS_SOURCE="true"
 #!   FORMAT_TYPE="fme_point"
@@ -1552,91 +1642,91 @@
 #!   FORMAT="ORACLE_NONSPATIAL"
 #! />
 #! <GEOM_TYPE
-#!   IS_SOURCE="true"
+#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="mysql_none"
 #!   FME_TYPE="fme_no_geom"
 #!   FORMAT="MYSQL_DB"
 #! />
 #! <GEOM_TYPE
-#!   IS_SOURCE="true"
+#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="mysql_none"
 #!   FME_TYPE="fme_point"
 #!   FORMAT="MYSQL_DB"
 #! />
 #! <GEOM_TYPE
-#!   IS_SOURCE="true"
+#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="mysql_none"
 #!   FME_TYPE="fme_line"
 #!   FORMAT="MYSQL_DB"
 #! />
 #! <GEOM_TYPE
-#!   IS_SOURCE="true"
+#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="mysql_none"
 #!   FME_TYPE="fme_area"
 #!   FORMAT="MYSQL_DB"
 #! />
 #! <GEOM_TYPE
-#!   IS_SOURCE="true"
+#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="mysql_none"
 #!   FME_TYPE="fme_rectangle"
 #!   FORMAT="MYSQL_DB"
 #! />
 #! <GEOM_TYPE
-#!   IS_SOURCE="true"
+#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="mysql_none"
 #!   FME_TYPE="fme_rounded_rectangle"
 #!   FORMAT="MYSQL_DB"
 #! />
 #! <GEOM_TYPE
-#!   IS_SOURCE="true"
+#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="mysql_none"
 #!   FME_TYPE="fme_text"
 #!   FORMAT="MYSQL_DB"
 #! />
 #! <GEOM_TYPE
-#!   IS_SOURCE="true"
+#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="mysql_none"
 #!   FME_TYPE="fme_ellipse"
 #!   FORMAT="MYSQL_DB"
 #! />
 #! <GEOM_TYPE
-#!   IS_SOURCE="true"
+#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="mysql_none"
 #!   FME_TYPE="fme_arc"
 #!   FORMAT="MYSQL_DB"
 #! />
 #! <GEOM_TYPE
-#!   IS_SOURCE="true"
+#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="mysql_none"
 #!   FME_TYPE="fme_collection"
 #!   FORMAT="MYSQL_DB"
 #! />
 #! <GEOM_TYPE
-#!   IS_SOURCE="true"
+#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="mysql_none"
 #!   FME_TYPE="fme_raster"
 #!   FORMAT="MYSQL_DB"
 #! />
 #! <GEOM_TYPE
-#!   IS_SOURCE="true"
+#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="mysql_none"
 #!   FME_TYPE="fme_surface"
 #!   FORMAT="MYSQL_DB"
 #! />
 #! <GEOM_TYPE
-#!   IS_SOURCE="true"
+#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="mysql_none"
 #!   FME_TYPE="fme_solid"
 #!   FORMAT="MYSQL_DB"
 #! />
 #! <GEOM_TYPE
-#!   IS_SOURCE="true"
+#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="mysql_none"
 #!   FME_TYPE="fme_point_cloud"
 #!   FORMAT="MYSQL_DB"
 #! />
 #! <GEOM_TYPE
-#!   IS_SOURCE="true"
+#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="mysql_none"
 #!   FME_TYPE="fme_feature_table"
 #!   FORMAT="MYSQL_DB"
@@ -1815,96 +1905,6 @@
 #!   FME_TYPE="fme_feature_table"
 #!   FORMAT="ORACLE_NONSPATIAL"
 #! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="mysql_none"
-#!   FME_TYPE="fme_no_geom"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="mysql_none"
-#!   FME_TYPE="fme_point"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="mysql_none"
-#!   FME_TYPE="fme_line"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="mysql_none"
-#!   FME_TYPE="fme_area"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="mysql_none"
-#!   FME_TYPE="fme_rectangle"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="mysql_none"
-#!   FME_TYPE="fme_rounded_rectangle"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="mysql_none"
-#!   FME_TYPE="fme_text"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="mysql_none"
-#!   FME_TYPE="fme_ellipse"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="mysql_none"
-#!   FME_TYPE="fme_arc"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="mysql_none"
-#!   FME_TYPE="fme_collection"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="mysql_none"
-#!   FME_TYPE="fme_raster"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="mysql_none"
-#!   FME_TYPE="fme_surface"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="mysql_none"
-#!   FME_TYPE="fme_solid"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="mysql_none"
-#!   FME_TYPE="fme_point_cloud"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="mysql_none"
-#!   FME_TYPE="fme_feature_table"
-#!   FORMAT="MYSQL_DB"
-#! />
 #! </GEOM_TYPES>
 #! <FEATURE_TYPES>
 #! <FEATURE_TYPE
@@ -1943,8 +1943,8 @@
 #!     <FEAT_ATTRIBUTE ATTR_NAME="resource_id" ATTR_TYPE="int" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="access" ATTR_TYPE="int" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="asset_id" ATTR_TYPE="int" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <DEFLINE_PARM PARM_NAME="mysql_query_settings_group" PARM_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="mysql_sql_statement_wwjd" PARM_VALUE=""/>
+#!     <DEFLINE_PARM PARM_NAME="mysql_query_settings_group" PARM_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="mysql_sql_where_clause_wwjd" PARM_VALUE=""/>
 #! </FEATURE_TYPE>
 #! <FEATURE_TYPE
@@ -1986,8 +1986,8 @@
 #!     <FEAT_ATTRIBUTE ATTR_NAME="accessscope_id" ATTR_TYPE="int" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="access" ATTR_TYPE="int" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="asset_id" ATTR_TYPE="int" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <DEFLINE_PARM PARM_NAME="mysql_query_settings_group" PARM_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="mysql_sql_statement_wwjd" PARM_VALUE=""/>
+#!     <DEFLINE_PARM PARM_NAME="mysql_query_settings_group" PARM_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="mysql_sql_where_clause_wwjd" PARM_VALUE=""/>
 #! </FEATURE_TYPE>
 #! <FEATURE_TYPE
@@ -2009,15 +2009,15 @@
 #! >
 #!     <FEAT_ATTRIBUTE ATTR_NAME="resource_id" ATTR_TYPE="int" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="fme_where" ATTR_TYPE="char(254)"  EXPOSABLE_ATTR="true" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <DEFLINE_PARM PARM_NAME="mysql_tblcreateparam_group" PARM_VALUE=""/>
-#!     <DEFLINE_PARM PARM_NAME="mysql_layer_group" PARM_VALUE=""/>
-#!     <DEFLINE_PARM PARM_NAME="mysql_mode" PARM_VALUE="INHERIT_FROM_WRITER"/>
 #!     <DEFLINE_PARM PARM_NAME="mysql_ops_per_sql_stmt" PARM_VALUE="1000"/>
-#!     <DEFLINE_PARM PARM_NAME="mysql_truncate_table" PARM_VALUE="NO"/>
+#!     <DEFLINE_PARM PARM_NAME="mysql_tblcreateparam_group" PARM_VALUE=""/>
+#!     <DEFLINE_PARM PARM_NAME="mysql_mode" PARM_VALUE="INHERIT_FROM_WRITER"/>
 #!     <DEFLINE_PARM PARM_NAME="mysql_general_group" PARM_VALUE=""/>
+#!     <DEFLINE_PARM PARM_NAME="mysql_layer_group" PARM_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="mysql_drop_table" PARM_VALUE="NO"/>
-#!     <DEFLINE_PARM PARM_NAME="mysql_advanced_group" PARM_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="mysql_table_type" PARM_VALUE="MYISAM"/>
+#!     <DEFLINE_PARM PARM_NAME="mysql_advanced_group" PARM_VALUE=""/>
+#!     <DEFLINE_PARM PARM_NAME="mysql_truncate_table" PARM_VALUE="NO"/>
 #! </FEATURE_TYPE>
 #! <FEATURE_TYPE
 #!   IS_SOURCE="false"
@@ -2038,15 +2038,15 @@
 #! >
 #!     <FEAT_ATTRIBUTE ATTR_NAME="version_id" ATTR_TYPE="int" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="fme_where" ATTR_TYPE="char(254)"  EXPOSABLE_ATTR="true" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <DEFLINE_PARM PARM_NAME="mysql_tblcreateparam_group" PARM_VALUE=""/>
-#!     <DEFLINE_PARM PARM_NAME="mysql_layer_group" PARM_VALUE=""/>
-#!     <DEFLINE_PARM PARM_NAME="mysql_mode" PARM_VALUE="INHERIT_FROM_WRITER"/>
 #!     <DEFLINE_PARM PARM_NAME="mysql_ops_per_sql_stmt" PARM_VALUE="1000"/>
-#!     <DEFLINE_PARM PARM_NAME="mysql_truncate_table" PARM_VALUE="NO"/>
+#!     <DEFLINE_PARM PARM_NAME="mysql_tblcreateparam_group" PARM_VALUE=""/>
+#!     <DEFLINE_PARM PARM_NAME="mysql_mode" PARM_VALUE="INHERIT_FROM_WRITER"/>
 #!     <DEFLINE_PARM PARM_NAME="mysql_general_group" PARM_VALUE=""/>
+#!     <DEFLINE_PARM PARM_NAME="mysql_layer_group" PARM_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="mysql_drop_table" PARM_VALUE="NO"/>
-#!     <DEFLINE_PARM PARM_NAME="mysql_advanced_group" PARM_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="mysql_table_type" PARM_VALUE="MYISAM"/>
+#!     <DEFLINE_PARM PARM_NAME="mysql_advanced_group" PARM_VALUE=""/>
+#!     <DEFLINE_PARM PARM_NAME="mysql_truncate_table" PARM_VALUE="NO"/>
 #! </FEATURE_TYPE>
 #! <FEATURE_TYPE
 #!   IS_SOURCE="true"
@@ -2110,8 +2110,8 @@
 #!     <FEAT_ATTRIBUTE ATTR_NAME="DIREKTION" ATTR_TYPE="varchar2(50)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="ID_GEODBMETA" ATTR_TYPE="varchar2(36)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="UPDATED" ATTR_TYPE="timestamp" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <DEFLINE_PARM PARM_NAME="oracle_sql_encoded" PARM_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="oracle_reader_group" PARM_VALUE=""/>
+#!     <DEFLINE_PARM PARM_NAME="oracle_sql_encoded" PARM_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="oracle_where_clause_encoded" PARM_VALUE=""/>
 #! </FEATURE_TYPE>
 #! <FEATURE_TYPE
@@ -2199,8 +2199,8 @@
 #!     <FEAT_ATTRIBUTE ATTR_NAME="BEMERKUNG_DAT" ATTR_TYPE="varchar2(500)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="METHODIK_DOK" ATTR_TYPE="varchar2(250)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="QAREGELN" ATTR_TYPE="varchar2(1)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <DEFLINE_PARM PARM_NAME="oracle_sql_encoded" PARM_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="oracle_reader_group" PARM_VALUE=""/>
+#!     <DEFLINE_PARM PARM_NAME="oracle_sql_encoded" PARM_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="oracle_where_clause_encoded" PARM_VALUE=""/>
 #! </FEATURE_TYPE>
 #! <FEATURE_TYPE
@@ -2221,19 +2221,19 @@
 #!   SCHEMA_ATTRIBUTE_SOURCE="1"
 #! >
 #!     <FEAT_ATTRIBUTE ATTR_NAME="ID_KONTAKT1" ATTR_TYPE="number(38,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <DEFLINE_PARM PARM_NAME="fme_selection_method" PARM_VALUE="BUILDER"/>
-#!     <DEFLINE_PARM PARM_NAME="fme_configuration_group" PARM_VALUE=""/>
-#!     <DEFLINE_PARM PARM_NAME="oracle_sequenced_cols" PARM_VALUE=""/>
-#!     <DEFLINE_PARM PARM_NAME="oracle_sql_encoded" PARM_VALUE=""/>
-#!     <DEFLINE_PARM PARM_NAME="fme_where_builder_clause" PARM_VALUE="&lt;at&gt;Value&lt;openparen&gt;fme_where&lt;closeparen&gt;"/>
-#!     <DEFLINE_PARM PARM_NAME="oracle_params" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <DEFLINE_PARM PARM_NAME="fme_feature_operation" PARM_VALUE="MULTIPLE"/>
-#!     <DEFLINE_PARM PARM_NAME="fme_table_handling" PARM_VALUE="USE_EXISTING"/>
-#!     <DEFLINE_PARM PARM_NAME="oracle_advanced_group" PARM_VALUE=""/>
-#!     <DEFLINE_PARM PARM_NAME="fme_selection_group" PARM_VALUE="FME_DISCLOSURE_OPEN"/>
-#!     <DEFLINE_PARM PARM_NAME="fme_match_columns" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <DEFLINE_PARM PARM_NAME="fme_table_creation_group" PARM_VALUE=""/>
+#!     <DEFLINE_PARM PARM_NAME="fme_table_handling" PARM_VALUE="USE_EXISTING"/>
+#!     <DEFLINE_PARM PARM_NAME="fme_match_columns" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <DEFLINE_PARM PARM_NAME="fme_configuration_group" PARM_VALUE=""/>
+#!     <DEFLINE_PARM PARM_NAME="fme_feature_operation" PARM_VALUE="MULTIPLE"/>
+#!     <DEFLINE_PARM PARM_NAME="fme_selection_method" PARM_VALUE="BUILDER"/>
+#!     <DEFLINE_PARM PARM_NAME="oracle_sequenced_cols" PARM_VALUE=""/>
+#!     <DEFLINE_PARM PARM_NAME="fme_where_builder_clause" PARM_VALUE="&lt;at&gt;Value&lt;openparen&gt;fme_where&lt;closeparen&gt;"/>
+#!     <DEFLINE_PARM PARM_NAME="oracle_sql_encoded" PARM_VALUE=""/>
+#!     <DEFLINE_PARM PARM_NAME="fme_selection_group" PARM_VALUE="FME_DISCLOSURE_OPEN"/>
+#!     <DEFLINE_PARM PARM_NAME="oracle_params" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <DEFLINE_PARM PARM_NAME="fme_configuration_common_group" PARM_VALUE=""/>
+#!     <DEFLINE_PARM PARM_NAME="oracle_advanced_group" PARM_VALUE=""/>
 #! </FEATURE_TYPE>
 #! </FEATURE_TYPES>
 #! <FMESERVER>
@@ -2394,7 +2394,7 @@
 #!   BOUNDING_RECT="-51.3756 -37.6228 3763.91 2490.53"
 #!   STICKY="true"
 #!   COLOUR="0.866667,0.603922,0.247059"
-#!   CONTENTS="19 11 31 6 33 21 28 1 12 30 23 8 13 15 29 14 3 26 2 7 4 24 16 18 34 27 22 17 9 32 10 20 25 "
+#!   CONTENTS="31 3 17 11 12 7 20 21 10 26 4 28 30 9 14 27 23 24 18 1 2 8 16 22 15 29 25 33 34 19 13 6 32 "
 #! />
 #! <BOOKMARK
 #!   IDENTIFIER="35"
@@ -2404,7 +2404,7 @@
 #!   BOTTOM_RIGHT="3712.53 -4571.92"
 #!   BOUNDING_RECT="-45.1255 -2578.27 3757.66 1993.65"
 #!   STICKY="false"
-#!   COLOUR="0.294118,0.0627451,0.0823529"
+#!   COLOUR="0.294118,0.0627451,0.0784314"
 #!   CONTENTS=""
 #! />
 #! </BOOKMARKS>
@@ -2425,10 +2425,10 @@
 #!     <XFORM_ATTR ATTR_NAME="id" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="guid" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_PARM PARM_NAME="KEEP_LIST" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="KEEP_ATTRS" PARM_VALUE="guid,id"/>
-#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeKeeper"/>
+#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="KEEP_ATTRS" PARM_VALUE="guid,id"/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="8"
@@ -2445,10 +2445,10 @@
 #!     <FEAT_COLLAPSED COLLAPSED="0"/>
 #!     <XFORM_ATTR ATTR_NAME="version_id" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="guid_version" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="ATTR_TABLE" PARM_VALUE="id version_id RENAME_SET_DEFAULT  guid guid_version RENAME_SET_DEFAULT "/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeRenamer"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_TABLE" PARM_VALUE="id version_id RENAME_SET_DEFAULT  guid guid_version RENAME_SET_DEFAULT "/>
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTE_GRP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="10"
@@ -2466,10 +2466,10 @@
 #!     <XFORM_ATTR ATTR_NAME="id" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="guid" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_PARM PARM_NAME="KEEP_LIST" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="KEEP_ATTRS" PARM_VALUE="guid,id"/>
-#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeKeeper_2"/>
+#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="KEEP_ATTRS" PARM_VALUE="guid,id"/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="11"
@@ -2486,10 +2486,10 @@
 #!     <FEAT_COLLAPSED COLLAPSED="0"/>
 #!     <XFORM_ATTR ATTR_NAME="resource_id" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="guid_object" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="ATTR_TABLE" PARM_VALUE="id resource_id RENAME_SET_DEFAULT  guid guid_object RENAME_SET_DEFAULT "/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeRenamer_2"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_TABLE" PARM_VALUE="id resource_id RENAME_SET_DEFAULT  guid guid_object RENAME_SET_DEFAULT "/>
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTE_GRP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="19"
@@ -2527,26 +2527,26 @@
 #!     <FEAT_COLLAPSED COLLAPSED="4"/>
 #!     <XFORM_ATTR ATTR_NAME="version_id" IS_USER_CREATED="false" FEAT_INDEX="4" />
 #!     <XFORM_ATTR ATTR_NAME="guid_version" IS_USER_CREATED="false" FEAT_INDEX="4" />
-#!     <XFORM_PARM PARM_NAME="JOIN_ATTRIBUTES_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="GENERATE_LIST_GROUP" PARM_VALUE="NO"/>
-#!     <XFORM_PARM PARM_NAME="CONNECT_Z_MODE" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="REJECT_NULL_MISSING_KEYS" PARM_VALUE="No"/>
-#!     <XFORM_PARM PARM_NAME="SUPPLIER_PREFIX" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="PROCESS_DUPS" PARM_VALUE="No"/>
-#!     <XFORM_PARM PARM_NAME="PARAMETERS" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="IGNORE_NULLS" PARM_VALUE="No"/>
-#!     <XFORM_PARM PARM_NAME="GROUP_BY" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="FeatureMerger"/>
-#!     <XFORM_PARM PARM_NAME="MERGE_TYPE" PARM_VALUE="Attributes Only"/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="MERGE_COUNT_ATTR" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="GEOM_TYPE" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="ATTR_ACCUM_MODE" PARM_VALUE="Merge Supplier"/>
-#!     <XFORM_PARM PARM_NAME="JOIN_KEYS" PARM_VALUE="&lt;at&gt;Value&lt;openparen&gt;guid_ver&lt;closeparen&gt; &lt;at&gt;Value&lt;openparen&gt;guid_version&lt;closeparen&gt; AUTO"/>
 #!     <XFORM_PARM PARM_NAME="SUPPLIERS_FIRST" PARM_VALUE="No"/>
-#!     <XFORM_PARM PARM_NAME="ATTR_CONFLICT_RES" PARM_VALUE="Use Requestor"/>
+#!     <XFORM_PARM PARM_NAME="GENERATE_LIST_GROUP" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="GEOM_TYPE" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="REJECT_NULL_MISSING_KEYS" PARM_VALUE="No"/>
+#!     <XFORM_PARM PARM_NAME="IGNORE_NULLS" PARM_VALUE="No"/>
+#!     <XFORM_PARM PARM_NAME="MERGE_COUNT_ATTR" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="PROCESS_DUPS" PARM_VALUE="No"/>
+#!     <XFORM_PARM PARM_NAME="GROUP_BY" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="PARAMETERS" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="SUPPLIER_PREFIX" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="LIST_NAME" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="MERGE_TYPE" PARM_VALUE="Attributes Only"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_ACCUM_MODE" PARM_VALUE="Merge Supplier"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_CONFLICT_RES" PARM_VALUE="Use Requestor"/>
+#!     <XFORM_PARM PARM_NAME="JOIN_ATTRIBUTES_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="FeatureMerger"/>
+#!     <XFORM_PARM PARM_NAME="JOIN_KEYS" PARM_VALUE="&lt;at&gt;Value&lt;openparen&gt;guid_ver&lt;closeparen&gt; &lt;at&gt;Value&lt;openparen&gt;guid_version&lt;closeparen&gt; AUTO"/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="ATTR_ACCUM_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="CONNECT_Z_MODE" PARM_VALUE="&lt;Unused&gt;"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="20"
@@ -2584,26 +2584,26 @@
 #!     <FEAT_COLLAPSED COLLAPSED="4"/>
 #!     <XFORM_ATTR ATTR_NAME="resource_id" IS_USER_CREATED="false" FEAT_INDEX="4" />
 #!     <XFORM_ATTR ATTR_NAME="guid_object" IS_USER_CREATED="false" FEAT_INDEX="4" />
-#!     <XFORM_PARM PARM_NAME="JOIN_ATTRIBUTES_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="GENERATE_LIST_GROUP" PARM_VALUE="NO"/>
-#!     <XFORM_PARM PARM_NAME="CONNECT_Z_MODE" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="REJECT_NULL_MISSING_KEYS" PARM_VALUE="No"/>
-#!     <XFORM_PARM PARM_NAME="SUPPLIER_PREFIX" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="PROCESS_DUPS" PARM_VALUE="No"/>
-#!     <XFORM_PARM PARM_NAME="PARAMETERS" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="IGNORE_NULLS" PARM_VALUE="No"/>
-#!     <XFORM_PARM PARM_NAME="GROUP_BY" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="FeatureMerger_2"/>
-#!     <XFORM_PARM PARM_NAME="MERGE_TYPE" PARM_VALUE="Attributes Only"/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="MERGE_COUNT_ATTR" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="GEOM_TYPE" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="ATTR_ACCUM_MODE" PARM_VALUE="Merge Supplier"/>
-#!     <XFORM_PARM PARM_NAME="JOIN_KEYS" PARM_VALUE="&lt;at&gt;Value&lt;openparen&gt;guid_obj&lt;closeparen&gt; &lt;at&gt;Value&lt;openparen&gt;guid_object&lt;closeparen&gt; AUTO"/>
 #!     <XFORM_PARM PARM_NAME="SUPPLIERS_FIRST" PARM_VALUE="No"/>
-#!     <XFORM_PARM PARM_NAME="ATTR_CONFLICT_RES" PARM_VALUE="Use Requestor"/>
+#!     <XFORM_PARM PARM_NAME="GENERATE_LIST_GROUP" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="GEOM_TYPE" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="REJECT_NULL_MISSING_KEYS" PARM_VALUE="No"/>
+#!     <XFORM_PARM PARM_NAME="IGNORE_NULLS" PARM_VALUE="No"/>
+#!     <XFORM_PARM PARM_NAME="MERGE_COUNT_ATTR" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="PROCESS_DUPS" PARM_VALUE="No"/>
+#!     <XFORM_PARM PARM_NAME="GROUP_BY" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="PARAMETERS" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="SUPPLIER_PREFIX" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="LIST_NAME" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="MERGE_TYPE" PARM_VALUE="Attributes Only"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_ACCUM_MODE" PARM_VALUE="Merge Supplier"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_CONFLICT_RES" PARM_VALUE="Use Requestor"/>
+#!     <XFORM_PARM PARM_NAME="JOIN_ATTRIBUTES_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="FeatureMerger_2"/>
+#!     <XFORM_PARM PARM_NAME="JOIN_KEYS" PARM_VALUE="&lt;at&gt;Value&lt;openparen&gt;guid_obj&lt;closeparen&gt; &lt;at&gt;Value&lt;openparen&gt;guid_object&lt;closeparen&gt; AUTO"/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="ATTR_ACCUM_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="CONNECT_Z_MODE" PARM_VALUE="&lt;Unused&gt;"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="25"
@@ -2624,13 +2624,13 @@
 #!     <XFORM_ATTR ATTR_NAME="version_id" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="guid_version" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="fme_where" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_PARM PARM_NAME="PARAM_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="StringConcatenator"/>
+#!     <XFORM_PARM PARM_NAME="VAL_ATTR" PARM_VALUE="fme_where"/>
 #!     <XFORM_PARM PARM_NAME="ACTION" PARM_VALUE="Create New Attribute"/>
 #!     <XFORM_PARM PARM_NAME="ATTRLIST" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="PARAM_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="PARM_LINE" PARM_VALUE="guid=&lt;apos&gt;&lt;at&gt;Value&lt;openparen&gt;guid_meta&lt;closeparen&gt;&lt;apos&gt;"/>
 #!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="VAL_ATTR" PARM_VALUE="fme_where"/>
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="StringConcatenator"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="27"
@@ -2651,13 +2651,13 @@
 #!     <XFORM_ATTR ATTR_NAME="resource_id" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="guid_object" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="fme_where" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_PARM PARM_NAME="PARAM_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="StringConcatenator_2"/>
+#!     <XFORM_PARM PARM_NAME="VAL_ATTR" PARM_VALUE="fme_where"/>
 #!     <XFORM_PARM PARM_NAME="ACTION" PARM_VALUE="Create New Attribute"/>
 #!     <XFORM_PARM PARM_NAME="ATTRLIST" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="PARAM_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="PARM_LINE" PARM_VALUE="guid=&lt;apos&gt;&lt;at&gt;Value&lt;openparen&gt;guid_ver&lt;closeparen&gt;&lt;apos&gt;"/>
 #!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="VAL_ATTR" PARM_VALUE="fme_where"/>
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="StringConcatenator_2"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="29"
@@ -2675,10 +2675,10 @@
 #!     <XFORM_ATTR ATTR_NAME="version_id" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="fme_where" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_PARM PARM_NAME="KEEP_LIST" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="KEEP_ATTRS" PARM_VALUE="fme_where,version_id"/>
-#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeKeeper_3"/>
+#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="KEEP_ATTRS" PARM_VALUE="fme_where,version_id"/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="30"
@@ -2696,10 +2696,10 @@
 #!     <XFORM_ATTR ATTR_NAME="resource_id" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="fme_where" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_PARM PARM_NAME="KEEP_LIST" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="KEEP_ATTRS" PARM_VALUE="fme_where,resource_id"/>
-#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeKeeper_4"/>
+#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="KEEP_ATTRS" PARM_VALUE="fme_where,resource_id"/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="40"
@@ -2717,10 +2717,10 @@
 #!     <XFORM_ATTR ATTR_NAME="ID_GEOPRODUKT" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="ID_KONTAKT5" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_PARM PARM_NAME="KEEP_LIST" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="KEEP_ATTRS" PARM_VALUE="ID_GEOPRODUKT,ID_KONTAKT5"/>
-#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeKeeper_5"/>
+#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="KEEP_ATTRS" PARM_VALUE="ID_GEOPRODUKT,ID_KONTAKT5"/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="42"
@@ -2738,10 +2738,10 @@
 #!     <XFORM_ATTR ATTR_NAME="ID_KONTAKT" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="ID_KONTAKT1" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_PARM PARM_NAME="KEEP_LIST" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="KEEP_ATTRS" PARM_VALUE="ID_KONTAKT1,ID_KONTAKT"/>
-#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeKeeper_6"/>
+#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="KEEP_ATTRS" PARM_VALUE="ID_KONTAKT1,ID_KONTAKT"/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="44"
@@ -2758,18 +2758,18 @@
 #!     <FEAT_COLLAPSED COLLAPSED="0"/>
 #!     <XFORM_ATTR ATTR_NAME="kontakte_ID_KONTAKT" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="kontakte_ID_KONTAKT1" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="BulkAttributeRenamer"/>
 #!     <XFORM_PARM PARM_NAME="ATTRCHOICE" PARM_VALUE="All Attributes"/>
-#!     <XFORM_PARM PARM_NAME="MODE_CHOICE" PARM_VALUE="RENAME"/>
 #!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="ATTRLIST" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="ATTRS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="CASE_CHANGE_TYPE" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="PATTERN_ACTION_DISP" PARM_VALUE="ADDPREFIX"/>
+#!     <XFORM_PARM PARM_NAME="MODE_CHOICE" PARM_VALUE="RENAME"/>
 #!     <XFORM_PARM PARM_NAME="REPLACE_PATTERN" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="ATTRLIST" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="REPLACE_STR" PARM_VALUE="kontakte_"/>
 #!     <XFORM_PARM PARM_NAME="CASE_DISP" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="CASE_CHANGE_TYPE" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="ATTRS_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="PATTERN_ACTION_DISP" PARM_VALUE="ADDPREFIX"/>
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="BulkAttributeRenamer"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="47"
@@ -2805,26 +2805,26 @@
 #!     <FEAT_COLLAPSED COLLAPSED="4"/>
 #!     <XFORM_ATTR ATTR_NAME="kontakte_ID_KONTAKT" IS_USER_CREATED="false" FEAT_INDEX="4" />
 #!     <XFORM_ATTR ATTR_NAME="kontakte_ID_KONTAKT1" IS_USER_CREATED="false" FEAT_INDEX="4" />
-#!     <XFORM_PARM PARM_NAME="JOIN_ATTRIBUTES_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="GENERATE_LIST_GROUP" PARM_VALUE="NO"/>
-#!     <XFORM_PARM PARM_NAME="CONNECT_Z_MODE" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="REJECT_NULL_MISSING_KEYS" PARM_VALUE="No"/>
-#!     <XFORM_PARM PARM_NAME="SUPPLIER_PREFIX" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="PROCESS_DUPS" PARM_VALUE="No"/>
-#!     <XFORM_PARM PARM_NAME="PARAMETERS" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="IGNORE_NULLS" PARM_VALUE="No"/>
-#!     <XFORM_PARM PARM_NAME="GROUP_BY" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="FeatureMerger_3"/>
-#!     <XFORM_PARM PARM_NAME="MERGE_TYPE" PARM_VALUE="Attributes Only"/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="MERGE_COUNT_ATTR" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="GEOM_TYPE" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="ATTR_ACCUM_MODE" PARM_VALUE="Merge Supplier"/>
-#!     <XFORM_PARM PARM_NAME="JOIN_KEYS" PARM_VALUE="&lt;at&gt;Value&lt;openparen&gt;ID_KONTAKT5&lt;closeparen&gt; &lt;at&gt;Value&lt;openparen&gt;kontakte_ID_KONTAKT&lt;closeparen&gt; AUTO"/>
 #!     <XFORM_PARM PARM_NAME="SUPPLIERS_FIRST" PARM_VALUE="No"/>
-#!     <XFORM_PARM PARM_NAME="ATTR_CONFLICT_RES" PARM_VALUE="Use Requestor"/>
+#!     <XFORM_PARM PARM_NAME="GENERATE_LIST_GROUP" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="GEOM_TYPE" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="REJECT_NULL_MISSING_KEYS" PARM_VALUE="No"/>
+#!     <XFORM_PARM PARM_NAME="IGNORE_NULLS" PARM_VALUE="No"/>
+#!     <XFORM_PARM PARM_NAME="MERGE_COUNT_ATTR" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="PROCESS_DUPS" PARM_VALUE="No"/>
+#!     <XFORM_PARM PARM_NAME="GROUP_BY" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="PARAMETERS" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="SUPPLIER_PREFIX" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="LIST_NAME" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="MERGE_TYPE" PARM_VALUE="Attributes Only"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_ACCUM_MODE" PARM_VALUE="Merge Supplier"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_CONFLICT_RES" PARM_VALUE="Use Requestor"/>
+#!     <XFORM_PARM PARM_NAME="JOIN_ATTRIBUTES_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="FeatureMerger_3"/>
+#!     <XFORM_PARM PARM_NAME="JOIN_KEYS" PARM_VALUE="&lt;at&gt;Value&lt;openparen&gt;ID_KONTAKT5&lt;closeparen&gt; &lt;at&gt;Value&lt;openparen&gt;kontakte_ID_KONTAKT&lt;closeparen&gt; AUTO"/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="ATTR_ACCUM_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="CONNECT_Z_MODE" PARM_VALUE="&lt;Unused&gt;"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="50"
@@ -2841,11 +2841,11 @@
 #!     <FEAT_COLLAPSED COLLAPSED="0"/>
 #!     <XFORM_ATTR ATTR_NAME="ID_GEOPRODUKT" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="kontakte_ID_KONTAKT1" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="REMOVE_ATTRS" PARM_VALUE="kontakte_ID_KONTAKT,ID_KONTAKT5"/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeRemover"/>
+#!     <XFORM_PARM PARM_NAME="REMOVE_ATTRS" PARM_VALUE="kontakte_ID_KONTAKT,ID_KONTAKT5"/>
 #!     <XFORM_PARM PARM_NAME="LIST_ATTRS" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="51"
@@ -2862,10 +2862,10 @@
 #!     <FEAT_COLLAPSED COLLAPSED="0"/>
 #!     <XFORM_ATTR ATTR_NAME="ID_KONTAKT1" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="ID_GEOPRODUKT" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="ATTR_TABLE" PARM_VALUE="kontakte_ID_KONTAKT1 ID_KONTAKT1 RENAME_SET_DEFAULT "/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeRenamer_3"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_TABLE" PARM_VALUE="kontakte_ID_KONTAKT1 ID_KONTAKT1 RENAME_SET_DEFAULT "/>
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTE_GRP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="53"
@@ -2883,16 +2883,16 @@
 #!     <XFORM_ATTR ATTR_NAME="ID_KONTAKT1" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="ID_GEOPRODUKT" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="ID_KONTAKT5" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="ATTR_TABLE" PARM_VALUE="&quot;&quot; ID_KONTAKT1 SET_TO "/>
-#!     <XFORM_PARM PARM_NAME="NUM_PRIOR_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="NUM_SUBSEQUENT_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="MULTI_FEATURE_MODE" PARM_VALUE="NO"/>
 #!     <XFORM_PARM PARM_NAME="NULL_ATTR_VALUE" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="ATTRIBUTE_HANDLING" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="NULL_ATTR_MODE_DISPLAY" PARM_VALUE="No Substitution"/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeCreator"/>
+#!     <XFORM_PARM PARM_NAME="ATTRIBUTE_HANDLING" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="NUM_PRIOR_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="NULL_ATTR_MODE_DISPLAY" PARM_VALUE="No Substitution"/>
+#!     <XFORM_PARM PARM_NAME="MULTI_FEATURE_MODE" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_TABLE" PARM_VALUE="&quot;&quot; ID_KONTAKT1 SET_TO "/>
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTE_GRP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="54"
@@ -2909,11 +2909,11 @@
 #!     <FEAT_COLLAPSED COLLAPSED="0"/>
 #!     <XFORM_ATTR ATTR_NAME="ID_KONTAKT1" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="ID_GEOPRODUKT" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="REMOVE_ATTRS" PARM_VALUE="ID_KONTAKT5"/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeRemover_2"/>
+#!     <XFORM_PARM PARM_NAME="REMOVE_ATTRS" PARM_VALUE="ID_KONTAKT5"/>
 #!     <XFORM_PARM PARM_NAME="LIST_ATTRS" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="63"
@@ -2932,16 +2932,16 @@
 #!     <XFORM_ATTR ATTR_NAME="fme_db_operation" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="ID_KONTAKT1" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="ID_GEOPRODUKT" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="ATTR_TABLE" PARM_VALUE="&quot;&quot; fme_where SET_TO ID_GEOPRODUKT=&lt;at&gt;Value&lt;openparen&gt;ID_GEOPRODUKT&lt;closeparen&gt;  fme_db_operation SET_TO UPDATE"/>
-#!     <XFORM_PARM PARM_NAME="NUM_PRIOR_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="NUM_SUBSEQUENT_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="MULTI_FEATURE_MODE" PARM_VALUE="NO"/>
 #!     <XFORM_PARM PARM_NAME="NULL_ATTR_VALUE" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="ATTRIBUTE_HANDLING" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="NULL_ATTR_MODE_DISPLAY" PARM_VALUE="No Substitution"/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeCreator_2"/>
+#!     <XFORM_PARM PARM_NAME="ATTRIBUTE_HANDLING" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="NUM_PRIOR_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="NULL_ATTR_MODE_DISPLAY" PARM_VALUE="No Substitution"/>
+#!     <XFORM_PARM PARM_NAME="MULTI_FEATURE_MODE" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_TABLE" PARM_VALUE="&quot;&quot; fme_where SET_TO ID_GEOPRODUKT=&lt;at&gt;Value&lt;openparen&gt;ID_GEOPRODUKT&lt;closeparen&gt;  fme_db_operation SET_TO UPDATE"/>
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTE_GRP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! </TRANSFORMERS>
 #! <FEAT_LINKS>
@@ -3603,13 +3603,6 @@ ORACLE_NONSPATIAL_2_DATASET "$(DestDataset_ORACLE_NONSPATIAL_2)"
 
 #! END_HEADER
 
-WRITER_TYPE NULL
-WRITER_KEYWORD WBROUTER_OUT
-WBROUTER_OUT_DATASET null
-
-LOG_END_BANNER 
-LOG_END_BANNER *** All writer output has been redirected to the Inspector application ***
-LOG_END_BANNER 
 LOG_FILENAME "$(LOGFILE)"
 LOG_APPEND NO
 LOG_MAX_FEATURES 200
@@ -3648,15 +3641,9 @@ MACRO WORKSPACE_NAME CobraSync_PostProcessing
 MACRO FME_VIEWER_APP fmedatainspector
 # -------------------------------------------------------------------------
 
-INCLUDE [ if {[info exists env(FME_TEMP)] && [file isdirectory $env(FME_TEMP)]} {set gVisualizerTemp $env(FME_TEMP)}  elseif {[info exists env(TEMP)] && [file isdirectory $env(TEMP)]}  {set gVisualizerTemp $env(TEMP)}  elseif { $tcl_platform(platform) == "unix" } {set gVisualizerTemp "/tmp"} else {set gVisualizerTemp c:};  regsub -all {[ ,&]} {$(WORKSPACE_NAME)} {_} wsname; set gVisualizerTemp $gVisualizerTemp/${wsname}_[clock format [clock seconds] -format %H%M%S];  puts "MACRO WORKSPACE_TEMP_DIR $gVisualizerTemp"; 
-MACRO VISUALIZER_FEATURE_FILE $(WORKSPACE_TEMP_DIR)/inspector.ffs
-MACRO VISUALIZER_SCHEMA_FILE $(WORKSPACE_TEMP_DIR)/inspector.fsc
-MACRO VISUALIZER_CREATE_SPATIAL_INDEX YES
-# -------------------------------------------------------------------------
-
-FACTORY_DEF * RoutingFactory   FACTORY_NAME "Router and Unexpected Input Remover"   COMMAND_PARM_EVALUATION SINGLE_PASS   INPUT FEATURE_TYPE *    ROUTE MYSQL_DB MYSQL_DB_1::jos_sdi_version multi_reader_keyword,$(DATASET_KEYWORD_MYSQL_DB_1) TO FME_GENERIC ::jos_sdi_version ALIAS_GEOMETRY    ROUTE MYSQL_DB MYSQL_DB_1::jos_sdi_resource multi_reader_keyword,$(DATASET_KEYWORD_MYSQL_DB_1) TO FME_GENERIC ::jos_sdi_resource ALIAS_GEOMETRY    ROUTE FFS FFS_1::GUIDCOL multi_reader_keyword,$(DATASET_KEYWORD_FFS_1) TO FME_GENERIC ::GUIDCOL ALIAS_GEOMETRY    ROUTE ORACLE_NONSPATIAL ORACLE_NONSPATIAL_1::GDBP.GEOPRODUKTE multi_reader_keyword,$(DATASET_KEYWORD_ORACLE_NONSPATIAL_1) TO FME_GENERIC ::GDBP.GEOPRODUKTE ALIAS_GEOMETRY    ROUTE ORACLE_NONSPATIAL ORACLE_NONSPATIAL_1::GDBP.KONTAKTE multi_reader_keyword,$(DATASET_KEYWORD_ORACLE_NONSPATIAL_1) TO FME_GENERIC ::GDBP.KONTAKTE ALIAS_GEOMETRY    MERGE_INPUT Yes   OUTPUT ROUTED FEATURE_TYPE *
-MYSQL_DB_1_MERGE_DEF MYSQL_DB_1::jos_sdi_version EXACT jos_sdi_version DEFLINE mysql_type,mysql_none,mysql_sql_where_clause_wwjd,,mysql_sql_statement_wwjd,,id,int,guid,varchar<openparen>36<closeparen>,alias,varchar<openparen>50<closeparen>,created_by,int,created,datetime,modified_by,int,modified,datetime,ordering,int,state,tinyint,checked_out,int,checked_out_time,datetime,name,varchar<openparen>255<closeparen>,resource_id,int,access,int,asset_id,int
+FACTORY_DEF * RoutingFactory   FACTORY_NAME "Router and Unexpected Input Remover"   COMMAND_PARM_EVALUATION SINGLE_PASS   INPUT FEATURE_TYPE *    ROUTE MYSQL_DB MYSQL_DB_1::jos_sdi_resource multi_reader_keyword,$(DATASET_KEYWORD_MYSQL_DB_1) TO FME_GENERIC ::jos_sdi_resource ALIAS_GEOMETRY    ROUTE MYSQL_DB MYSQL_DB_1::jos_sdi_version multi_reader_keyword,$(DATASET_KEYWORD_MYSQL_DB_1) TO FME_GENERIC ::jos_sdi_version ALIAS_GEOMETRY    ROUTE FFS FFS_1::GUIDCOL multi_reader_keyword,$(DATASET_KEYWORD_FFS_1) TO FME_GENERIC ::GUIDCOL ALIAS_GEOMETRY    ROUTE ORACLE_NONSPATIAL ORACLE_NONSPATIAL_1::GDBP.GEOPRODUKTE multi_reader_keyword,$(DATASET_KEYWORD_ORACLE_NONSPATIAL_1) TO FME_GENERIC ::GDBP.GEOPRODUKTE ALIAS_GEOMETRY    ROUTE ORACLE_NONSPATIAL ORACLE_NONSPATIAL_1::GDBP.KONTAKTE multi_reader_keyword,$(DATASET_KEYWORD_ORACLE_NONSPATIAL_1) TO FME_GENERIC ::GDBP.KONTAKTE ALIAS_GEOMETRY    MERGE_INPUT Yes   OUTPUT ROUTED FEATURE_TYPE *
 MYSQL_DB_1_MERGE_DEF MYSQL_DB_1::jos_sdi_resource EXACT jos_sdi_resource DEFLINE mysql_type,mysql_none,mysql_sql_where_clause_wwjd,,mysql_sql_statement_wwjd,,id,int,guid,varchar<openparen>36<closeparen>,alias,varchar<openparen>50<closeparen>,created_by,int,created,datetime,modified_by,int,modified,datetime,ordering,int,state,tinyint,checked_out,int,checked_out_time,datetime,name,varchar<openparen>255<closeparen>,description,varchar<openparen>500<closeparen>,organism_id,int,resourcetype_id,int,accessscope_id,int,access,int,asset_id,int
+MYSQL_DB_1_MERGE_DEF MYSQL_DB_1::jos_sdi_version EXACT jos_sdi_version DEFLINE mysql_type,mysql_none,mysql_sql_where_clause_wwjd,,mysql_sql_statement_wwjd,,id,int,guid,varchar<openparen>36<closeparen>,alias,varchar<openparen>50<closeparen>,created_by,int,created,datetime,modified_by,int,modified,datetime,ordering,int,state,tinyint,checked_out,int,checked_out_time,datetime,name,varchar<openparen>255<closeparen>,resource_id,int,access,int,asset_id,int
 FFS_1_MERGE_DEF FFS_1::GUIDCOL EXACT GUIDCOL
 ORACLE_NONSPATIAL_1_MERGE_DEF ORACLE_NONSPATIAL_1::GDBP.GEOPRODUKTE EXACT GDBP.GEOPRODUKTE DEFLINE 
 ORACLE_NONSPATIAL_1_MERGE_DEF ORACLE_NONSPATIAL_1::GDBP.KONTAKTE EXACT GDBP.KONTAKTE DEFLINE 
@@ -3668,25 +3655,25 @@ FACTORY_DEF * TeeFactory    FACTORY_NAME "GDBP.GEOPRODUKTE (ORACLE_NONSPATIAL_1)
 FACTORY_DEF * TeeFactory    FACTORY_NAME "GDBP.KONTAKTE (ORACLE_NONSPATIAL_1) Splitter"    INPUT FEATURE_TYPE GDBP.KONTAKTE    OUTPUT FEATURE_TYPE GDBP.KONTAKTE_ORACLE_NONSPATIAL_1
 # -------------------------------------------------------------------------
 
-FACTORY_DEF * TeeFactory    FACTORY_NAME "jos_sdi_version (MYSQL_DB_1) Splitter"    INPUT FEATURE_TYPE jos_sdi_version    OUTPUT FEATURE_TYPE jos_sdi_version_MYSQL_DB_1
+FACTORY_DEF * TeeFactory    FACTORY_NAME "GUIDCOL (FFS_1) Splitter"    INPUT FEATURE_TYPE GUIDCOL    OUTPUT FEATURE_TYPE GUIDCOL_FFS_1_0_Guusmovh3g4=    OUTPUT FEATURE_TYPE GUIDCOL_FFS_1_1_pu1tF5+d/Uk=
 # -------------------------------------------------------------------------
 
 FACTORY_DEF * TeeFactory    FACTORY_NAME "jos_sdi_resource (MYSQL_DB_1) Splitter"    INPUT FEATURE_TYPE jos_sdi_resource    OUTPUT FEATURE_TYPE jos_sdi_resource_MYSQL_DB_1
 # -------------------------------------------------------------------------
 
-FACTORY_DEF * TeeFactory    FACTORY_NAME "GUIDCOL (FFS_1) Splitter"    INPUT FEATURE_TYPE GUIDCOL    OUTPUT FEATURE_TYPE GUIDCOL_FFS_1_0_Guusmovh3g4=    OUTPUT FEATURE_TYPE GUIDCOL_FFS_1_1_pu1tF5+d/Uk=
+FACTORY_DEF * TeeFactory    FACTORY_NAME "jos_sdi_version (MYSQL_DB_1) Splitter"    INPUT FEATURE_TYPE jos_sdi_version    OUTPUT FEATURE_TYPE jos_sdi_version_MYSQL_DB_1
 DEFAULT_MACRO WB_CURRENT_CONTEXT
 # -------------------------------------------------------------------------
 
-INCLUDE [    set macroLine "MACRO AttributeKeeper_5_2961bd1e_1fbc_49f8_9167_aca78b98c7651_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
+INCLUDE [    set macroLine "MACRO AttributeKeeper_5_3539d9c9_13b5_4e65_823a_f504bcfcac570_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
 
-FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeKeeper_5    INPUT  FEATURE_TYPE GDBP.GEOPRODUKTE_ORACLE_NONSPATIAL_1    OUTPUT FEATURE_TYPE AttributeKeeper_5_OUTPUT        @KeepAttributes(fme_encoded,ID_GEOPRODUKT,ID_KONTAKT5,fme_pcre_match,"^fme_$(AttributeKeeper_5_2961bd1e_1fbc_49f8_9167_aca78b98c7651_LIST_EXP)")
+FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeKeeper_5    INPUT  FEATURE_TYPE GDBP.GEOPRODUKTE_ORACLE_NONSPATIAL_1    OUTPUT FEATURE_TYPE AttributeKeeper_5_OUTPUT        @KeepAttributes(fme_encoded,ID_GEOPRODUKT,ID_KONTAKT5,fme_pcre_match,"^fme_$(AttributeKeeper_5_3539d9c9_13b5_4e65_823a_f504bcfcac570_LIST_EXP)")
 
 # -------------------------------------------------------------------------
 
-INCLUDE [    set macroLine "MACRO AttributeKeeper_6_89a5f204_9ee2_4092_bdf2_1d5b7c135f671_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
+INCLUDE [    set macroLine "MACRO AttributeKeeper_6_e0350703_c35b_4301_98b3_21994b4927360_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
 
-FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeKeeper_6    INPUT  FEATURE_TYPE GDBP.KONTAKTE_ORACLE_NONSPATIAL_1    OUTPUT FEATURE_TYPE AttributeKeeper_6_OUTPUT        @KeepAttributes(fme_encoded,ID_KONTAKT1,ID_KONTAKT,fme_pcre_match,"^fme_$(AttributeKeeper_6_89a5f204_9ee2_4092_bdf2_1d5b7c135f671_LIST_EXP)")
+FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeKeeper_6    INPUT  FEATURE_TYPE GDBP.KONTAKTE_ORACLE_NONSPATIAL_1    OUTPUT FEATURE_TYPE AttributeKeeper_6_OUTPUT        @KeepAttributes(fme_encoded,ID_KONTAKT1,ID_KONTAKT,fme_pcre_match,"^fme_$(AttributeKeeper_6_e0350703_c35b_4301_98b3_21994b4927360_LIST_EXP)")
 
 # -------------------------------------------------------------------------
 
@@ -3724,9 +3711,9 @@ FACTORY_DEF * AttrSetFactory    FACTORY_NAME AttributeCreator_2    INPUT  FEATUR
 
 # -------------------------------------------------------------------------
 
-INCLUDE [    set macroLine "MACRO AttributeKeeper_2_e442a1b8_e7c8_4daa_8754_9027d35e03621_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
+INCLUDE [    set macroLine "MACRO AttributeKeeper_2_32f1528e_f30e_421e_b565_6e3c47ac6cb70_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
 
-FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeKeeper_2    INPUT  FEATURE_TYPE jos_sdi_resource_MYSQL_DB_1    OUTPUT FEATURE_TYPE AttributeKeeper_2_OUTPUT        @KeepAttributes(fme_encoded,guid,id,fme_pcre_match,"^fme_$(AttributeKeeper_2_e442a1b8_e7c8_4daa_8754_9027d35e03621_LIST_EXP)")
+FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeKeeper_2    INPUT  FEATURE_TYPE jos_sdi_resource_MYSQL_DB_1    OUTPUT FEATURE_TYPE AttributeKeeper_2_OUTPUT        @KeepAttributes(fme_encoded,guid,id,fme_pcre_match,"^fme_$(AttributeKeeper_2_32f1528e_f30e_421e_b565_6e3c47ac6cb70_LIST_EXP)")
 
 # -------------------------------------------------------------------------
 
@@ -3747,15 +3734,15 @@ FACTORY_DEF * TeeFactory    FACTORY_NAME StringConcatenator_2    INPUT  FEATURE_
 
 # -------------------------------------------------------------------------
 
-INCLUDE [    set macroLine "MACRO AttributeKeeper_4_f9bb797d_657c_4293_af40_7c0bc9aaa8461_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
+INCLUDE [    set macroLine "MACRO AttributeKeeper_4_e16a22da_f671_4858_be8f_3d71a9575a2e0_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
 
-FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeKeeper_4    INPUT  FEATURE_TYPE StringConcatenator_2_OUTPUT    OUTPUT FEATURE_TYPE AttributeKeeper_4_OUTPUT        @KeepAttributes(fme_encoded,fme_where,resource_id,fme_pcre_match,"^fme_$(AttributeKeeper_4_f9bb797d_657c_4293_af40_7c0bc9aaa8461_LIST_EXP)")
+FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeKeeper_4    INPUT  FEATURE_TYPE StringConcatenator_2_OUTPUT    OUTPUT FEATURE_TYPE AttributeKeeper_4_OUTPUT        @KeepAttributes(fme_encoded,fme_where,resource_id,fme_pcre_match,"^fme_$(AttributeKeeper_4_e16a22da_f671_4858_be8f_3d71a9575a2e0_LIST_EXP)")
 
 # -------------------------------------------------------------------------
 
-INCLUDE [    set macroLine "MACRO AttributeKeeper_219775f1_1041_47b4_8d15_992174678f2e1_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
+INCLUDE [    set macroLine "MACRO AttributeKeeper_a5742878_e07f_4305_9a9b_3fbd69139b230_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
 
-FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeKeeper    INPUT  FEATURE_TYPE jos_sdi_version_MYSQL_DB_1    OUTPUT FEATURE_TYPE AttributeKeeper_OUTPUT        @KeepAttributes(fme_encoded,guid,id,fme_pcre_match,"^fme_$(AttributeKeeper_219775f1_1041_47b4_8d15_992174678f2e1_LIST_EXP)")
+FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeKeeper    INPUT  FEATURE_TYPE jos_sdi_version_MYSQL_DB_1    OUTPUT FEATURE_TYPE AttributeKeeper_OUTPUT        @KeepAttributes(fme_encoded,guid,id,fme_pcre_match,"^fme_$(AttributeKeeper_a5742878_e07f_4305_9a9b_3fbd69139b230_LIST_EXP)")
 
 # -------------------------------------------------------------------------
 
@@ -3776,162 +3763,20 @@ FACTORY_DEF * TeeFactory    FACTORY_NAME StringConcatenator    INPUT  FEATURE_TY
 
 # -------------------------------------------------------------------------
 
-INCLUDE [    set macroLine "MACRO AttributeKeeper_3_0e20d246_b212_4682_abba_f39d01f343951_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
+INCLUDE [    set macroLine "MACRO AttributeKeeper_3_0a9b8eb8_25cd_461d_a944_29de342abac50_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
 
-FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeKeeper_3    INPUT  FEATURE_TYPE StringConcatenator_OUTPUT    OUTPUT FEATURE_TYPE AttributeKeeper_3_OUTPUT        @KeepAttributes(fme_encoded,fme_where,version_id,fme_pcre_match,"^fme_$(AttributeKeeper_3_0e20d246_b212_4682_abba_f39d01f343951_LIST_EXP)")
+FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeKeeper_3    INPUT  FEATURE_TYPE StringConcatenator_OUTPUT    OUTPUT FEATURE_TYPE AttributeKeeper_3_OUTPUT        @KeepAttributes(fme_encoded,fme_where,version_id,fme_pcre_match,"^fme_$(AttributeKeeper_3_0a9b8eb8_25cd_461d_a944_29de342abac50_LIST_EXP)")
 
 # -------------------------------------------------------------------------
 
-FACTORY_DEF * RoutingFactory FACTORY_NAME "Destination Feature Type Routing Correlator"   COMMAND_PARM_EVALUATION SINGLE_PASS   INPUT FEATURE_TYPE *    ROUTE FME_GENERIC AttributeCreator_2_OUTPUT TO ORACLE_NONSPATIAL __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,1,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>GDBP.GEOPRODUKTE<closeparen> GEOMETRY    ROUTE FME_GENERIC AttributeKeeper_4_OUTPUT TO MYSQL_DB __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,0,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>jos_sdi_version<closeparen> GEOMETRY    ROUTE FME_GENERIC AttributeKeeper_3_OUTPUT TO MYSQL_DB __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,0,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>jos_sdi_metadata<closeparen> GEOMETRY   FEATURE_TYPE_ATTRIBUTE __wb_out_feat_type__   OUTPUT ROUTED FEATURE_TYPE *    OUTPUT NOT_ROUTED FEATURE_TYPE __nuke_me__ @Tcl2("FME_StatMessage 818059 [FME_GetAttribute fme_template_feature_type] 818060 818061 fme_warn")
+FACTORY_DEF * RoutingFactory FACTORY_NAME "Destination Feature Type Routing Correlator"   COMMAND_PARM_EVALUATION SINGLE_PASS   INPUT FEATURE_TYPE *    ROUTE FME_GENERIC AttributeCreator_2_OUTPUT TO ORACLE_NONSPATIAL __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,1,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>GDBP.GEOPRODUKTE<closeparen> GEOMETRY    ROUTE FME_GENERIC AttributeKeeper_3_OUTPUT TO MYSQL_DB __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,0,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>jos_sdi_metadata<closeparen> GEOMETRY    ROUTE FME_GENERIC AttributeKeeper_4_OUTPUT TO MYSQL_DB __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,0,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>jos_sdi_version<closeparen> GEOMETRY   FEATURE_TYPE_ATTRIBUTE __wb_out_feat_type__   OUTPUT ROUTED FEATURE_TYPE *    OUTPUT NOT_ROUTED FEATURE_TYPE __nuke_me__ @Tcl2("FME_StatMessage 818059 [FME_GetAttribute fme_template_feature_type] 818060 818061 fme_warn")
 # -------------------------------------------------------------------------
 
 FACTORY_DEF * TeeFactory   FACTORY_NAME "Final Output Nuker"   INPUT FEATURE_TYPE __nuke_me__
 
-
-# Set the directive to add all the meta-attributes to the features.
-# We do this so users see all possible information in the viewed
-# features.
-
-READER_META_ATTRIBUTES fme_feature_type fme_dataset fme_basename
-# Assumption is that the workspace temp dir has been already set and created.  See controldefs.cpp - ControlDefs::writeVisualizerTempDir
-DEFAULT_MACRO WORKSPACE_TEMP_DIR
-INCLUDE [         set grpByAttrs {};         if { [string length $grpByAttrs] > 0 } {             if { [string first "@EvaluateExpression" $grpByAttrs] == 0 } {                 puts "MACRO CATMAC _$grpByAttrs" ;             } else {                set catter "" ;                set comma "" ;                foreach attr $grpByAttrs {                    set catter "$catter$comma@Value(\"$attr\")" ;                    set comma ",_," ;                } ;                puts "MACRO CATMAC _@Concatenate($catter)" ;             }         }         else {             puts "MACRO CATMAC " ;         };         set safeName "[regsub -all {[^a-zA-Z0-9]} {GDBP.GEOPRODUKTE} _]_[expr round(rand() * 1000000)]_[clock clicks  -milliseconds]";         puts "MACRO SAFE_FFS_NAME $safeName";         ]
-# Make the temporary directory that the FFS files will live in.
-FACTORY_DEF * CreationFactory      FACTORY_NAME GDBP.GEOPRODUKTE_DirCreator      OUTPUT FEATURE_TYPE __nukeme__          @Tcl2("catch {file mkdir {$(WORKSPACE_TEMP_DIR)}}")
-FACTORY_DEF * TeeFactory    FACTORY_NAME GDBP.GEOPRODUKTE_DirCreatorCleanerUpper    INPUT FEATURE_TYPE __nukeme__
-# Send raster, point cloud and vector features down different paths to prepare
-# them for viewing
-
-FACTORY_DEF * TestFactory    FACTORY_NAME GDBP.GEOPRODUKTE_FeatureDirector    INPUT  FEATURE_TYPE GDBP.GEOPRODUKTE    TEST &fme_type == "fme_raster"    OUTPUT FAILED FEATURE_TYPE GDBP.GEOPRODUKTE___NotRasterFeatures___    OUTPUT PASSED FEATURE_TYPE GDBP.GEOPRODUKTE___RasterFeatures___
-FACTORY_DEF * TestFactory    FACTORY_NAME GDBP.GEOPRODUKTE___FeatureDirector1    INPUT FEATURE_TYPE GDBP.GEOPRODUKTE___NotRasterFeatures___    TEST &fme_type == "fme_point_cloud"    OUTPUT FAILED FEATURE_TYPE GDBP.GEOPRODUKTE___VectorFeatures___    OUTPUT PASSED FEATURE_TYPE GDBP.GEOPRODUKTE___PointCloudFeatures___
-# Vector features simply may get their colors overridden
-
-FACTORY_DEF * TeeFactory    FACTORY_NAME GDBP.GEOPRODUKTE_VectorSetterUpper    INPUT FEATURE_TYPE GDBP.GEOPRODUKTE___VectorFeatures___    OUTPUT FEATURE_TYPE __viewme__
-# Point Cloud Features Might Need to be thinned
-
-# Note that we don't call the ThinPointCloud function directly, but rather
-# do it through TCL. This should allow this transformer to be used with a
-# Desktop license, even though ThinPointCloud requires Professional.
-
-Tcl2 proc GDBP.GEOPRODUKTE_9a9067e5_e07f_47c5_9142_00a2febfbd910_thinPointCloud {} {    if {[string equal {NO_THINNING} {KEEPNPOINT}]}    {       FME_Execute ThinPointCloud NO_THINNING "\"<Unused>\"";    }    elseif {[string equal {NO_THINNING} {MAXNUMPOINTS}]}    {       FME_Execute ThinPointCloud NO_THINNING "\"<Unused>\"";    }    elseif {[string equal {NO_THINNING} {FIRSTNPOINTS}]}    {       FME_Execute ThinPointCloud NO_THINNING "\"<Unused>\"";    }    elseif {[string equal {NO_THINNING} {LASTNPOINTS}]}    {       FME_Execute ThinPointCloud NO_THINNING "\"<Unused>\"";    }; }
-FACTORY_DEF * TeeFactory    FACTORY_NAME GDBP.GEOPRODUKTE___PointCloudThinner    INPUT FEATURE_TYPE GDBP.GEOPRODUKTE___PointCloudFeatures___    OUTPUT FEATURE_TYPE __viewme__       @Tcl2("GDBP.GEOPRODUKTE_9a9067e5_e07f_47c5_9142_00a2febfbd910_thinPointCloud")
-Tcl2 proc GDBP.GEOPRODUKTE_9a9067e5_e07f_47c5_9142_00a2febfbd910_prepareRaster {subsetStartRow subsetNumRows subsetStartCol subsetNumCols} {    set useDI [string equal -nocase {$(FME_VIEWER_APP)} {fmedatainspector}];    if {!$useDI} {       FME_Execute ApplyRasterRotation BILINEAR;    };    set doResample [string equal {NoReduction} {Resample}];    set doSubset [string equal {NoReduction} {Subset}];    set doBounds [string equal {NoReduction} {BoundingBoxOnly}];    if {$doBounds}  {       FME_Execute GeometryType fme_polygon;    }    elseif {$doResample || $doSubset} {       set comment {          First, we need to prefix all the attributes. This is done because          we are going to call @RasterProperties, and we want to make sure          it doesn't overwrite any existing attributes.       };       set kAttrPrefix ".";       set allNames [FME_AttributeNames];       foreach oldName $allNames {          set newName $kAttrPrefix;          append newName $oldName;          FME_RenameAttribute $newName $oldName;       };       FME_Execute RasterProperties RASTER;       if {$doResample} {          set oldNumCols [FME_GetAttribute _num_columns];          set oldNumRows [FME_GetAttribute _num_rows];          set oldSpacingX [FME_GetAttribute _spacing_x];          set oldSpacingY [FME_GetAttribute _spacing_y];          set kMinNumCells 32;          set kMaxNumCells 512;          set comment {             We will only resample if both dimensions are greater than the             minimum num cells, and at least one is greater than the maximum.          };          if {$oldNumRows > $kMinNumCells && $oldNumCols > $kMinNumCells && ($oldNumRows > $kMaxNumCells || $oldNumCols > $kMaxNumCells)} {             set newSpacingX 1.0;             set newSpacingY 1.0;             if {$oldNumRows > $oldNumCols} {                set comment {                   If we have more rows than columns, we need to choose a spacing                   that reduces the number of rows to the maximum we've chosen.                };                set newSpacingY [expr 1.0 * $oldNumRows * $oldSpacingY / $kMaxNumCells];                set newSpacingX [expr 1.0 * $newSpacingY / $oldSpacingY * $oldSpacingX];                set comment {                   Now we need to check if doing this will result in the columns                   going below the minimum. If so, choose the spacing such that                   we only go down to the minimum (and not past).                };                set newNumCols [expr $oldNumCols * $oldSpacingX / $newSpacingX];                if {$newNumCols < $kMinNumCells}                {                   set newSpacingX [expr 1.0 * $oldNumCols * $oldSpacingX / $kMinNumCells];                   set newSpacingY [expr 1.0 * $newSpacingX / $oldSpacingX * $oldSpacingY];                };             }             else {                set comment {                   This is identical to the above case, except the roles of                   rows and cols are reversed.                };                set newSpacingX [expr 1.0 * $oldNumCols * $oldSpacingX / $kMaxNumCells];                set newSpacingY [expr 1.0 * $newSpacingX / $oldSpacingX * $oldSpacingY];                set newNumRows [expr $oldNumRows * $oldSpacingY / $newSpacingY];                if {$newNumRows < $kMinNumCells}                {                   set newSpacingY [expr 1.0 * $oldNumRows * $oldSpacingY / $kMinNumCells];                   set newSpacingX [expr 1.0 * $newSpacingY / $oldSpacingY * $oldSpacingX];                };             };             FME_Execute ResampleRaster CELL_SIZE $newSpacingX $newSpacingY NearestNeighbor;          };       }       elseif {$doSubset} {          set comment {             Get the value of some strings that may be attributes or constants.             Note that we pass in the attribute prefix we're using, because if             one does turn out to be an attribute, it won't actually be the exact             name in the string (since we renamed all our attributes above).          };          set rasterNumRows [FME_GetAttribute _num_rows];          set rasterNumCols [FME_GetAttribute _num_columns];          set comment {             Only do subsetting if the specified start position is actually             within the raster.          };          if {$subsetStartRow < $rasterNumRows && $subsetStartCol < $rasterNumCols}          {             set comment {                Now bound the subset to the size of the raster, so that                we don't create padding.             };             if {[expr $subsetStartRow + $subsetNumRows] > $rasterNumRows}             {                set subsetNumRows [expr $rasterNumRows - $subsetStartRow];             };             if {[expr $subsetStartCol + $subsetNumCols] > $rasterNumCols}             {                set subsetNumCols [expr $rasterNumCols - $subsetStartCol];             };             FME_Execute SubsetRaster $subsetStartRow $subsetNumRows $subsetStartCol $subsetNumCols;          };       };       set comment {          Remove all the attributes added by @RasterProperties and remove the          prefix from the real attributes. We assume they all start with an          underscore.       };       FME_Execute RemoveAttributes fme_regexp_match {^_};       foreach oldName $allNames {          set newName $kAttrPrefix;          append newName $oldName;          FME_RenameAttribute $oldName $newName;       };    }; }
-FACTORY_DEF * TeeFactory    FACTORY_NAME GDBP.GEOPRODUKTE_RasterSetterUpper    INPUT FEATURE_TYPE GDBP.GEOPRODUKTE___RasterFeatures___    OUTPUT FEATURE_TYPE __viewme__       @Tcl2("GDBP.GEOPRODUKTE_9a9067e5_e07f_47c5_9142_00a2febfbd910_prepareRaster {<Unused>} {<Unused>} {<Unused>} {<Unused>}")
-# Now route all the features into the recorder, changing their
-# feature type to the transformer name so that they view nicely
-# GDBP.GEOPRODUKTE_9a9067e5_e07f_47c5_9142_00a2febfbd910_VIS_FEAT_TYPE changes the feature types
-# of the features being visualized.
-
-DEFAULT_MACRO GDBP.GEOPRODUKTE_9a9067e5_e07f_47c5_9142_00a2febfbd910_VIS_FEAT_TYPE GDBP.GEOPRODUKTE$(CATMAC)
-DEFAULT_MACRO VISUALIZER_FEATURE_FILE $(WORKSPACE_TEMP_DIR)/$(SAFE_FFS_NAME).ffs
-DEFAULT_MACRO VISUALIZER_CREATE_SPATIAL_INDEX NO
-# [PR#45549] The Data Inspector will limit the maximum number of features
-# it reads on WIN32, so we will correspondingly limit the number of
-# features we record here using the MAX_FEATURES_TO_RECORD directive.
-
-FACTORY_DEF * RecorderFactory    FACTORY_NAME GDBP.GEOPRODUKTE_Recorder    INPUT FEATURE_TYPE __viewme__  _wb_termination_feature Yes @FeatureType(TERMINATOR_@Value(_wb_termination_xformer))    INPUT FEATURE_TYPE __viewme__  @FeatureType($(GDBP.GEOPRODUKTE_9a9067e5_e07f_47c5_9142_00a2febfbd910_VIS_FEAT_TYPE))    FEATURE_FILE "$(VISUALIZER_FEATURE_FILE)"    CREATE_SPATIAL_INDEX "$(VISUALIZER_CREATE_SPATIAL_INDEX)"    INSPECTOR "$(VISUALIZER_CREATE_SPATIAL_INDEX)"    FSC_SCHEMA ID_KONTAKT1,varchar<openparen>255<closeparen>    MODE RECORD    RECORD_DIRECTLY_TO_DISK YES    MAX_FEATURES_TO_RECORD WIN32 2000000
-
-FACTORY_DEF * TeeFactory   FACTORY_NAME "GDBP.GEOPRODUKTE Output Nuker"   INPUT FEATURE_TYPE GDBP.GEOPRODUKTE
-
-# Set the directive to add all the meta-attributes to the features.
-# We do this so users see all possible information in the viewed
-# features.
-
-READER_META_ATTRIBUTES fme_feature_type fme_dataset fme_basename
-# Assumption is that the workspace temp dir has been already set and created.  See controldefs.cpp - ControlDefs::writeVisualizerTempDir
-DEFAULT_MACRO WORKSPACE_TEMP_DIR
-INCLUDE [         set grpByAttrs {};         if { [string length $grpByAttrs] > 0 } {             if { [string first "@EvaluateExpression" $grpByAttrs] == 0 } {                 puts "MACRO CATMAC _$grpByAttrs" ;             } else {                set catter "" ;                set comma "" ;                foreach attr $grpByAttrs {                    set catter "$catter$comma@Value(\"$attr\")" ;                    set comma ",_," ;                } ;                puts "MACRO CATMAC _@Concatenate($catter)" ;             }         }         else {             puts "MACRO CATMAC " ;         };         set safeName "[regsub -all {[^a-zA-Z0-9]} {jos_sdi_version} _]_[expr round(rand() * 1000000)]_[clock clicks  -milliseconds]";         puts "MACRO SAFE_FFS_NAME $safeName";         ]
-# Make the temporary directory that the FFS files will live in.
-FACTORY_DEF * CreationFactory      FACTORY_NAME jos_sdi_version_DirCreator      OUTPUT FEATURE_TYPE __nukeme__          @Tcl2("catch {file mkdir {$(WORKSPACE_TEMP_DIR)}}")
-FACTORY_DEF * TeeFactory    FACTORY_NAME jos_sdi_version_DirCreatorCleanerUpper    INPUT FEATURE_TYPE __nukeme__
-# Send raster, point cloud and vector features down different paths to prepare
-# them for viewing
-
-FACTORY_DEF * TestFactory    FACTORY_NAME jos_sdi_version_FeatureDirector    INPUT  FEATURE_TYPE jos_sdi_version    TEST &fme_type == "fme_raster"    OUTPUT FAILED FEATURE_TYPE jos_sdi_version___NotRasterFeatures___    OUTPUT PASSED FEATURE_TYPE jos_sdi_version___RasterFeatures___
-FACTORY_DEF * TestFactory    FACTORY_NAME jos_sdi_version___FeatureDirector1    INPUT FEATURE_TYPE jos_sdi_version___NotRasterFeatures___    TEST &fme_type == "fme_point_cloud"    OUTPUT FAILED FEATURE_TYPE jos_sdi_version___VectorFeatures___    OUTPUT PASSED FEATURE_TYPE jos_sdi_version___PointCloudFeatures___
-# Vector features simply may get their colors overridden
-
-FACTORY_DEF * TeeFactory    FACTORY_NAME jos_sdi_version_VectorSetterUpper    INPUT FEATURE_TYPE jos_sdi_version___VectorFeatures___    OUTPUT FEATURE_TYPE __viewme__
-# Point Cloud Features Might Need to be thinned
-
-# Note that we don't call the ThinPointCloud function directly, but rather
-# do it through TCL. This should allow this transformer to be used with a
-# Desktop license, even though ThinPointCloud requires Professional.
-
-Tcl2 proc jos_sdi_version_9a9067e5_e07f_47c5_9142_00a2febfbd911_thinPointCloud {} {    if {[string equal {NO_THINNING} {KEEPNPOINT}]}    {       FME_Execute ThinPointCloud NO_THINNING "\"<Unused>\"";    }    elseif {[string equal {NO_THINNING} {MAXNUMPOINTS}]}    {       FME_Execute ThinPointCloud NO_THINNING "\"<Unused>\"";    }    elseif {[string equal {NO_THINNING} {FIRSTNPOINTS}]}    {       FME_Execute ThinPointCloud NO_THINNING "\"<Unused>\"";    }    elseif {[string equal {NO_THINNING} {LASTNPOINTS}]}    {       FME_Execute ThinPointCloud NO_THINNING "\"<Unused>\"";    }; }
-FACTORY_DEF * TeeFactory    FACTORY_NAME jos_sdi_version___PointCloudThinner    INPUT FEATURE_TYPE jos_sdi_version___PointCloudFeatures___    OUTPUT FEATURE_TYPE __viewme__       @Tcl2("jos_sdi_version_9a9067e5_e07f_47c5_9142_00a2febfbd911_thinPointCloud")
-Tcl2 proc jos_sdi_version_9a9067e5_e07f_47c5_9142_00a2febfbd911_prepareRaster {subsetStartRow subsetNumRows subsetStartCol subsetNumCols} {    set useDI [string equal -nocase {$(FME_VIEWER_APP)} {fmedatainspector}];    if {!$useDI} {       FME_Execute ApplyRasterRotation BILINEAR;    };    set doResample [string equal {NoReduction} {Resample}];    set doSubset [string equal {NoReduction} {Subset}];    set doBounds [string equal {NoReduction} {BoundingBoxOnly}];    if {$doBounds}  {       FME_Execute GeometryType fme_polygon;    }    elseif {$doResample || $doSubset} {       set comment {          First, we need to prefix all the attributes. This is done because          we are going to call @RasterProperties, and we want to make sure          it doesn't overwrite any existing attributes.       };       set kAttrPrefix ".";       set allNames [FME_AttributeNames];       foreach oldName $allNames {          set newName $kAttrPrefix;          append newName $oldName;          FME_RenameAttribute $newName $oldName;       };       FME_Execute RasterProperties RASTER;       if {$doResample} {          set oldNumCols [FME_GetAttribute _num_columns];          set oldNumRows [FME_GetAttribute _num_rows];          set oldSpacingX [FME_GetAttribute _spacing_x];          set oldSpacingY [FME_GetAttribute _spacing_y];          set kMinNumCells 32;          set kMaxNumCells 512;          set comment {             We will only resample if both dimensions are greater than the             minimum num cells, and at least one is greater than the maximum.          };          if {$oldNumRows > $kMinNumCells && $oldNumCols > $kMinNumCells && ($oldNumRows > $kMaxNumCells || $oldNumCols > $kMaxNumCells)} {             set newSpacingX 1.0;             set newSpacingY 1.0;             if {$oldNumRows > $oldNumCols} {                set comment {                   If we have more rows than columns, we need to choose a spacing                   that reduces the number of rows to the maximum we've chosen.                };                set newSpacingY [expr 1.0 * $oldNumRows * $oldSpacingY / $kMaxNumCells];                set newSpacingX [expr 1.0 * $newSpacingY / $oldSpacingY * $oldSpacingX];                set comment {                   Now we need to check if doing this will result in the columns                   going below the minimum. If so, choose the spacing such that                   we only go down to the minimum (and not past).                };                set newNumCols [expr $oldNumCols * $oldSpacingX / $newSpacingX];                if {$newNumCols < $kMinNumCells}                {                   set newSpacingX [expr 1.0 * $oldNumCols * $oldSpacingX / $kMinNumCells];                   set newSpacingY [expr 1.0 * $newSpacingX / $oldSpacingX * $oldSpacingY];                };             }             else {                set comment {                   This is identical to the above case, except the roles of                   rows and cols are reversed.                };                set newSpacingX [expr 1.0 * $oldNumCols * $oldSpacingX / $kMaxNumCells];                set newSpacingY [expr 1.0 * $newSpacingX / $oldSpacingX * $oldSpacingY];                set newNumRows [expr $oldNumRows * $oldSpacingY / $newSpacingY];                if {$newNumRows < $kMinNumCells}                {                   set newSpacingY [expr 1.0 * $oldNumRows * $oldSpacingY / $kMinNumCells];                   set newSpacingX [expr 1.0 * $newSpacingY / $oldSpacingY * $oldSpacingX];                };             };             FME_Execute ResampleRaster CELL_SIZE $newSpacingX $newSpacingY NearestNeighbor;          };       }       elseif {$doSubset} {          set comment {             Get the value of some strings that may be attributes or constants.             Note that we pass in the attribute prefix we're using, because if             one does turn out to be an attribute, it won't actually be the exact             name in the string (since we renamed all our attributes above).          };          set rasterNumRows [FME_GetAttribute _num_rows];          set rasterNumCols [FME_GetAttribute _num_columns];          set comment {             Only do subsetting if the specified start position is actually             within the raster.          };          if {$subsetStartRow < $rasterNumRows && $subsetStartCol < $rasterNumCols}          {             set comment {                Now bound the subset to the size of the raster, so that                we don't create padding.             };             if {[expr $subsetStartRow + $subsetNumRows] > $rasterNumRows}             {                set subsetNumRows [expr $rasterNumRows - $subsetStartRow];             };             if {[expr $subsetStartCol + $subsetNumCols] > $rasterNumCols}             {                set subsetNumCols [expr $rasterNumCols - $subsetStartCol];             };             FME_Execute SubsetRaster $subsetStartRow $subsetNumRows $subsetStartCol $subsetNumCols;          };       };       set comment {          Remove all the attributes added by @RasterProperties and remove the          prefix from the real attributes. We assume they all start with an          underscore.       };       FME_Execute RemoveAttributes fme_regexp_match {^_};       foreach oldName $allNames {          set newName $kAttrPrefix;          append newName $oldName;          FME_RenameAttribute $oldName $newName;       };    }; }
-FACTORY_DEF * TeeFactory    FACTORY_NAME jos_sdi_version_RasterSetterUpper    INPUT FEATURE_TYPE jos_sdi_version___RasterFeatures___    OUTPUT FEATURE_TYPE __viewme__       @Tcl2("jos_sdi_version_9a9067e5_e07f_47c5_9142_00a2febfbd911_prepareRaster {<Unused>} {<Unused>} {<Unused>} {<Unused>}")
-# Now route all the features into the recorder, changing their
-# feature type to the transformer name so that they view nicely
-# jos_sdi_version_9a9067e5_e07f_47c5_9142_00a2febfbd911_VIS_FEAT_TYPE changes the feature types
-# of the features being visualized.
-
-DEFAULT_MACRO jos_sdi_version_9a9067e5_e07f_47c5_9142_00a2febfbd911_VIS_FEAT_TYPE jos_sdi_version$(CATMAC)
-DEFAULT_MACRO VISUALIZER_FEATURE_FILE $(WORKSPACE_TEMP_DIR)/$(SAFE_FFS_NAME).ffs
-DEFAULT_MACRO VISUALIZER_CREATE_SPATIAL_INDEX NO
-# [PR#45549] The Data Inspector will limit the maximum number of features
-# it reads on WIN32, so we will correspondingly limit the number of
-# features we record here using the MAX_FEATURES_TO_RECORD directive.
-
-FACTORY_DEF * RecorderFactory    FACTORY_NAME jos_sdi_version_Recorder    INPUT FEATURE_TYPE __viewme__  _wb_termination_feature Yes @FeatureType(TERMINATOR_@Value(_wb_termination_xformer))    INPUT FEATURE_TYPE __viewme__  @FeatureType($(jos_sdi_version_9a9067e5_e07f_47c5_9142_00a2febfbd911_VIS_FEAT_TYPE))    FEATURE_FILE "$(VISUALIZER_FEATURE_FILE)"    CREATE_SPATIAL_INDEX "$(VISUALIZER_CREATE_SPATIAL_INDEX)"    INSPECTOR "$(VISUALIZER_CREATE_SPATIAL_INDEX)"    FSC_SCHEMA resource_id,varchar<openparen>255<closeparen>,fme_where,varchar<openparen>255<closeparen>    MODE RECORD    RECORD_DIRECTLY_TO_DISK YES    MAX_FEATURES_TO_RECORD WIN32 2000000
-
-FACTORY_DEF * TeeFactory   FACTORY_NAME "jos_sdi_version Output Nuker"   INPUT FEATURE_TYPE jos_sdi_version
-
-# Set the directive to add all the meta-attributes to the features.
-# We do this so users see all possible information in the viewed
-# features.
-
-READER_META_ATTRIBUTES fme_feature_type fme_dataset fme_basename
-# Assumption is that the workspace temp dir has been already set and created.  See controldefs.cpp - ControlDefs::writeVisualizerTempDir
-DEFAULT_MACRO WORKSPACE_TEMP_DIR
-INCLUDE [         set grpByAttrs {};         if { [string length $grpByAttrs] > 0 } {             if { [string first "@EvaluateExpression" $grpByAttrs] == 0 } {                 puts "MACRO CATMAC _$grpByAttrs" ;             } else {                set catter "" ;                set comma "" ;                foreach attr $grpByAttrs {                    set catter "$catter$comma@Value(\"$attr\")" ;                    set comma ",_," ;                } ;                puts "MACRO CATMAC _@Concatenate($catter)" ;             }         }         else {             puts "MACRO CATMAC " ;         };         set safeName "[regsub -all {[^a-zA-Z0-9]} {jos_sdi_metadata} _]_[expr round(rand() * 1000000)]_[clock clicks  -milliseconds]";         puts "MACRO SAFE_FFS_NAME $safeName";         ]
-# Make the temporary directory that the FFS files will live in.
-FACTORY_DEF * CreationFactory      FACTORY_NAME jos_sdi_metadata_DirCreator      OUTPUT FEATURE_TYPE __nukeme__          @Tcl2("catch {file mkdir {$(WORKSPACE_TEMP_DIR)}}")
-FACTORY_DEF * TeeFactory    FACTORY_NAME jos_sdi_metadata_DirCreatorCleanerUpper    INPUT FEATURE_TYPE __nukeme__
-# Send raster, point cloud and vector features down different paths to prepare
-# them for viewing
-
-FACTORY_DEF * TestFactory    FACTORY_NAME jos_sdi_metadata_FeatureDirector    INPUT  FEATURE_TYPE jos_sdi_metadata    TEST &fme_type == "fme_raster"    OUTPUT FAILED FEATURE_TYPE jos_sdi_metadata___NotRasterFeatures___    OUTPUT PASSED FEATURE_TYPE jos_sdi_metadata___RasterFeatures___
-FACTORY_DEF * TestFactory    FACTORY_NAME jos_sdi_metadata___FeatureDirector1    INPUT FEATURE_TYPE jos_sdi_metadata___NotRasterFeatures___    TEST &fme_type == "fme_point_cloud"    OUTPUT FAILED FEATURE_TYPE jos_sdi_metadata___VectorFeatures___    OUTPUT PASSED FEATURE_TYPE jos_sdi_metadata___PointCloudFeatures___
-# Vector features simply may get their colors overridden
-
-FACTORY_DEF * TeeFactory    FACTORY_NAME jos_sdi_metadata_VectorSetterUpper    INPUT FEATURE_TYPE jos_sdi_metadata___VectorFeatures___    OUTPUT FEATURE_TYPE __viewme__
-# Point Cloud Features Might Need to be thinned
-
-# Note that we don't call the ThinPointCloud function directly, but rather
-# do it through TCL. This should allow this transformer to be used with a
-# Desktop license, even though ThinPointCloud requires Professional.
-
-Tcl2 proc jos_sdi_metadata_9a9067e5_e07f_47c5_9142_00a2febfbd912_thinPointCloud {} {    if {[string equal {NO_THINNING} {KEEPNPOINT}]}    {       FME_Execute ThinPointCloud NO_THINNING "\"<Unused>\"";    }    elseif {[string equal {NO_THINNING} {MAXNUMPOINTS}]}    {       FME_Execute ThinPointCloud NO_THINNING "\"<Unused>\"";    }    elseif {[string equal {NO_THINNING} {FIRSTNPOINTS}]}    {       FME_Execute ThinPointCloud NO_THINNING "\"<Unused>\"";    }    elseif {[string equal {NO_THINNING} {LASTNPOINTS}]}    {       FME_Execute ThinPointCloud NO_THINNING "\"<Unused>\"";    }; }
-FACTORY_DEF * TeeFactory    FACTORY_NAME jos_sdi_metadata___PointCloudThinner    INPUT FEATURE_TYPE jos_sdi_metadata___PointCloudFeatures___    OUTPUT FEATURE_TYPE __viewme__       @Tcl2("jos_sdi_metadata_9a9067e5_e07f_47c5_9142_00a2febfbd912_thinPointCloud")
-Tcl2 proc jos_sdi_metadata_9a9067e5_e07f_47c5_9142_00a2febfbd912_prepareRaster {subsetStartRow subsetNumRows subsetStartCol subsetNumCols} {    set useDI [string equal -nocase {$(FME_VIEWER_APP)} {fmedatainspector}];    if {!$useDI} {       FME_Execute ApplyRasterRotation BILINEAR;    };    set doResample [string equal {NoReduction} {Resample}];    set doSubset [string equal {NoReduction} {Subset}];    set doBounds [string equal {NoReduction} {BoundingBoxOnly}];    if {$doBounds}  {       FME_Execute GeometryType fme_polygon;    }    elseif {$doResample || $doSubset} {       set comment {          First, we need to prefix all the attributes. This is done because          we are going to call @RasterProperties, and we want to make sure          it doesn't overwrite any existing attributes.       };       set kAttrPrefix ".";       set allNames [FME_AttributeNames];       foreach oldName $allNames {          set newName $kAttrPrefix;          append newName $oldName;          FME_RenameAttribute $newName $oldName;       };       FME_Execute RasterProperties RASTER;       if {$doResample} {          set oldNumCols [FME_GetAttribute _num_columns];          set oldNumRows [FME_GetAttribute _num_rows];          set oldSpacingX [FME_GetAttribute _spacing_x];          set oldSpacingY [FME_GetAttribute _spacing_y];          set kMinNumCells 32;          set kMaxNumCells 512;          set comment {             We will only resample if both dimensions are greater than the             minimum num cells, and at least one is greater than the maximum.          };          if {$oldNumRows > $kMinNumCells && $oldNumCols > $kMinNumCells && ($oldNumRows > $kMaxNumCells || $oldNumCols > $kMaxNumCells)} {             set newSpacingX 1.0;             set newSpacingY 1.0;             if {$oldNumRows > $oldNumCols} {                set comment {                   If we have more rows than columns, we need to choose a spacing                   that reduces the number of rows to the maximum we've chosen.                };                set newSpacingY [expr 1.0 * $oldNumRows * $oldSpacingY / $kMaxNumCells];                set newSpacingX [expr 1.0 * $newSpacingY / $oldSpacingY * $oldSpacingX];                set comment {                   Now we need to check if doing this will result in the columns                   going below the minimum. If so, choose the spacing such that                   we only go down to the minimum (and not past).                };                set newNumCols [expr $oldNumCols * $oldSpacingX / $newSpacingX];                if {$newNumCols < $kMinNumCells}                {                   set newSpacingX [expr 1.0 * $oldNumCols * $oldSpacingX / $kMinNumCells];                   set newSpacingY [expr 1.0 * $newSpacingX / $oldSpacingX * $oldSpacingY];                };             }             else {                set comment {                   This is identical to the above case, except the roles of                   rows and cols are reversed.                };                set newSpacingX [expr 1.0 * $oldNumCols * $oldSpacingX / $kMaxNumCells];                set newSpacingY [expr 1.0 * $newSpacingX / $oldSpacingX * $oldSpacingY];                set newNumRows [expr $oldNumRows * $oldSpacingY / $newSpacingY];                if {$newNumRows < $kMinNumCells}                {                   set newSpacingY [expr 1.0 * $oldNumRows * $oldSpacingY / $kMinNumCells];                   set newSpacingX [expr 1.0 * $newSpacingY / $oldSpacingY * $oldSpacingX];                };             };             FME_Execute ResampleRaster CELL_SIZE $newSpacingX $newSpacingY NearestNeighbor;          };       }       elseif {$doSubset} {          set comment {             Get the value of some strings that may be attributes or constants.             Note that we pass in the attribute prefix we're using, because if             one does turn out to be an attribute, it won't actually be the exact             name in the string (since we renamed all our attributes above).          };          set rasterNumRows [FME_GetAttribute _num_rows];          set rasterNumCols [FME_GetAttribute _num_columns];          set comment {             Only do subsetting if the specified start position is actually             within the raster.          };          if {$subsetStartRow < $rasterNumRows && $subsetStartCol < $rasterNumCols}          {             set comment {                Now bound the subset to the size of the raster, so that                we don't create padding.             };             if {[expr $subsetStartRow + $subsetNumRows] > $rasterNumRows}             {                set subsetNumRows [expr $rasterNumRows - $subsetStartRow];             };             if {[expr $subsetStartCol + $subsetNumCols] > $rasterNumCols}             {                set subsetNumCols [expr $rasterNumCols - $subsetStartCol];             };             FME_Execute SubsetRaster $subsetStartRow $subsetNumRows $subsetStartCol $subsetNumCols;          };       };       set comment {          Remove all the attributes added by @RasterProperties and remove the          prefix from the real attributes. We assume they all start with an          underscore.       };       FME_Execute RemoveAttributes fme_regexp_match {^_};       foreach oldName $allNames {          set newName $kAttrPrefix;          append newName $oldName;          FME_RenameAttribute $oldName $newName;       };    }; }
-FACTORY_DEF * TeeFactory    FACTORY_NAME jos_sdi_metadata_RasterSetterUpper    INPUT FEATURE_TYPE jos_sdi_metadata___RasterFeatures___    OUTPUT FEATURE_TYPE __viewme__       @Tcl2("jos_sdi_metadata_9a9067e5_e07f_47c5_9142_00a2febfbd912_prepareRaster {<Unused>} {<Unused>} {<Unused>} {<Unused>}")
-# Now route all the features into the recorder, changing their
-# feature type to the transformer name so that they view nicely
-# jos_sdi_metadata_9a9067e5_e07f_47c5_9142_00a2febfbd912_VIS_FEAT_TYPE changes the feature types
-# of the features being visualized.
-
-DEFAULT_MACRO jos_sdi_metadata_9a9067e5_e07f_47c5_9142_00a2febfbd912_VIS_FEAT_TYPE jos_sdi_metadata$(CATMAC)
-DEFAULT_MACRO VISUALIZER_FEATURE_FILE $(WORKSPACE_TEMP_DIR)/$(SAFE_FFS_NAME).ffs
-DEFAULT_MACRO VISUALIZER_CREATE_SPATIAL_INDEX NO
-# [PR#45549] The Data Inspector will limit the maximum number of features
-# it reads on WIN32, so we will correspondingly limit the number of
-# features we record here using the MAX_FEATURES_TO_RECORD directive.
-
-FACTORY_DEF * RecorderFactory    FACTORY_NAME jos_sdi_metadata_Recorder    INPUT FEATURE_TYPE __viewme__  _wb_termination_feature Yes @FeatureType(TERMINATOR_@Value(_wb_termination_xformer))    INPUT FEATURE_TYPE __viewme__  @FeatureType($(jos_sdi_metadata_9a9067e5_e07f_47c5_9142_00a2febfbd912_VIS_FEAT_TYPE))    FEATURE_FILE "$(VISUALIZER_FEATURE_FILE)"    CREATE_SPATIAL_INDEX "$(VISUALIZER_CREATE_SPATIAL_INDEX)"    INSPECTOR "$(VISUALIZER_CREATE_SPATIAL_INDEX)"    FSC_SCHEMA version_id,varchar<openparen>255<closeparen>,fme_where,varchar<openparen>255<closeparen>    MODE RECORD    RECORD_DIRECTLY_TO_DISK YES    MAX_FEATURES_TO_RECORD WIN32 2000000
-
-FACTORY_DEF * TeeFactory   FACTORY_NAME "jos_sdi_metadata Output Nuker"   INPUT FEATURE_TYPE jos_sdi_metadata
-# -------------------------------------------------------------------------
-
-FACTORY_DEF * CreationFactory   CREATE_AT_END   OUTPUT FEATURE_TYPE __NUKEME__   @TCL("if [file exists {$(WORKSPACE_TEMP_DIR)}] {set files [glob -nocomplain -directory  {$(WORKSPACE_TEMP_DIR)} -tails *.ffs];   if {[llength $files] == 1} {    set theFile {$(WORKSPACE_TEMP_DIR)/};   append theFile [lindex $files 0];   eval FME_Execute System \173\042$(FME_HOME_UNIX)/fmedatainspector\042 --visualizer --single-application --delete-on-close --no-source-prompt -f FFS $theFile & \175;  } elseif { [llength $files] == 0 } {  catch { file delete -force {$(WORKSPACE_TEMP_DIR)} };  } else {  set filesNoExt {}; set lastfile {}; foreach {fileName} [lsort $files] { set fileNoExt [string trimright $fileName {.ffs}]; if [regexp {(.*)_[0-9]*$} $fileNoExt wholething fileNoExtBase] {  if { $fileNoExtBase == $lastfile } { continue } }; set lastfile $fileNoExt; lappend filesNoExt $fileNoExt };  eval FME_Execute System \173\042$(FME_HOME_UNIX)/fmedatainspector\042 --visualizer --single-application --delete-on-close --no-source-prompt -d {$(WORKSPACE_TEMP_DIR)} -a ffs -f FFS $filesNoExt & \175; }; }; ")
-FACTORY_DEF * TeeFactory   INPUT FEATURE_TYPE __NUKEME__
-# -------------------------------------------------------------------------
-MYSQL_DB_2_DEF jos_sdi_version   mysql_type                   All   mysql_mode                   INHERIT_FROM_WRITER   mysql_table_type             MYISAM   mysql_drop_table             NO   mysql_truncate_table         NO   mysql_ops_per_sql_stmt       1000   resource_id                  int
 # -------------------------------------------------------------------------
 MYSQL_DB_2_DEF jos_sdi_metadata   mysql_type                   All   mysql_mode                   INHERIT_FROM_WRITER   mysql_table_type             MYISAM   mysql_drop_table             NO   mysql_truncate_table         NO   mysql_ops_per_sql_stmt       1000   version_id                   int
 # -------------------------------------------------------------------------
+MYSQL_DB_2_DEF jos_sdi_version   mysql_type                   All   mysql_mode                   INHERIT_FROM_WRITER   mysql_table_type             MYISAM   mysql_drop_table             NO   mysql_truncate_table         NO   mysql_ops_per_sql_stmt       1000   resource_id                  int
+# -------------------------------------------------------------------------
 ORACLE_NONSPATIAL_2_DEF GDBP.GEOPRODUKTE   oracle_create_table          ""   oracle_drop_table            ""   oracle_table_writer_mode     ""   oracle_update_key_columns    ""   oracle_truncate_table        ""   fme_feature_operation        MULTIPLE   fme_table_handling           USE_EXISTING   fme_selection_method         BUILDER   fme_where_builder_clause     <at>Value<openparen>fme_where<closeparen>   ID_KONTAKT1                  number(38,0)
-WBROUTER_OUT_DEF GDBP.GEOPRODUKTE
-WBROUTER_OUT_DEF jos_sdi_version
-WBROUTER_OUT_DEF jos_sdi_metadata
