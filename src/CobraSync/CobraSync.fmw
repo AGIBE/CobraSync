@@ -2,7 +2,7 @@
 #! <WORKSPACE
 #    Command-line to run this workspace:
 #        "C:\Program Files (x86)\FME\fme.exe" E:\Daten\repos\CobraSync\src\CobraSync\CobraSync.fmw
-#              --MSSQL_DATABASE ""
+#              --MSSQL_DATABASE "hh"
 #              --MSSQL_SERVER ""
 #              --MSSQL_USERNAME ""
 #              --MSSQL_PASSWORD "********"
@@ -31,8 +31,8 @@
 #!   END_TCL=""
 #!   EXPLICIT_BOOKMARK_ORDER="false"
 #!   FME_BUILD_NUM="18310"
-#!   FME_DOCUMENT_GUID="82b2f02b-818d-434d-b431-7562bdebe7f1"
-#!   FME_DOCUMENT_PRIORGUID="550533fc-a044-49cc-bae2-d079cb367be1,c1050d73-bf05-400f-851f-91c22208902e,8af2ae18-4168-4a85-9879-9643c75c1004,b22db4e3-e7f2-486c-a81e-5bf1410b68a4,a819f578-5932-45ea-9d2b-5e050f4d964e,4fd1f586-d354-418a-a706-57bbd6d9342b,d827767e-7490-4326-ae3c-b3926a3f68c6,3208a1d3-7797-471b-b9b6-df307690c850,7822ceea-002a-42fd-a3fb-e8cc392615e6,89efeb68-a575-488e-a4c0-08f5e1d04af8,a7efef6a-3134-4103-a873-46c56f22de2d,900fa674-1c5e-492a-92fa-7d42954ec8e6,7280b390-cc39-4499-830b-ddf8c1902094,a04a16b9-abb1-4d5d-a7ef-77ee7a8c0cd0,879b8343-2756-4df2-9502-8eb40ad22c57,ddbf7d90-52f0-4a24-bc4a-0fa55e950455,f97a6cde-fadf-40df-b562-26a245907a11"
+#!   FME_DOCUMENT_GUID="f461e5bb-8f58-42eb-9dc3-a6050d76b9d1"
+#!   FME_DOCUMENT_PRIORGUID="550533fc-a044-49cc-bae2-d079cb367be1,c1050d73-bf05-400f-851f-91c22208902e,8af2ae18-4168-4a85-9879-9643c75c1004,b22db4e3-e7f2-486c-a81e-5bf1410b68a4,a819f578-5932-45ea-9d2b-5e050f4d964e,4fd1f586-d354-418a-a706-57bbd6d9342b,d827767e-7490-4326-ae3c-b3926a3f68c6,3208a1d3-7797-471b-b9b6-df307690c850,7822ceea-002a-42fd-a3fb-e8cc392615e6,89efeb68-a575-488e-a4c0-08f5e1d04af8,a7efef6a-3134-4103-a873-46c56f22de2d,900fa674-1c5e-492a-92fa-7d42954ec8e6,7280b390-cc39-4499-830b-ddf8c1902094,a04a16b9-abb1-4d5d-a7ef-77ee7a8c0cd0,879b8343-2756-4df2-9502-8eb40ad22c57,ddbf7d90-52f0-4a24-bc4a-0fa55e950455,f97a6cde-fadf-40df-b562-26a245907a11,82b2f02b-818d-434d-b431-7562bdebe7f1"
 #!   FME_GEOMETRY_HANDLING="Enhanced"
 #!   FME_IMPLICIT_CSMAP_REPROJECTION_MODE="Auto"
 #!   FME_REPROJECTION_ENGINE="FME"
@@ -41,7 +41,7 @@
 #!   HISTORY=""
 #!   IGNORE_READER_FAILURE="No"
 #!   LAST_SAVE_BUILD="FME(R) 2018.0.1.0 (20180518 - Build 18310 - WIN32)"
-#!   LAST_SAVE_DATE="2020-12-08T10:59:50"
+#!   LAST_SAVE_DATE="2021-01-18T07:44:17"
 #!   LOG_FILE="$(LOGFILE)"
 #!   LOG_MAX_RECORDED_FEATURES="200"
 #!   MARKDOWN_DESCRIPTION=""
@@ -59,7 +59,7 @@
 #!   TITLE="CobraSync"
 #!   USAGE="&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;br/&gt;&#10;&lt;/p&gt;&#10;"
 #!   USE_MARKDOWN=""
-#!   VIEW_POSITION="-1840.64 696.882"
+#!   VIEW_POSITION="-1840.64 693.757"
 #!   WARN_INVALID_XFORM_PARAM="Yes"
 #!   WORKSPACE_VERSION="1"
 #!   ZOOM_SCALE="100"
@@ -78,7 +78,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE="jdbc_where_clause &quot;&quot;"
 #!   DEFLINE_ATTRS="true"
-#!   EXPOSABLE_ATTRS="fme_geometry char(50) multi_reader_id integer fme_sweep_angle float fme_start_angle float multi_reader_keyword char(50) fme_type char(50) fme_secondary_axis float fme_fill_color char(50) fme_primary_axis float multi_reader_type char(50) fme_text_string char(50) fme_dataset char(50) fme_basename char(50) multi_reader_full_id integer fme_text_size float fme_color char(50) fme_rotation float fme_feature_type char(50)"
+#!   EXPOSABLE_ATTRS="fme_secondary_axis float fme_geometry char(50) fme_text_string char(50) multi_reader_full_id integer fme_type char(50) multi_reader_id integer fme_start_angle float fme_feature_type char(50) multi_reader_keyword char(50) fme_dataset char(50) fme_fill_color char(50) fme_primary_axis float fme_color char(50) fme_sweep_angle float fme_rotation float fme_text_size float multi_reader_type char(50) fme_basename char(50)"
 #!   DEFLINE_PARMS="&quot;GUI OPTIONAL NAMEDGROUP jdbc_query_settings_group jdbc_where_clause Table&quot; &quot;&quot; &quot;GUI OPTIONAL TEXT_EDIT_SQL_CFG jdbc_where_clause MODE,WHERE WHERE Clause&quot; &quot;&quot; "
 #!   ATTR_INDEX_TYPES=""
 #!   ATTR_NAME_INVALID_CHARS=""
@@ -137,7 +137,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE="oracle_sql_encoded &quot;&quot; oracle_where_clause_encoded &quot;&quot;"
 #!   DEFLINE_ATTRS="true"
-#!   EXPOSABLE_ATTRS="fme_geometry fme_char(50) multi_reader_id integer fme_sweep_angle float fme_start_angle float multi_reader_keyword char(50) fme_type char(50) fme_secondary_axis float fme_fill_color char(50) fme_primary_axis float multi_reader_type char(50) fme_text_string char(50) oracle_type char(50) fme_dataset char(50) fme_basename char(50) multi_reader_full_id integer fme_text_size float fme_color char(50) fme_db_operation char(8) fme_rotation float fme_feature_type char(50)"
+#!   EXPOSABLE_ATTRS="fme_secondary_axis float fme_geometry fme_char(50) fme_text_string char(50) multi_reader_full_id integer fme_type char(50) oracle_type char(50) fme_db_operation char(8) multi_reader_id integer fme_start_angle float fme_feature_type char(50) multi_reader_keyword char(50) fme_dataset char(50) fme_fill_color char(50) fme_primary_axis float fme_color char(50) fme_sweep_angle float fme_rotation float fme_text_size float multi_reader_type char(50) fme_basename char(50)"
 #!   DEFLINE_PARMS="&quot;GUI OPTIONAL NAMEDGROUP oracle_reader_group oracle_where_clause_encoded%oracle_sql_encoded Table Settings&quot; &quot;&quot; &quot;GUI OPTIONAL WHOLE_LINE TEXT_EDIT_SQL_CFG oracle_sql_encoded MODE,SQL SELECT Statement&quot; &quot;&quot; &quot;GUI OPTIONAL WHOLE_LINE TEXT_EDIT_SQL_CFG oracle_where_clause_encoded MODE,WHERE WHERE Clause&quot; &quot;&quot; "
 #!   ATTR_INDEX_TYPES="BTree Bitmap PrimaryKey Unique"
 #!   ATTR_NAME_INVALID_CHARS=""
@@ -200,7 +200,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE="oracle_create_table &quot;&quot; oracle_drop_table &quot;&quot; oracle_table_writer_mode &quot;&quot; oracle_update_key_columns &quot;&quot; oracle_truncate_table &quot;&quot; fme_feature_operation INSERT fme_table_handling CREATE_IF_MISSING fme_selection_method MATCH_COLUMNS fme_match_columns &quot;&quot; fme_where_builder_clause &quot;&quot; oracle_params &quot;&quot; oracle_sql_encoded &quot;&quot; oracle_sequenced_cols &quot;&quot;"
 #!   DEFLINE_ATTRS="true"
-#!   EXPOSABLE_ATTRS="fme_db_operation char(8) fme_type char(50) fme_sweep_angle float fme_secondary_axis float fme_fill_color char(50) fme_primary_axis float fme_feature_type char(50) fme_geometry fme_char(50) fme_rotation float fme_text_string char(50) oracle_type char(50) fme_text_size float fme_dataset char(50) fme_start_angle float fme_basename char(50) fme_color char(50)"
+#!   EXPOSABLE_ATTRS="fme_start_angle float fme_fill_color char(50) fme_text_size float fme_primary_axis float fme_text_string char(50) fme_feature_type char(50) fme_secondary_axis float fme_basename char(50) fme_type char(50) oracle_type char(50) fme_db_operation char(8) fme_color char(50) fme_sweep_angle float fme_geometry fme_char(50) fme_dataset char(50) fme_rotation float"
 #!   DEFLINE_PARMS="&quot;GUI OPTIONAL NAMEDGROUP fme_configuration_group fme_configuration_common_group%fme_spatial_group%fme_advanced_group%oracle_advanced_group Table Settings&quot; &quot;&quot; &quot;GUI OPTIONAL NAMEDGROUP fme_configuration_common_group fme_feature_operation%fme_table_handling%oracle_model%fme_update_geometry%fme_selection_group%fme_table_creation_group General&quot; &quot;&quot; &quot;GUI ACTIVECHOICE_LOOKUP fme_feature_operation Insert,INSERT,fme_update_geometry,fme_selection_group%Update,UPDATE,++fme_table_handling+USE_EXISTING,++fme_selection_group+FME_DISCLOSURE_OPEN%Delete,DELETE,++fme_table_handling+USE_EXISTING,fme_update_geometry,++fme_selection_group+FME_DISCLOSURE_OPEN,fme_spatial_group,fme_advanced_group,oracle_sequenced_cols%&lt;at&gt;Value&lt;openparen&gt;fme_db_operation&lt;closeparen&gt;,MULTIPLE,++fme_table_handling+USE_EXISTING,++fme_selection_group+FME_DISCLOSURE_OPEN Feature Operation&quot; INSERT &quot;GUI ACTIVECHOICE_LOOKUP fme_table_handling Use&lt;space&gt;Existing,USE_EXISTING,fme_table_creation_group%Create&lt;space&gt;If&lt;space&gt;Needed,CREATE_IF_MISSING%Drop&lt;space&gt;and&lt;space&gt;Create,DROP_CREATE%Truncate&lt;space&gt;Existing,TRUNCATE_EXISTING,fme_table_creation_group Table Handling&quot; CREATE_IF_MISSING &quot;GUI OPTIONAL DISCLOSUREGROUP fme_selection_group fme_selection_method Row Selection&quot; &quot;&quot; &quot;GUI OPTIONAL WHOLE_LINE RADIOPARAMETERGROUP fme_selection_method fme_match_columns,MATCH_COLUMNS%fme_where_builder_clause,BUILDER Row Selection Method&quot; MATCH_COLUMNS &quot;GUI WHOLE_LINE ATTRLIST_COMMAS fme_match_columns \&quot; \&quot; Match Columns&quot; &quot;&quot; &quot;GUI WHOLE_LINE TEXT_EDIT_SQL_CFG_OR_ATTR fme_where_builder_clause MODE,WHERE WHERE Clause&quot; &quot;&quot; &quot;GUI OPTIONAL DISCLOSUREGROUP fme_table_creation_group oracle_params Table Creation Parameters&quot; &quot;&quot; &quot;GUI OPTIONAL WHOLE_LINE TEXT oracle_params Additional CREATE TABLE Clause(s)&quot; &quot;&quot; &quot;GUI OPTIONAL DISCLOSUREGROUP oracle_advanced_group oracle_sequenced_cols%oracle_sql_encoded Advanced&quot; &quot;&quot; &quot;GUI OPTIONAL WHOLE_LINE TEXT oracle_sequenced_cols Sequenced Table Columns&quot; &quot;&quot; &quot;GUI OPTIONAL WHOLE_LINE TEXT_EDIT_SQL_CFG oracle_sql_encoded MODE,SQL SQL Statement (Overrides Feature Operation)&quot; &quot;&quot; "
 #!   ATTR_INDEX_TYPES="BTree Bitmap PrimaryKey Unique"
 #!   ATTR_NAME_INVALID_CHARS=".%&lt;&gt;|: []()?*&apos;&amp;+-/}{\\&quot;"
@@ -258,7 +258,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE="oracle_create_table &quot;&quot; oracle_drop_table &quot;&quot; oracle_table_writer_mode &quot;&quot; oracle_update_key_columns &quot;&quot; oracle_truncate_table &quot;&quot; fme_feature_operation INSERT fme_table_handling CREATE_IF_MISSING fme_selection_method MATCH_COLUMNS fme_match_columns &quot;&quot; fme_where_builder_clause &quot;&quot; oracle_params &quot;&quot; oracle_sql_encoded &quot;&quot; oracle_sequenced_cols &quot;&quot;"
 #!   DEFLINE_ATTRS="true"
-#!   EXPOSABLE_ATTRS="fme_db_operation char(8) fme_type char(50) fme_sweep_angle float fme_secondary_axis float fme_fill_color char(50) fme_primary_axis float fme_feature_type char(50) fme_geometry fme_char(50) fme_rotation float fme_text_string char(50) oracle_type char(50) fme_text_size float fme_dataset char(50) fme_start_angle float fme_basename char(50) fme_color char(50)"
+#!   EXPOSABLE_ATTRS="fme_start_angle float fme_fill_color char(50) fme_text_size float fme_primary_axis float fme_text_string char(50) fme_feature_type char(50) fme_secondary_axis float fme_basename char(50) fme_type char(50) oracle_type char(50) fme_db_operation char(8) fme_color char(50) fme_sweep_angle float fme_geometry fme_char(50) fme_dataset char(50) fme_rotation float"
 #!   DEFLINE_PARMS="&quot;GUI OPTIONAL NAMEDGROUP fme_configuration_group fme_configuration_common_group%fme_spatial_group%fme_advanced_group%oracle_advanced_group Table Settings&quot; &quot;&quot; &quot;GUI OPTIONAL NAMEDGROUP fme_configuration_common_group fme_feature_operation%fme_table_handling%oracle_model%fme_update_geometry%fme_selection_group%fme_table_creation_group General&quot; &quot;&quot; &quot;GUI ACTIVECHOICE_LOOKUP fme_feature_operation Insert,INSERT,fme_update_geometry,fme_selection_group%Update,UPDATE,++fme_table_handling+USE_EXISTING,++fme_selection_group+FME_DISCLOSURE_OPEN%Delete,DELETE,++fme_table_handling+USE_EXISTING,fme_update_geometry,++fme_selection_group+FME_DISCLOSURE_OPEN,fme_spatial_group,fme_advanced_group,oracle_sequenced_cols%&lt;at&gt;Value&lt;openparen&gt;fme_db_operation&lt;closeparen&gt;,MULTIPLE,++fme_table_handling+USE_EXISTING,++fme_selection_group+FME_DISCLOSURE_OPEN Feature Operation&quot; INSERT &quot;GUI ACTIVECHOICE_LOOKUP fme_table_handling Use&lt;space&gt;Existing,USE_EXISTING,fme_table_creation_group%Create&lt;space&gt;If&lt;space&gt;Needed,CREATE_IF_MISSING%Drop&lt;space&gt;and&lt;space&gt;Create,DROP_CREATE%Truncate&lt;space&gt;Existing,TRUNCATE_EXISTING,fme_table_creation_group Table Handling&quot; CREATE_IF_MISSING &quot;GUI OPTIONAL DISCLOSUREGROUP fme_selection_group fme_selection_method Row Selection&quot; &quot;&quot; &quot;GUI OPTIONAL WHOLE_LINE RADIOPARAMETERGROUP fme_selection_method fme_match_columns,MATCH_COLUMNS%fme_where_builder_clause,BUILDER Row Selection Method&quot; MATCH_COLUMNS &quot;GUI WHOLE_LINE ATTRLIST_COMMAS fme_match_columns \&quot; \&quot; Match Columns&quot; &quot;&quot; &quot;GUI WHOLE_LINE TEXT_EDIT_SQL_CFG_OR_ATTR fme_where_builder_clause MODE,WHERE WHERE Clause&quot; &quot;&quot; &quot;GUI OPTIONAL DISCLOSUREGROUP fme_table_creation_group oracle_params Table Creation Parameters&quot; &quot;&quot; &quot;GUI OPTIONAL WHOLE_LINE TEXT oracle_params Additional CREATE TABLE Clause(s)&quot; &quot;&quot; &quot;GUI OPTIONAL DISCLOSUREGROUP oracle_advanced_group oracle_sequenced_cols%oracle_sql_encoded Advanced&quot; &quot;&quot; &quot;GUI OPTIONAL WHOLE_LINE TEXT oracle_sequenced_cols Sequenced Table Columns&quot; &quot;&quot; &quot;GUI OPTIONAL WHOLE_LINE TEXT_EDIT_SQL_CFG oracle_sql_encoded MODE,SQL SQL Statement (Overrides Feature Operation)&quot; &quot;&quot; "
 #!   ATTR_INDEX_TYPES="BTree Bitmap PrimaryKey Unique"
 #!   ATTR_NAME_INVALID_CHARS=".%&lt;&gt;|: []()?*&apos;&amp;+-/}{\\&quot;"
@@ -316,7 +316,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE="oracle_create_table &quot;&quot; oracle_drop_table &quot;&quot; oracle_table_writer_mode &quot;&quot; oracle_update_key_columns &quot;&quot; oracle_truncate_table &quot;&quot; fme_feature_operation INSERT fme_table_handling CREATE_IF_MISSING fme_selection_method MATCH_COLUMNS fme_match_columns &quot;&quot; fme_where_builder_clause &quot;&quot; oracle_params &quot;&quot; oracle_sql_encoded &quot;&quot; oracle_sequenced_cols &quot;&quot;"
 #!   DEFLINE_ATTRS="true"
-#!   EXPOSABLE_ATTRS="fme_db_operation char(8) fme_type char(50) fme_sweep_angle float fme_secondary_axis float fme_fill_color char(50) fme_primary_axis float fme_feature_type char(50) fme_geometry fme_char(50) fme_rotation float fme_text_string char(50) oracle_type char(50) fme_text_size float fme_dataset char(50) fme_start_angle float fme_basename char(50) fme_color char(50)"
+#!   EXPOSABLE_ATTRS="fme_start_angle float fme_fill_color char(50) fme_text_size float fme_primary_axis float fme_text_string char(50) fme_feature_type char(50) fme_secondary_axis float fme_basename char(50) fme_type char(50) oracle_type char(50) fme_db_operation char(8) fme_color char(50) fme_sweep_angle float fme_geometry fme_char(50) fme_dataset char(50) fme_rotation float"
 #!   DEFLINE_PARMS="&quot;GUI OPTIONAL NAMEDGROUP fme_configuration_group fme_configuration_common_group%fme_spatial_group%fme_advanced_group%oracle_advanced_group Table Settings&quot; &quot;&quot; &quot;GUI OPTIONAL NAMEDGROUP fme_configuration_common_group fme_feature_operation%fme_table_handling%oracle_model%fme_update_geometry%fme_selection_group%fme_table_creation_group General&quot; &quot;&quot; &quot;GUI ACTIVECHOICE_LOOKUP fme_feature_operation Insert,INSERT,fme_update_geometry,fme_selection_group%Update,UPDATE,++fme_table_handling+USE_EXISTING,++fme_selection_group+FME_DISCLOSURE_OPEN%Delete,DELETE,++fme_table_handling+USE_EXISTING,fme_update_geometry,++fme_selection_group+FME_DISCLOSURE_OPEN,fme_spatial_group,fme_advanced_group,oracle_sequenced_cols%&lt;at&gt;Value&lt;openparen&gt;fme_db_operation&lt;closeparen&gt;,MULTIPLE,++fme_table_handling+USE_EXISTING,++fme_selection_group+FME_DISCLOSURE_OPEN Feature Operation&quot; INSERT &quot;GUI ACTIVECHOICE_LOOKUP fme_table_handling Use&lt;space&gt;Existing,USE_EXISTING,fme_table_creation_group%Create&lt;space&gt;If&lt;space&gt;Needed,CREATE_IF_MISSING%Drop&lt;space&gt;and&lt;space&gt;Create,DROP_CREATE%Truncate&lt;space&gt;Existing,TRUNCATE_EXISTING,fme_table_creation_group Table Handling&quot; CREATE_IF_MISSING &quot;GUI OPTIONAL DISCLOSUREGROUP fme_selection_group fme_selection_method Row Selection&quot; &quot;&quot; &quot;GUI OPTIONAL WHOLE_LINE RADIOPARAMETERGROUP fme_selection_method fme_match_columns,MATCH_COLUMNS%fme_where_builder_clause,BUILDER Row Selection Method&quot; MATCH_COLUMNS &quot;GUI WHOLE_LINE ATTRLIST_COMMAS fme_match_columns \&quot; \&quot; Match Columns&quot; &quot;&quot; &quot;GUI WHOLE_LINE TEXT_EDIT_SQL_CFG_OR_ATTR fme_where_builder_clause MODE,WHERE WHERE Clause&quot; &quot;&quot; &quot;GUI OPTIONAL DISCLOSUREGROUP fme_table_creation_group oracle_params Table Creation Parameters&quot; &quot;&quot; &quot;GUI OPTIONAL WHOLE_LINE TEXT oracle_params Additional CREATE TABLE Clause(s)&quot; &quot;&quot; &quot;GUI OPTIONAL DISCLOSUREGROUP oracle_advanced_group oracle_sequenced_cols%oracle_sql_encoded Advanced&quot; &quot;&quot; &quot;GUI OPTIONAL WHOLE_LINE TEXT oracle_sequenced_cols Sequenced Table Columns&quot; &quot;&quot; &quot;GUI OPTIONAL WHOLE_LINE TEXT_EDIT_SQL_CFG oracle_sql_encoded MODE,SQL SQL Statement (Overrides Feature Operation)&quot; &quot;&quot; "
 #!   ATTR_INDEX_TYPES="BTree Bitmap PrimaryKey Unique"
 #!   ATTR_NAME_INVALID_CHARS=".%&lt;&gt;|: []()?*&apos;&amp;+-/}{\\&quot;"
@@ -374,7 +374,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE="mysql_type {FME_GEN_GEOMETRY} mysql_mode INHERIT_FROM_WRITER mysql_table_type MYISAM mysql_drop_table NO mysql_truncate_table NO mysql_ops_per_sql_stmt 1000"
 #!   DEFLINE_ATTRS="true"
-#!   EXPOSABLE_ATTRS="fme_db_operation char(8) fme_type char(50) fme_sweep_angle double fme_secondary_axis double fme_fill_color char(50) fme_primary_axis double fme_feature_type char(50) fme_geometry fme_char(50) mysql_type char(50) fme_rotation double fme_text_string char(50) fme_text_size double fme_dataset char(50) fme_where char(254) fme_start_angle double fme_basename char(50) fme_color char(50)"
+#!   EXPOSABLE_ATTRS="mysql_type char(50) fme_start_angle double fme_fill_color char(50) fme_text_size double fme_primary_axis double fme_text_string char(50) fme_feature_type char(50) fme_secondary_axis double fme_basename char(50) fme_where char(254) fme_type char(50) fme_db_operation char(8) fme_color char(50) fme_sweep_angle double fme_geometry fme_char(50) fme_dataset char(50) fme_rotation double"
 #!   DEFLINE_PARMS="&quot;GUI OPTIONAL NAMEDGROUP mysql_layer_group mysql_general_group%mysql_advanced_group Table Settings&quot; &quot;&quot; &quot;GUI OPTIONAL NAMEDGROUP mysql_general_group mysql_mode%mysql_drop_table%mysql_truncate_table%mysql_tblcreateparam_group General&quot; &quot;&quot; &quot;GUI OPTIONAL DISCLOSUREGROUP mysql_tblcreateparam_group FME_DISCLOSURE_CLOSED%mysql_table_type Table Creation Parameters&quot; &quot;&quot; &quot;GUI OPTIONAL DISCLOSUREGROUP mysql_advanced_group mysql_ops_per_sql_stmt Advanced&quot; &quot;&quot; &quot;GUI CHOICE mysql_drop_table YES%NO Drop Table&quot; NO &quot;GUI CHOICE mysql_truncate_table YES%NO Truncate Table&quot; NO &quot;GUI CHOICE mysql_mode INHERIT_FROM_WRITER%INSERT%UPDATE%DELETE Writer Mode&quot; INHERIT_FROM_WRITER &quot;GUI CHOICE mysql_table_type MYISAM%InnoDB%MEMORY%BDB%CSV%ARCHIVE%MERGE%NDB%FEDERATED Table Type&quot; MYISAM &quot;GUI OPTIONAL INTEGER mysql_ops_per_sql_stmt Operations Per SQL Statement&quot; 1000 "
 #!   ATTR_INDEX_TYPES="BTREE HASH PRIKEY"
 #!   ATTR_NAME_INVALID_CHARS=". %-#[]&quot;()!?*&apos;&amp;+\/"
@@ -420,7 +420,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE="mysql_type {FME_GEN_GEOMETRY} mysql_mode INHERIT_FROM_WRITER mysql_table_type MYISAM mysql_drop_table NO mysql_truncate_table NO mysql_ops_per_sql_stmt 1000"
 #!   DEFLINE_ATTRS="true"
-#!   EXPOSABLE_ATTRS="fme_db_operation char(8) fme_type char(50) fme_sweep_angle double fme_secondary_axis double fme_fill_color char(50) fme_primary_axis double fme_feature_type char(50) fme_geometry fme_char(50) mysql_type char(50) fme_rotation double fme_text_string char(50) fme_text_size double fme_dataset char(50) fme_where char(254) fme_start_angle double fme_basename char(50) fme_color char(50)"
+#!   EXPOSABLE_ATTRS="mysql_type char(50) fme_start_angle double fme_fill_color char(50) fme_text_size double fme_primary_axis double fme_text_string char(50) fme_feature_type char(50) fme_secondary_axis double fme_basename char(50) fme_where char(254) fme_type char(50) fme_db_operation char(8) fme_color char(50) fme_sweep_angle double fme_geometry fme_char(50) fme_dataset char(50) fme_rotation double"
 #!   DEFLINE_PARMS="&quot;GUI OPTIONAL NAMEDGROUP mysql_layer_group mysql_general_group%mysql_advanced_group Table Settings&quot; &quot;&quot; &quot;GUI OPTIONAL NAMEDGROUP mysql_general_group mysql_mode%mysql_drop_table%mysql_truncate_table%mysql_tblcreateparam_group General&quot; &quot;&quot; &quot;GUI OPTIONAL DISCLOSUREGROUP mysql_tblcreateparam_group FME_DISCLOSURE_CLOSED%mysql_table_type Table Creation Parameters&quot; &quot;&quot; &quot;GUI OPTIONAL DISCLOSUREGROUP mysql_advanced_group mysql_ops_per_sql_stmt Advanced&quot; &quot;&quot; &quot;GUI CHOICE mysql_drop_table YES%NO Drop Table&quot; NO &quot;GUI CHOICE mysql_truncate_table YES%NO Truncate Table&quot; NO &quot;GUI CHOICE mysql_mode INHERIT_FROM_WRITER%INSERT%UPDATE%DELETE Writer Mode&quot; INHERIT_FROM_WRITER &quot;GUI CHOICE mysql_table_type MYISAM%InnoDB%MEMORY%BDB%CSV%ARCHIVE%MERGE%NDB%FEDERATED Table Type&quot; MYISAM &quot;GUI OPTIONAL INTEGER mysql_ops_per_sql_stmt Operations Per SQL Statement&quot; 1000 "
 #!   ATTR_INDEX_TYPES="BTREE HASH PRIKEY"
 #!   ATTR_NAME_INVALID_CHARS=". %-#[]&quot;()!?*&apos;&amp;+\/"
@@ -466,7 +466,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE="mysql_type {FME_GEN_GEOMETRY} mysql_mode INHERIT_FROM_WRITER mysql_table_type MYISAM mysql_drop_table NO mysql_truncate_table NO mysql_ops_per_sql_stmt 1000"
 #!   DEFLINE_ATTRS="true"
-#!   EXPOSABLE_ATTRS="fme_db_operation char(8) fme_type char(50) fme_sweep_angle double fme_secondary_axis double fme_fill_color char(50) fme_primary_axis double fme_feature_type char(50) fme_geometry fme_char(50) mysql_type char(50) fme_rotation double fme_text_string char(50) fme_text_size double fme_dataset char(50) fme_where char(254) fme_start_angle double fme_basename char(50) fme_color char(50)"
+#!   EXPOSABLE_ATTRS="mysql_type char(50) fme_start_angle double fme_fill_color char(50) fme_text_size double fme_primary_axis double fme_text_string char(50) fme_feature_type char(50) fme_secondary_axis double fme_basename char(50) fme_where char(254) fme_type char(50) fme_db_operation char(8) fme_color char(50) fme_sweep_angle double fme_geometry fme_char(50) fme_dataset char(50) fme_rotation double"
 #!   DEFLINE_PARMS="&quot;GUI OPTIONAL NAMEDGROUP mysql_layer_group mysql_general_group%mysql_advanced_group Table Settings&quot; &quot;&quot; &quot;GUI OPTIONAL NAMEDGROUP mysql_general_group mysql_mode%mysql_drop_table%mysql_truncate_table%mysql_tblcreateparam_group General&quot; &quot;&quot; &quot;GUI OPTIONAL DISCLOSUREGROUP mysql_tblcreateparam_group FME_DISCLOSURE_CLOSED%mysql_table_type Table Creation Parameters&quot; &quot;&quot; &quot;GUI OPTIONAL DISCLOSUREGROUP mysql_advanced_group mysql_ops_per_sql_stmt Advanced&quot; &quot;&quot; &quot;GUI CHOICE mysql_drop_table YES%NO Drop Table&quot; NO &quot;GUI CHOICE mysql_truncate_table YES%NO Truncate Table&quot; NO &quot;GUI CHOICE mysql_mode INHERIT_FROM_WRITER%INSERT%UPDATE%DELETE Writer Mode&quot; INHERIT_FROM_WRITER &quot;GUI CHOICE mysql_table_type MYISAM%InnoDB%MEMORY%BDB%CSV%ARCHIVE%MERGE%NDB%FEDERATED Table Type&quot; MYISAM &quot;GUI OPTIONAL INTEGER mysql_ops_per_sql_stmt Operations Per SQL Statement&quot; 1000 "
 #!   ATTR_INDEX_TYPES="BTREE HASH PRIKEY"
 #!   ATTR_NAME_INVALID_CHARS=". %-#[]&quot;()!?*&apos;&amp;+\/"
@@ -512,7 +512,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE=""
 #!   DEFLINE_ATTRS="true"
-#!   EXPOSABLE_ATTRS="fme_type char(50) fme_sweep_angle real64 fme_secondary_axis real64 fme_fill_color char(50) fme_primary_axis real64 fme_feature_type char(50) fme_geometry fme_char(50) fme_rotation real64 fme_text_string char(50) fme_text_size real64 fme_dataset char(50) fme_start_angle real64 fme_basename char(50) fme_color char(50)"
+#!   EXPOSABLE_ATTRS="fme_start_angle real64 fme_fill_color char(50) fme_text_size real64 fme_primary_axis real64 fme_text_string char(50) fme_feature_type char(50) fme_secondary_axis real64 fme_basename char(50) fme_type char(50) fme_color char(50) fme_sweep_angle real64 fme_geometry fme_char(50) fme_dataset char(50) fme_rotation real64"
 #!   DEFLINE_PARMS=""
 #!   ATTR_INDEX_TYPES=""
 #!   ATTR_NAME_INVALID_CHARS=""
@@ -541,192 +541,6 @@
 #! </DATASET>
 #! </DATASETS>
 #! <DATA_TYPES>
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="char(width)"
-#!   FME_TYPE="fme_char(width)"
-#!   FORMAT="ORACLE_NONSPATIAL"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="varchar2(width)"
-#!   FME_TYPE="fme_varchar(width)"
-#!   FORMAT="ORACLE_NONSPATIAL"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="raw(width)"
-#!   FME_TYPE="fme_varbinary(width)"
-#!   FORMAT="ORACLE_NONSPATIAL"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="raw(width)"
-#!   FME_TYPE="fme_binary(width)"
-#!   FORMAT="ORACLE_NONSPATIAL"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="nchar(width)"
-#!   FME_TYPE="fme_char(width)"
-#!   FORMAT="ORACLE_NONSPATIAL"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="nvarchar(width)"
-#!   FME_TYPE="fme_varchar(width)"
-#!   FORMAT="ORACLE_NONSPATIAL"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="blob"
-#!   FME_TYPE="fme_binarybuffer"
-#!   FORMAT="ORACLE_NONSPATIAL"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="clob"
-#!   FME_TYPE="fme_buffer"
-#!   FORMAT="ORACLE_NONSPATIAL"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="json"
-#!   FME_TYPE="fme_json"
-#!   FORMAT="ORACLE_NONSPATIAL"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="nclob"
-#!   FME_TYPE="fme_buffer"
-#!   FORMAT="ORACLE_NONSPATIAL"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="xmltype"
-#!   FME_TYPE="fme_xml"
-#!   FORMAT="ORACLE_NONSPATIAL"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="float"
-#!   FME_TYPE="fme_real64"
-#!   FORMAT="ORACLE_NONSPATIAL"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="binary_double"
-#!   FME_TYPE="fme_real64"
-#!   FORMAT="ORACLE_NONSPATIAL"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="float"
-#!   FME_TYPE="fme_real32"
-#!   FORMAT="ORACLE_NONSPATIAL"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="binary_float"
-#!   FME_TYPE="fme_real32"
-#!   FORMAT="ORACLE_NONSPATIAL"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="integer"
-#!   FME_TYPE="fme_int32"
-#!   FORMAT="ORACLE_NONSPATIAL"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="integer"
-#!   FME_TYPE="fme_uint16"
-#!   FORMAT="ORACLE_NONSPATIAL"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="smallint"
-#!   FME_TYPE="fme_int16"
-#!   FORMAT="ORACLE_NONSPATIAL"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="smallint"
-#!   FME_TYPE="fme_int8"
-#!   FORMAT="ORACLE_NONSPATIAL"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="smallint"
-#!   FME_TYPE="fme_uint8"
-#!   FORMAT="ORACLE_NONSPATIAL"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="timestamp"
-#!   FME_TYPE="fme_datetime"
-#!   FORMAT="ORACLE_NONSPATIAL"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="timestamp"
-#!   FME_TYPE="fme_time"
-#!   FORMAT="ORACLE_NONSPATIAL"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="date"
-#!   FME_TYPE="fme_datetime"
-#!   FORMAT="ORACLE_NONSPATIAL"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="date"
-#!   FME_TYPE="fme_date"
-#!   FORMAT="ORACLE_NONSPATIAL"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="char(8)"
-#!   FME_TYPE="fme_boolean"
-#!   FORMAT="ORACLE_NONSPATIAL"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="number(width,decimal)"
-#!   FME_TYPE="fme_decimal(width,decimal)"
-#!   FORMAT="ORACLE_NONSPATIAL"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="number(10,0)"
-#!   FME_TYPE="fme_uint32"
-#!   FORMAT="ORACLE_NONSPATIAL"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="number(19,0)"
-#!   FME_TYPE="fme_int64"
-#!   FORMAT="ORACLE_NONSPATIAL"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="number(20,0)"
-#!   FME_TYPE="fme_uint64"
-#!   FORMAT="ORACLE_NONSPATIAL"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="number"
-#!   FME_TYPE="fme_real64"
-#!   FORMAT="ORACLE_NONSPATIAL"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="clob"
-#!   FME_TYPE="fme_json"
-#!   FORMAT="ORACLE_NONSPATIAL"
-#! />
 #! <DATA_TYPE
 #!   IS_SOURCE="true"
 #!   FORMAT_TYPE="char(width)"
@@ -954,6 +768,420 @@
 #!   FORMAT_TYPE="time(width)"
 #!   FME_TYPE="fme_time"
 #!   FORMAT="MSSQL_JDBC_NONSPATIAL"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="char(width)"
+#!   FME_TYPE="fme_char(width)"
+#!   FORMAT="ORACLE_NONSPATIAL"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="varchar2(width)"
+#!   FME_TYPE="fme_varchar(width)"
+#!   FORMAT="ORACLE_NONSPATIAL"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="raw(width)"
+#!   FME_TYPE="fme_varbinary(width)"
+#!   FORMAT="ORACLE_NONSPATIAL"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="raw(width)"
+#!   FME_TYPE="fme_binary(width)"
+#!   FORMAT="ORACLE_NONSPATIAL"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="nchar(width)"
+#!   FME_TYPE="fme_char(width)"
+#!   FORMAT="ORACLE_NONSPATIAL"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="nvarchar(width)"
+#!   FME_TYPE="fme_varchar(width)"
+#!   FORMAT="ORACLE_NONSPATIAL"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="blob"
+#!   FME_TYPE="fme_binarybuffer"
+#!   FORMAT="ORACLE_NONSPATIAL"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="clob"
+#!   FME_TYPE="fme_buffer"
+#!   FORMAT="ORACLE_NONSPATIAL"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="json"
+#!   FME_TYPE="fme_json"
+#!   FORMAT="ORACLE_NONSPATIAL"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="nclob"
+#!   FME_TYPE="fme_buffer"
+#!   FORMAT="ORACLE_NONSPATIAL"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="xmltype"
+#!   FME_TYPE="fme_xml"
+#!   FORMAT="ORACLE_NONSPATIAL"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="float"
+#!   FME_TYPE="fme_real64"
+#!   FORMAT="ORACLE_NONSPATIAL"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="binary_double"
+#!   FME_TYPE="fme_real64"
+#!   FORMAT="ORACLE_NONSPATIAL"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="float"
+#!   FME_TYPE="fme_real32"
+#!   FORMAT="ORACLE_NONSPATIAL"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="binary_float"
+#!   FME_TYPE="fme_real32"
+#!   FORMAT="ORACLE_NONSPATIAL"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="integer"
+#!   FME_TYPE="fme_int32"
+#!   FORMAT="ORACLE_NONSPATIAL"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="integer"
+#!   FME_TYPE="fme_uint16"
+#!   FORMAT="ORACLE_NONSPATIAL"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="smallint"
+#!   FME_TYPE="fme_int16"
+#!   FORMAT="ORACLE_NONSPATIAL"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="smallint"
+#!   FME_TYPE="fme_int8"
+#!   FORMAT="ORACLE_NONSPATIAL"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="smallint"
+#!   FME_TYPE="fme_uint8"
+#!   FORMAT="ORACLE_NONSPATIAL"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="timestamp"
+#!   FME_TYPE="fme_datetime"
+#!   FORMAT="ORACLE_NONSPATIAL"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="timestamp"
+#!   FME_TYPE="fme_time"
+#!   FORMAT="ORACLE_NONSPATIAL"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="date"
+#!   FME_TYPE="fme_datetime"
+#!   FORMAT="ORACLE_NONSPATIAL"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="date"
+#!   FME_TYPE="fme_date"
+#!   FORMAT="ORACLE_NONSPATIAL"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="char(8)"
+#!   FME_TYPE="fme_boolean"
+#!   FORMAT="ORACLE_NONSPATIAL"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="number(width,decimal)"
+#!   FME_TYPE="fme_decimal(width,decimal)"
+#!   FORMAT="ORACLE_NONSPATIAL"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="number(10,0)"
+#!   FME_TYPE="fme_uint32"
+#!   FORMAT="ORACLE_NONSPATIAL"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="number(19,0)"
+#!   FME_TYPE="fme_int64"
+#!   FORMAT="ORACLE_NONSPATIAL"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="number(20,0)"
+#!   FME_TYPE="fme_uint64"
+#!   FORMAT="ORACLE_NONSPATIAL"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="number"
+#!   FME_TYPE="fme_real64"
+#!   FORMAT="ORACLE_NONSPATIAL"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="clob"
+#!   FME_TYPE="fme_json"
+#!   FORMAT="ORACLE_NONSPATIAL"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="smallint"
+#!   FME_TYPE="fme_int16"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="smallint"
+#!   FME_TYPE="fme_uint8"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="tinyint"
+#!   FME_TYPE="fme_int8"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="tinyint"
+#!   FME_TYPE="fme_boolean"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="int"
+#!   FME_TYPE="fme_int32"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="bigint"
+#!   FME_TYPE="fme_int64"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="bigint"
+#!   FME_TYPE="fme_uint32"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="mediumint"
+#!   FME_TYPE="fme_int32"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="mediumint"
+#!   FME_TYPE="fme_uint16"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="float"
+#!   FME_TYPE="fme_real32"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="float(width,decimal)"
+#!   FME_TYPE="fme_real32"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="double"
+#!   FME_TYPE="fme_real64"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="double(width,decimal)"
+#!   FME_TYPE="fme_real64"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="decimal(width,decimal)"
+#!   FME_TYPE="fme_decimal(width,decimal)"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="decimal(20,0)"
+#!   FME_TYPE="fme_uint64"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="date"
+#!   FME_TYPE="fme_date"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="time"
+#!   FME_TYPE="fme_time"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="datetime"
+#!   FME_TYPE="fme_datetime"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="timestamp"
+#!   FME_TYPE="fme_datetime"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="year"
+#!   FME_TYPE="fme_date"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="year(width)"
+#!   FME_TYPE="fme_date"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="char(width)"
+#!   FME_TYPE="fme_char(width)"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="varchar(width)"
+#!   FME_TYPE="fme_varchar(width)"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="blob"
+#!   FME_TYPE="fme_binarybuffer"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="blob"
+#!   FME_TYPE="fme_binary(width)"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="blob"
+#!   FME_TYPE="fme_varbinary(width)"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="text"
+#!   FME_TYPE="fme_buffer"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="text"
+#!   FME_TYPE="fme_xml"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="json"
+#!   FME_TYPE="fme_json"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="tinyblob"
+#!   FME_TYPE="fme_binarybuffer"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="tinytext"
+#!   FME_TYPE="fme_buffer"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="mediumblob"
+#!   FME_TYPE="fme_binarybuffer"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="mediumtext"
+#!   FME_TYPE="fme_buffer"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="longblob"
+#!   FME_TYPE="fme_binarybuffer"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="longtext"
+#!   FME_TYPE="fme_buffer"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="enum(stringset)"
+#!   FME_TYPE="fme_char(width)"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="set(stringset)"
+#!   FME_TYPE="fme_char(width)"
+#!   FORMAT="MYSQL_DB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="text"
+#!   FME_TYPE="fme_json"
+#!   FORMAT="MYSQL_DB"
 #! />
 #! <DATA_TYPE
 #!   IS_SOURCE="false"
@@ -1279,236 +1507,134 @@
 #!   FME_TYPE="fme_json"
 #!   FORMAT="ORACLE_NONSPATIAL"
 #! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="smallint"
-#!   FME_TYPE="fme_int16"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="smallint"
-#!   FME_TYPE="fme_uint8"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="tinyint"
-#!   FME_TYPE="fme_int8"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="tinyint"
-#!   FME_TYPE="fme_boolean"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="int"
-#!   FME_TYPE="fme_int32"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="bigint"
-#!   FME_TYPE="fme_int64"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="bigint"
-#!   FME_TYPE="fme_uint32"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="mediumint"
-#!   FME_TYPE="fme_int32"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="mediumint"
-#!   FME_TYPE="fme_uint16"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="float"
-#!   FME_TYPE="fme_real32"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="float(width,decimal)"
-#!   FME_TYPE="fme_real32"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="double"
-#!   FME_TYPE="fme_real64"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="double(width,decimal)"
-#!   FME_TYPE="fme_real64"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="decimal(width,decimal)"
-#!   FME_TYPE="fme_decimal(width,decimal)"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="decimal(20,0)"
-#!   FME_TYPE="fme_uint64"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="date"
-#!   FME_TYPE="fme_date"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="time"
-#!   FME_TYPE="fme_time"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="datetime"
-#!   FME_TYPE="fme_datetime"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="timestamp"
-#!   FME_TYPE="fme_datetime"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="year"
-#!   FME_TYPE="fme_date"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="year(width)"
-#!   FME_TYPE="fme_date"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="char(width)"
-#!   FME_TYPE="fme_char(width)"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="varchar(width)"
-#!   FME_TYPE="fme_varchar(width)"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="blob"
-#!   FME_TYPE="fme_binarybuffer"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="blob"
-#!   FME_TYPE="fme_binary(width)"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="blob"
-#!   FME_TYPE="fme_varbinary(width)"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="text"
-#!   FME_TYPE="fme_buffer"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="text"
-#!   FME_TYPE="fme_xml"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="json"
-#!   FME_TYPE="fme_json"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="tinyblob"
-#!   FME_TYPE="fme_binarybuffer"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="tinytext"
-#!   FME_TYPE="fme_buffer"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="mediumblob"
-#!   FME_TYPE="fme_binarybuffer"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="mediumtext"
-#!   FME_TYPE="fme_buffer"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="longblob"
-#!   FME_TYPE="fme_binarybuffer"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="longtext"
-#!   FME_TYPE="fme_buffer"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="enum(stringset)"
-#!   FME_TYPE="fme_char(width)"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="set(stringset)"
-#!   FME_TYPE="fme_char(width)"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="text"
-#!   FME_TYPE="fme_json"
-#!   FORMAT="MYSQL_DB"
-#! />
 #! </DATA_TYPES>
 #! <GEOM_TYPES>
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="mssql_none"
+#!   FME_TYPE="fme_no_geom"
+#!   FORMAT="MSSQL_JDBC_NONSPATIAL"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="mssql_point"
+#!   FME_TYPE="fme_point"
+#!   FORMAT="MSSQL_JDBC_NONSPATIAL"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="mssql_multipoint"
+#!   FME_TYPE="fme_point"
+#!   FORMAT="MSSQL_JDBC_NONSPATIAL"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="mssql_point"
+#!   FME_TYPE="fme_text"
+#!   FORMAT="MSSQL_JDBC_NONSPATIAL"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="mssql_linestring"
+#!   FME_TYPE="fme_line"
+#!   FORMAT="MSSQL_JDBC_NONSPATIAL"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="mssql_circularstring"
+#!   FME_TYPE="fme_line"
+#!   FORMAT="MSSQL_JDBC_NONSPATIAL"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="mssql_multilinestring"
+#!   FME_TYPE="fme_line"
+#!   FORMAT="MSSQL_JDBC_NONSPATIAL"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="mssql_compoundcurve"
+#!   FME_TYPE="fme_line"
+#!   FORMAT="MSSQL_JDBC_NONSPATIAL"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="mssql_polygon"
+#!   FME_TYPE="fme_area"
+#!   FORMAT="MSSQL_JDBC_NONSPATIAL"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="mssql_polygon"
+#!   FME_TYPE="fme_rectangle"
+#!   FORMAT="MSSQL_JDBC_NONSPATIAL"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="mssql_polygon"
+#!   FME_TYPE="fme_rounded_rectangle"
+#!   FORMAT="MSSQL_JDBC_NONSPATIAL"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="mssql_curvepolygon"
+#!   FME_TYPE="fme_area"
+#!   FORMAT="MSSQL_JDBC_NONSPATIAL"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="mssql_multipolygon"
+#!   FME_TYPE="fme_area"
+#!   FORMAT="MSSQL_JDBC_NONSPATIAL"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="mssql_polygon"
+#!   FME_TYPE="fme_ellipse"
+#!   FORMAT="MSSQL_JDBC_NONSPATIAL"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="mssql_linestring"
+#!   FME_TYPE="fme_arc"
+#!   FORMAT="MSSQL_JDBC_NONSPATIAL"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="mssql_geometrycollection"
+#!   FME_TYPE="fme_collection"
+#!   FORMAT="MSSQL_JDBC_NONSPATIAL"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="mssql_polygon"
+#!   FME_TYPE="fme_raster"
+#!   FORMAT="MSSQL_JDBC_NONSPATIAL"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="mssql_linestring"
+#!   FME_TYPE="fme_surface"
+#!   FORMAT="MSSQL_JDBC_NONSPATIAL"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="mssql_linestring"
+#!   FME_TYPE="fme_solid"
+#!   FORMAT="MSSQL_JDBC_NONSPATIAL"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="mssql_polygon"
+#!   FME_TYPE="fme_point_cloud"
+#!   FORMAT="MSSQL_JDBC_NONSPATIAL"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="mssql_none"
+#!   FME_TYPE="fme_feature_table"
+#!   FORMAT="MSSQL_JDBC_NONSPATIAL"
+#! />
 #! <GEOM_TYPE
 #!   IS_SOURCE="true"
 #!   FORMAT_TYPE="oracle_nil"
@@ -1684,130 +1810,94 @@
 #!   FORMAT="ORACLE_NONSPATIAL"
 #! />
 #! <GEOM_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="mssql_none"
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="mysql_none"
 #!   FME_TYPE="fme_no_geom"
-#!   FORMAT="MSSQL_JDBC_NONSPATIAL"
+#!   FORMAT="MYSQL_DB"
 #! />
 #! <GEOM_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="mssql_point"
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="mysql_none"
 #!   FME_TYPE="fme_point"
-#!   FORMAT="MSSQL_JDBC_NONSPATIAL"
+#!   FORMAT="MYSQL_DB"
 #! />
 #! <GEOM_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="mssql_multipoint"
-#!   FME_TYPE="fme_point"
-#!   FORMAT="MSSQL_JDBC_NONSPATIAL"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="mssql_point"
-#!   FME_TYPE="fme_text"
-#!   FORMAT="MSSQL_JDBC_NONSPATIAL"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="mssql_linestring"
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="mysql_none"
 #!   FME_TYPE="fme_line"
-#!   FORMAT="MSSQL_JDBC_NONSPATIAL"
+#!   FORMAT="MYSQL_DB"
 #! />
 #! <GEOM_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="mssql_circularstring"
-#!   FME_TYPE="fme_line"
-#!   FORMAT="MSSQL_JDBC_NONSPATIAL"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="mssql_multilinestring"
-#!   FME_TYPE="fme_line"
-#!   FORMAT="MSSQL_JDBC_NONSPATIAL"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="mssql_compoundcurve"
-#!   FME_TYPE="fme_line"
-#!   FORMAT="MSSQL_JDBC_NONSPATIAL"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="mssql_polygon"
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="mysql_none"
 #!   FME_TYPE="fme_area"
-#!   FORMAT="MSSQL_JDBC_NONSPATIAL"
+#!   FORMAT="MYSQL_DB"
 #! />
 #! <GEOM_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="mssql_polygon"
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="mysql_none"
 #!   FME_TYPE="fme_rectangle"
-#!   FORMAT="MSSQL_JDBC_NONSPATIAL"
+#!   FORMAT="MYSQL_DB"
 #! />
 #! <GEOM_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="mssql_polygon"
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="mysql_none"
 #!   FME_TYPE="fme_rounded_rectangle"
-#!   FORMAT="MSSQL_JDBC_NONSPATIAL"
+#!   FORMAT="MYSQL_DB"
 #! />
 #! <GEOM_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="mssql_curvepolygon"
-#!   FME_TYPE="fme_area"
-#!   FORMAT="MSSQL_JDBC_NONSPATIAL"
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="mysql_none"
+#!   FME_TYPE="fme_text"
+#!   FORMAT="MYSQL_DB"
 #! />
 #! <GEOM_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="mssql_multipolygon"
-#!   FME_TYPE="fme_area"
-#!   FORMAT="MSSQL_JDBC_NONSPATIAL"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="mssql_polygon"
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="mysql_none"
 #!   FME_TYPE="fme_ellipse"
-#!   FORMAT="MSSQL_JDBC_NONSPATIAL"
+#!   FORMAT="MYSQL_DB"
 #! />
 #! <GEOM_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="mssql_linestring"
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="mysql_none"
 #!   FME_TYPE="fme_arc"
-#!   FORMAT="MSSQL_JDBC_NONSPATIAL"
+#!   FORMAT="MYSQL_DB"
 #! />
 #! <GEOM_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="mssql_geometrycollection"
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="mysql_none"
 #!   FME_TYPE="fme_collection"
-#!   FORMAT="MSSQL_JDBC_NONSPATIAL"
+#!   FORMAT="MYSQL_DB"
 #! />
 #! <GEOM_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="mssql_polygon"
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="mysql_none"
 #!   FME_TYPE="fme_raster"
-#!   FORMAT="MSSQL_JDBC_NONSPATIAL"
+#!   FORMAT="MYSQL_DB"
 #! />
 #! <GEOM_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="mssql_linestring"
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="mysql_none"
 #!   FME_TYPE="fme_surface"
-#!   FORMAT="MSSQL_JDBC_NONSPATIAL"
+#!   FORMAT="MYSQL_DB"
 #! />
 #! <GEOM_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="mssql_linestring"
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="mysql_none"
 #!   FME_TYPE="fme_solid"
-#!   FORMAT="MSSQL_JDBC_NONSPATIAL"
+#!   FORMAT="MYSQL_DB"
 #! />
 #! <GEOM_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="mssql_polygon"
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="mysql_none"
 #!   FME_TYPE="fme_point_cloud"
-#!   FORMAT="MSSQL_JDBC_NONSPATIAL"
+#!   FORMAT="MYSQL_DB"
 #! />
 #! <GEOM_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="mssql_none"
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="mysql_none"
 #!   FME_TYPE="fme_feature_table"
-#!   FORMAT="MSSQL_JDBC_NONSPATIAL"
+#!   FORMAT="MYSQL_DB"
 #! />
 #! <GEOM_TYPE
 #!   IS_SOURCE="false"
@@ -2078,96 +2168,6 @@
 #!   FORMAT_TYPE="oracle_nil"
 #!   FME_TYPE="fme_feature_table"
 #!   FORMAT="ORACLE_NONSPATIAL"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="mysql_none"
-#!   FME_TYPE="fme_no_geom"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="mysql_none"
-#!   FME_TYPE="fme_point"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="mysql_none"
-#!   FME_TYPE="fme_line"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="mysql_none"
-#!   FME_TYPE="fme_area"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="mysql_none"
-#!   FME_TYPE="fme_rectangle"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="mysql_none"
-#!   FME_TYPE="fme_rounded_rectangle"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="mysql_none"
-#!   FME_TYPE="fme_text"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="mysql_none"
-#!   FME_TYPE="fme_ellipse"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="mysql_none"
-#!   FME_TYPE="fme_arc"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="mysql_none"
-#!   FME_TYPE="fme_collection"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="mysql_none"
-#!   FME_TYPE="fme_raster"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="mysql_none"
-#!   FME_TYPE="fme_surface"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="mysql_none"
-#!   FME_TYPE="fme_solid"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="mysql_none"
-#!   FME_TYPE="fme_point_cloud"
-#!   FORMAT="MYSQL_DB"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="mysql_none"
-#!   FME_TYPE="fme_feature_table"
-#!   FORMAT="MYSQL_DB"
 #! />
 #! </GEOM_TYPES>
 #! <FEATURE_TYPES>
@@ -2840,7 +2840,7 @@
 #! <GLOBAL_PARAMETERS>
 #! <GLOBAL_PARAMETER
 #!   GUI_LINE="GUI TEXT MSSQL_DATABASE MSSQL_DATABASE:"
-#!   DEFAULT_VALUE=""
+#!   DEFAULT_VALUE="hh"
 #!   IS_STAND_ALONE="false"
 #! />
 #! <GLOBAL_PARAMETER
@@ -3387,7 +3387,7 @@
 #!   BOUNDING_RECT="2352.1700000000001 -7015.6999999999998 2210.96 1256.26"
 #!   STICKY="true"
 #!   COLOUR="0.40392156862745099,0.6470588235294118,0.78431372549019607"
-#!   CONTENTS="250 22 138 20 137 77 75 21 4 73 3 18 71 248 17 136 19 76 249 72 "
+#!   CONTENTS="72 137 248 136 22 17 77 138 75 73 19 20 18 4 21 76 3 71 250 249 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -3400,7 +3400,7 @@
 #!   BOUNDING_RECT="2403.7550937509368 -2863.5700000000006 7852.6000000000004 3223.9899999999998"
 #!   STICKY="true"
 #!   COLOUR="0.12156862745098039,0.32941176470588235,0.043137254901960784"
-#!   CONTENTS="150 190 12 206 199 203 213 11 62 196 212 245 251 256 215 148 240 211 59 205 61 186 57 207 200 242 149 159 201 173 172 177 161 253 181 180 260 165 183 243 168 120 261 204 189 64 202 197 193 209 252 151 10 210 188 192 9 198 182 185 191 184 174 63 238 60 255 112 241 239 214 58 187 171 254 162 169 217 258 164 117 257 195 115 116 208 178 237 114 170 175 "
+#!   CONTENTS="174 177 168 256 165 212 189 211 161 254 60 215 207 205 64 239 58 201 190 57 187 10 193 114 9 112 208 171 148 195 178 150 203 172 255 237 257 175 251 240 253 151 12 169 243 260 11 261 62 164 213 206 59 63 196 245 191 61 214 120 209 180 198 162 217 149 186 159 202 117 210 183 258 200 204 116 252 199 115 197 170 192 184 188 173 185 242 238 182 181 241 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -3413,7 +3413,7 @@
 #!   BOUNDING_RECT="2389.3699999999999 214.00800000000001 1795.04 531.255"
 #!   STICKY="true"
 #!   COLOUR="0.90196078431372551,0.76470588235294112,0.22745098039215686"
-#!   CONTENTS="79 27 80 26 25 "
+#!   CONTENTS="79 80 25 26 27 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -3426,7 +3426,7 @@
 #!   BOUNDING_RECT="2389.3699999999999 702.50599999999997 1785.6700000000001 455.62900000000002"
 #!   STICKY="true"
 #!   COLOUR="0.89411764705882357,0.6470588235294118,0.90980392156862744"
-#!   CONTENTS="230 24 223 "
+#!   CONTENTS="223 24 230 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -3439,7 +3439,7 @@
 #!   BOUNDING_RECT="2389.3699999999999 -385.005 5198.2058757587574 2421.27"
 #!   STICKY="true"
 #!   COLOUR="0.59215686274509804,0.56470588235294117,0.80000000000000004"
-#!   CONTENTS="244 234 89 259 145 42 35 33 90 236 108 40 231 104 6 107 45 95 8 142 105 262 102 5 38 106 51 103 7 246 268 49 144 39 98 94 269 44 86 235 101 50 264 91 87 96 46 247 267 41 52 141 147 265 143 97 43 232 36 34 263 233 266 48 146 37 "
+#!   CONTENTS="87 236 143 45 43 266 40 86 145 42 234 147 232 231 235 36 105 90 233 95 259 39 41 107 104 38 35 52 34 108 103 51 141 146 106 8 102 37 48 265 6 96 101 144 142 33 50 94 7 98 49 262 5 46 246 269 97 264 44 244 263 247 268 89 91 267 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -3452,7 +3452,7 @@
 #!   BOUNDING_RECT="2352.1700000000001 -6151.1000000000004 2204.4200000000001 784.38300000000004"
 #!   STICKY="true"
 #!   COLOUR="0.35686274509803922,0.28627450980392155,0.17647058823529413"
-#!   CONTENTS="29 82 31 30 83 "
+#!   CONTENTS="83 29 31 82 30 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -3465,7 +3465,7 @@
 #!   BOUNDING_RECT="7616.6800000000003 -2036.28 1867.79 710.62800000000004"
 #!   STICKY="true"
 #!   COLOUR="0.039215686274509803,0.59215686274509804,0.8666666666666667"
-#!   CONTENTS="111 53 110 56 124 125 55 54 "
+#!   CONTENTS="55 124 53 111 125 54 110 56 "
 #! >
 #! </BOOKMARK>
 #! </BOOKMARKS>
@@ -5225,20 +5225,20 @@
 #! >
 #!     <OUTPUT_FEAT NAME="Output"/>
 #!     <FEAT_COLLAPSED COLLAPSED="0"/>
-#!     <XFORM_ATTR ATTR_NAME="metadata_guid" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="ID_GEODBMETA" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="XML" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="_request" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_ATTR ATTR_NAME="ID_GEODBMETA" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="metadata_guid" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="_headers{}.name" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="_headers{}.value" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="_response_body" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="_http_status_code" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <OUTPUT_FEAT NAME="&lt;Rejected&gt;"/>
 #!     <FEAT_COLLAPSED COLLAPSED="1"/>
-#!     <XFORM_ATTR ATTR_NAME="metadata_guid" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="ID_GEODBMETA" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="XML" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="_request" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#!     <XFORM_ATTR ATTR_NAME="ID_GEODBMETA" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="metadata_guid" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="_error" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="_headers{}.name" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="_headers{}.value" IS_USER_CREATED="false" FEAT_INDEX="1" />
@@ -5299,10 +5299,10 @@
 #! >
 #!     <OUTPUT_FEAT NAME="MATCHED"/>
 #!     <FEAT_COLLAPSED COLLAPSED="0"/>
-#!     <XFORM_ATTR ATTR_NAME="metadata_guid" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="ID_GEODBMETA" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="XML" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="_request" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_ATTR ATTR_NAME="ID_GEODBMETA" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="metadata_guid" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="_headers{}.name" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="_headers{}.value" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="_response_body" IS_USER_CREATED="false" FEAT_INDEX="0" />
@@ -5310,10 +5310,10 @@
 #!     <XFORM_ATTR ATTR_NAME="_first_match" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <OUTPUT_FEAT NAME="NOT_MATCHED"/>
 #!     <FEAT_COLLAPSED COLLAPSED="1"/>
-#!     <XFORM_ATTR ATTR_NAME="metadata_guid" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="ID_GEODBMETA" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="XML" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="_request" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#!     <XFORM_ATTR ATTR_NAME="ID_GEODBMETA" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="metadata_guid" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="_headers{}.name" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="_headers{}.value" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="_response_body" IS_USER_CREATED="false" FEAT_INDEX="1" />
@@ -5342,10 +5342,10 @@
 #! >
 #!     <OUTPUT_FEAT NAME="LOGGED"/>
 #!     <FEAT_COLLAPSED COLLAPSED="0"/>
-#!     <XFORM_ATTR ATTR_NAME="metadata_guid" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="ID_GEODBMETA" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="XML" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="_request" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_ATTR ATTR_NAME="ID_GEODBMETA" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="metadata_guid" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="_headers{}.name" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="_headers{}.value" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="_response_body" IS_USER_CREATED="false" FEAT_INDEX="0" />
@@ -8455,7 +8455,7 @@
 #! </WORKSPACE>
 FME_PYTHON_VERSION 27
 GUI IGNORE SourceDataset_MSSQL_JDBC_NONSPATIAL_1,MSSQL_JDBC_NONSPATIAL_IN_FME_CONNECTION_GROUP_MSSQL_JDBC_NONSPATIAL_1,MSSQL_JDBC_NONSPATIAL_IN_SERVER_MSSQL_JDBC_NONSPATIAL_1,MSSQL_JDBC_NONSPATIAL_IN_USE_SSPI_MSSQL_JDBC_NONSPATIAL_1,MSSQL_JDBC_NONSPATIAL_IN_USER_NAME_MSSQL_JDBC_NONSPATIAL_1,MSSQL_JDBC_NONSPATIAL_IN_PASSWORD_MSSQL_JDBC_NONSPATIAL_1,MSSQL_JDBC_NONSPATIAL_IN_ENCRYPT_CONNECTION_MSSQL_JDBC_NONSPATIAL_1,MSSQL_JDBC_NONSPATIAL_IN_MULTI_SUBNET_FAILOVER_MSSQL_JDBC_NONSPATIAL_1,MSSQL_JDBC_NONSPATIAL_IN_QUERY_TIMEOUT_MSSQL_JDBC_NONSPATIAL_1,MSSQL_JDBC_NONSPATIAL_IN_ADVANCED_MSSQL_JDBC_NONSPATIAL_1,MSSQL_JDBC_NONSPATIAL_IN_APPLICATION_INTENT_MSSQL_JDBC_NONSPATIAL_1,MSSQL_JDBC_NONSPATIAL_IN_BEGIN_SQL_MSSQL_JDBC_NONSPATIAL_1,MSSQL_JDBC_NONSPATIAL_IN_END_SQL_MSSQL_JDBC_NONSPATIAL_1,SourceDataset_ORACLE_NONSPATIAL_1,ORACLE_NONSPATIAL_IN_USER_NAME_ORACLE_NONSPATIAL_1,ORACLE_NONSPATIAL_IN_PASSWORD_ORACLE_NONSPATIAL_1,ORACLE_NONSPATIAL_IN_PERSISTENT_CONNECTION_ORACLE_NONSPATIAL_1,ORACLE_NONSPATIAL_IN_SHOW_SYSTEM_TABLES_ORACLE_NONSPATIAL_1,ORACLE_NONSPATIAL_IN_REMOVE_SCHEMA_QUALIFIER_ORACLE_NONSPATIAL_1,ORACLE_NONSPATIAL_IN_WHERE_CLAUSE_ORACLE_NONSPATIAL_1,ORACLE_NONSPATIAL_IN_EXPOSE_ATTRS_GROUP_ORACLE_NONSPATIAL_1,ORACLE_NONSPATIAL_IN_ORACLENONSPATIAL_RDR_ADV_PARA_ORACLE_NONSPATIAL_1,ORACLE_NONSPATIAL_IN_CHUNK_SIZE_ORACLE_NONSPATIAL_1,ORACLE_NONSPATIAL_IN_BEGIN_SQL{0}_ORACLE_NONSPATIAL_1,ORACLE_NONSPATIAL_IN_END_SQL{0}_ORACLE_NONSPATIAL_1,ORACLE_NONSPATIAL_IN_WORKSPACE_ORACLE_NONSPATIAL_1,DestDataset_ORACLE_NONSPATIAL_2,ORACLE_NONSPATIAL_OUT_USER_NAME_ORACLE_NONSPATIAL_2,ORACLE_NONSPATIAL_OUT_PASSWORD_ORACLE_NONSPATIAL_2,ORACLE_NONSPATIAL_OUT_PERSISTENT_CONNECTION_ORACLE_NONSPATIAL_2,ORACLE_NONSPATIAL_OUT_ORACLENONSPATIAL_WRT_ADV_PARA_ORACLE_NONSPATIAL_2,ORACLE_NONSPATIAL_OUT_START_TRANSACTION_ORACLE_NONSPATIAL_2,ORACLE_NONSPATIAL_OUT_CHUNK_SIZE_ORACLE_NONSPATIAL_2,ORACLE_NONSPATIAL_OUT_TRANSACTION_INTERVAL_ORACLE_NONSPATIAL_2,ORACLE_NONSPATIAL_OUT_BEGIN_SQL{0}_ORACLE_NONSPATIAL_2,ORACLE_NONSPATIAL_OUT_END_SQL{0}_ORACLE_NONSPATIAL_2,ORACLE_NONSPATIAL_OUT_STRICT_ATTR_CONVERSION_ORACLE_NONSPATIAL_2,ORACLE_NONSPATIAL_OUT_WORKSPACE_ORACLE_NONSPATIAL_2,DestDataset_ORACLE_NONSPATIAL_3,ORACLE_NONSPATIAL_OUT_USER_NAME_ORACLE_NONSPATIAL_3,ORACLE_NONSPATIAL_OUT_PASSWORD_ORACLE_NONSPATIAL_3,ORACLE_NONSPATIAL_OUT_PERSISTENT_CONNECTION_ORACLE_NONSPATIAL_3,ORACLE_NONSPATIAL_OUT_ORACLENONSPATIAL_WRT_ADV_PARA_ORACLE_NONSPATIAL_3,ORACLE_NONSPATIAL_OUT_START_TRANSACTION_ORACLE_NONSPATIAL_3,ORACLE_NONSPATIAL_OUT_CHUNK_SIZE_ORACLE_NONSPATIAL_3,ORACLE_NONSPATIAL_OUT_TRANSACTION_INTERVAL_ORACLE_NONSPATIAL_3,ORACLE_NONSPATIAL_OUT_BEGIN_SQL{0}_ORACLE_NONSPATIAL_3,ORACLE_NONSPATIAL_OUT_END_SQL{0}_ORACLE_NONSPATIAL_3,ORACLE_NONSPATIAL_OUT_STRICT_ATTR_CONVERSION_ORACLE_NONSPATIAL_3,ORACLE_NONSPATIAL_OUT_WORKSPACE_ORACLE_NONSPATIAL_3,DestDataset_ORACLE_NONSPATIAL_4,ORACLE_NONSPATIAL_OUT_USER_NAME_ORACLE_NONSPATIAL_4,ORACLE_NONSPATIAL_OUT_PASSWORD_ORACLE_NONSPATIAL_4,ORACLE_NONSPATIAL_OUT_PERSISTENT_CONNECTION_ORACLE_NONSPATIAL_4,ORACLE_NONSPATIAL_OUT_ORACLENONSPATIAL_WRT_ADV_PARA_ORACLE_NONSPATIAL_4,ORACLE_NONSPATIAL_OUT_START_TRANSACTION_ORACLE_NONSPATIAL_4,ORACLE_NONSPATIAL_OUT_CHUNK_SIZE_ORACLE_NONSPATIAL_4,ORACLE_NONSPATIAL_OUT_TRANSACTION_INTERVAL_ORACLE_NONSPATIAL_4,ORACLE_NONSPATIAL_OUT_BEGIN_SQL{0}_ORACLE_NONSPATIAL_4,ORACLE_NONSPATIAL_OUT_END_SQL{0}_ORACLE_NONSPATIAL_4,ORACLE_NONSPATIAL_OUT_STRICT_ATTR_CONVERSION_ORACLE_NONSPATIAL_4,ORACLE_NONSPATIAL_OUT_WORKSPACE_ORACLE_NONSPATIAL_4,DestDataset_MYSQL_DB_1,MYSQL_DB_OUT_HOST_MYSQL_DB_1,MYSQL_DB_OUT_PORT_MYSQL_DB_1,MYSQL_DB_OUT_USER_NAME_MYSQL_DB_1,MYSQL_DB_OUT_PASSWORD_MYSQL_DB_1,MYSQL_DB_OUT_WRITER_MODE_MYSQL_DB_1,MYSQL_DB_OUT_START_TRANSACTION_MYSQL_DB_1,MYSQL_DB_OUT_TRANSACTION_INTERVAL_MYSQL_DB_1,MYSQL_DB_OUT_BEGIN_SQL_MYSQL_DB_1,MYSQL_DB_OUT_END_SQL_MYSQL_DB_1,MYSQL_DB_OUT_STRIP_WHITESPACE_MYSQL_DB_1,DestDataset_MYSQL_DB_2,MYSQL_DB_OUT_HOST_MYSQL_DB_2,MYSQL_DB_OUT_PORT_MYSQL_DB_2,MYSQL_DB_OUT_USER_NAME_MYSQL_DB_2,MYSQL_DB_OUT_PASSWORD_MYSQL_DB_2,MYSQL_DB_OUT_WRITER_MODE_MYSQL_DB_2,MYSQL_DB_OUT_START_TRANSACTION_MYSQL_DB_2,MYSQL_DB_OUT_TRANSACTION_INTERVAL_MYSQL_DB_2,MYSQL_DB_OUT_BEGIN_SQL_MYSQL_DB_2,MYSQL_DB_OUT_END_SQL_MYSQL_DB_2,MYSQL_DB_OUT_STRIP_WHITESPACE_MYSQL_DB_2,DestDataset_MYSQL_DB_3,MYSQL_DB_OUT_HOST_MYSQL_DB_3,MYSQL_DB_OUT_PORT_MYSQL_DB_3,MYSQL_DB_OUT_USER_NAME_MYSQL_DB_3,MYSQL_DB_OUT_PASSWORD_MYSQL_DB_3,MYSQL_DB_OUT_WRITER_MODE_MYSQL_DB_3,MYSQL_DB_OUT_START_TRANSACTION_MYSQL_DB_3,MYSQL_DB_OUT_TRANSACTION_INTERVAL_MYSQL_DB_3,MYSQL_DB_OUT_BEGIN_SQL_MYSQL_DB_3,MYSQL_DB_OUT_END_SQL_MYSQL_DB_3,MYSQL_DB_OUT_STRIP_WHITESPACE_MYSQL_DB_3,DestDataset_FFS_1,FFS_OUT_INDEXED_FFS_1,FFS_OUT_COMPRESSION_LEVEL_FFS_1,FFS_OUT_BYTE_ORDER_FFS_1,FFS_OUT_PASSPHRASE_FFS_1,_MAX_FILE_SIZE_FFS_1,_STRICT_SCHEMA_FFS_1
-DEFAULT_MACRO MSSQL_DATABASE 
+DEFAULT_MACRO MSSQL_DATABASE hh
 GUI TEXT MSSQL_DATABASE MSSQL_DATABASE:
 DEFAULT_MACRO MSSQL_SERVER 
 GUI TEXT MSSQL_SERVER MSSQL_SERVER:
@@ -8561,10 +8561,10 @@ GUI ACTIVECHOICE_LOOKUP MSSQL_JDBC_NONSPATIAL_IN_USE_SSPI_MSSQL_JDBC_NONSPATIAL_
 DEFAULT_MACRO MSSQL_JDBC_NONSPATIAL_IN_USER_NAME_MSSQL_JDBC_NONSPATIAL_1 $(MSSQL_USERNAME)
 MSSQL_JDBC_NONSPATIAL_1_USER_NAME "$(MSSQL_JDBC_NONSPATIAL_IN_USER_NAME_MSSQL_JDBC_NONSPATIAL_1)"
 GUI TEXT MSSQL_JDBC_NONSPATIAL_IN_USER_NAME_MSSQL_JDBC_NONSPATIAL_1 Username:
-DEFAULT_MACRO MSSQL_JDBC_NONSPATIAL_IN_PASSWORD_MSSQL_JDBC_NONSPATIAL_1 fme_decrypt(MDowfCN8I3xcG3GQ/TeRRUJUZ5LDPtdvpscbh7Nj9gG/INBkAGA+fkaDrNbhZtfa3rmkUUrCxKWaAFwiYsKgWJNl/0mRpxUuP+IT2c+Qhh26JEZtUWAmpuoaQCdQ3ykKWm2zaoAM5MBCGaGEuYe+6AS07/nLNRJwqp1jdwP1FgVCbXRvZtWfKjEZlNJYQ+EicVc6cv2DxCYJyTljvXwF8mKxenML6FKJiHARQCO8OMJidKKZQJP1SeYIhqB0YrtGw4cGV2ZquQKifvRjB2Tl6wBAWDmeCg+R1jvft1tR17SISyTDv77K+mV80w2aaUSgybbF7coM0BrQPcpehfjlW+YxV73+9mPMFXKQeznZ22T8MJor57O44p8U2NQCw35HiFBs0oVP9VkkY0D/WzGRevseyX1pIEWJSQSFwkJVhiyXavMDz5E5SEYgTZHfVeGBXCDuIEEbfRRkPU5yD2nw2ZAVimDRD7UQhEEY6PosGqU17He4y35WEfAggQ40+EKuupOQSZRsKotTTqlYGHJtX49ymuKqfyZzOAUSUzDMcj8gfDgzOCcuhw2sK3fJaMszoJpjrppRwA3mqQ/qF5gKfuZ4gaYT6INWJYkz3xmr09nxRTUaV+2NfqabvWoujiAvMslaR3sChVIbw4SQgNJ0QrYg3LXY0kgWw4W1OaBLUHp0RE6b6Qa8pUI+RsEZAwaerD+JOxWFi+JFYfTRriGvbaWM1yOaywg8ygFxM+lmHNTnekXNs/Y9p7o7ftQoOQZ7KniTt+ho8q0PJN5JwWd1B+HWi+jLHXJpQCsvNudpwWV2mQZKzRzFYAZhwyZVjdJJdjgBsg2Hg4Cr5iGagRvz+ebk/QyVCSzaqsvUagEP/1utWR8jGCjyyXJLf8Gi7NS9FIUUxwU1Ti6mhjBVijuLGUHfvOdXHZy1)
+DEFAULT_MACRO MSSQL_JDBC_NONSPATIAL_IN_PASSWORD_MSSQL_JDBC_NONSPATIAL_1 $(MSSQL_PASSWORD)
 MSSQL_JDBC_NONSPATIAL_1_PASSWORD "$(MSSQL_JDBC_NONSPATIAL_IN_PASSWORD_MSSQL_JDBC_NONSPATIAL_1)"
 GUI PASSWORD_ENCODED MSSQL_JDBC_NONSPATIAL_IN_PASSWORD_MSSQL_JDBC_NONSPATIAL_1 Password:
-DEFAULT_MACRO MSSQL_JDBC_NONSPATIAL_IN_ENCRYPT_CONNECTION_MSSQL_JDBC_NONSPATIAL_1 $(MSSQL_PASSWORD)
+DEFAULT_MACRO MSSQL_JDBC_NONSPATIAL_IN_ENCRYPT_CONNECTION_MSSQL_JDBC_NONSPATIAL_1 NO
 MSSQL_JDBC_NONSPATIAL_1_ENCRYPT_CONNECTION "$(MSSQL_JDBC_NONSPATIAL_IN_ENCRYPT_CONNECTION_MSSQL_JDBC_NONSPATIAL_1)"
 GUI OPTIONAL CHECKBOX MSSQL_JDBC_NONSPATIAL_IN_ENCRYPT_CONNECTION_MSSQL_JDBC_NONSPATIAL_1 YES%NO Encrypt Connection
 DEFAULT_MACRO MSSQL_JDBC_NONSPATIAL_IN_MULTI_SUBNET_FAILOVER_MSSQL_JDBC_NONSPATIAL_1 NO
@@ -9178,16 +9178,16 @@ MSSQL_JDBC_NONSPATIAL_1_MERGE_DEF MSSQL_JDBC_NONSPATIAL_1::dbo.ADDRESSES EXACT d
 ORACLE_NONSPATIAL_1_MERGE_DEF ORACLE_NONSPATIAL_1::GDBP.KONTAKTE EXACT GDBP.KONTAKTE DEFLINE 
 # -------------------------------------------------------------------------
 
-FACTORY_DEF * TeeFactory    FACTORY_NAME "GDBP.KONTAKTE (ORACLE_NONSPATIAL_1) Splitter"    INPUT FEATURE_TYPE GDBP.KONTAKTE    OUTPUT FEATURE_TYPE GDBP.KONTAKTE_ORACLE_NONSPATIAL_1
+FACTORY_DEF * TeeFactory    FACTORY_NAME "dbo.ADDRESSES (MSSQL_JDBC_NONSPATIAL_1) Splitter"    INPUT FEATURE_TYPE dbo.ADDRESSES    OUTPUT FEATURE_TYPE dbo.ADDRESSES_MSSQL_JDBC_NONSPATIAL_1
 # -------------------------------------------------------------------------
 
-FACTORY_DEF * TeeFactory    FACTORY_NAME "dbo.ADDRESSES (MSSQL_JDBC_NONSPATIAL_1) Splitter"    INPUT FEATURE_TYPE dbo.ADDRESSES    OUTPUT FEATURE_TYPE dbo.ADDRESSES_MSSQL_JDBC_NONSPATIAL_1
+FACTORY_DEF * TeeFactory    FACTORY_NAME "GDBP.KONTAKTE (ORACLE_NONSPATIAL_1) Splitter"    INPUT FEATURE_TYPE GDBP.KONTAKTE    OUTPUT FEATURE_TYPE GDBP.KONTAKTE_ORACLE_NONSPATIAL_1
 DEFAULT_MACRO WB_CURRENT_CONTEXT
 # -------------------------------------------------------------------------
 
-INCLUDE [    set macroLine "MACRO AttributeKeeper_15_d6b29fe0_d757_4b51_8f31_7c9712d296f30_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
+INCLUDE [    set macroLine "MACRO AttributeKeeper_15_9a912587_5242_4b5b_9dfa_55a9037737221_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
 
-FACTORY_DEF {*} TeeFactory    FACTORY_NAME AttributeKeeper_15    INPUT  FEATURE_TYPE dbo.ADDRESSES_MSSQL_JDBC_NONSPATIAL_1    OUTPUT { FEATURE_TYPE AttributeKeeper_15_OUTPUT        @KeepAttributes(fme_encoded,FIRSTNAME0,DATEMODIFIED,ID,MAINID,LASTNAME0,FAX2,POSTBOX0,EMAIL0,INTERNET0,CITY0,STREET0,ZIP0,DIRECTPHONE0,COUNTRY0,COMPANY2,DEPARTMENT0,PHONE0,COMPANY1,MAINSUBMARK,fme_pcre_match,"^fme_$(AttributeKeeper_15_d6b29fe0_d757_4b51_8f31_7c9712d296f30_LIST_EXP)")         }
+FACTORY_DEF {*} TeeFactory    FACTORY_NAME AttributeKeeper_15    INPUT  FEATURE_TYPE dbo.ADDRESSES_MSSQL_JDBC_NONSPATIAL_1    OUTPUT { FEATURE_TYPE AttributeKeeper_15_OUTPUT        @KeepAttributes(fme_encoded,FIRSTNAME0,DATEMODIFIED,ID,MAINID,LASTNAME0,FAX2,POSTBOX0,EMAIL0,INTERNET0,CITY0,STREET0,ZIP0,DIRECTPHONE0,COUNTRY0,COMPANY2,DEPARTMENT0,PHONE0,COMPANY1,MAINSUBMARK,fme_pcre_match,"^fme_$(AttributeKeeper_15_9a912587_5242_4b5b_9dfa_55a9037737221_LIST_EXP)")         }
 
 # -------------------------------------------------------------------------
 
@@ -9205,9 +9205,9 @@ FACTORY_DEF {*} ReferenceFactory    FACTORY_NAME FeatureMerger    INPUT REFERENC
 
 # -------------------------------------------------------------------------
 
-INCLUDE [    set macroLine "MACRO AttributeKeeper_2_68b73264_2a69_41a4_8a15_6f54e27bbbf90_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
+INCLUDE [    set macroLine "MACRO AttributeKeeper_2_affec65d_d74f_475a_8765_f947f66f76361_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
 
-FACTORY_DEF {*} TeeFactory    FACTORY_NAME AttributeKeeper_2    INPUT  FEATURE_TYPE FeatureMerger_UNREFERENCED    OUTPUT { FEATURE_TYPE AttributeKeeper_2_OUTPUT        @KeepAttributes(fme_encoded,gdbp_ID_GEODBMETA,gdbp_ID_KONTAKT,fme_pcre_match,"^fme_$(AttributeKeeper_2_68b73264_2a69_41a4_8a15_6f54e27bbbf90_LIST_EXP)")         }
+FACTORY_DEF {*} TeeFactory    FACTORY_NAME AttributeKeeper_2    INPUT  FEATURE_TYPE FeatureMerger_UNREFERENCED    OUTPUT { FEATURE_TYPE AttributeKeeper_2_OUTPUT        @KeepAttributes(fme_encoded,gdbp_ID_GEODBMETA,gdbp_ID_KONTAKT,fme_pcre_match,"^fme_$(AttributeKeeper_2_affec65d_d74f_475a_8765_f947f66f76361_LIST_EXP)")         }
 
 # -------------------------------------------------------------------------
 
@@ -9229,15 +9229,15 @@ FACTORY_DEF {*} AttrSetFactory    FACTORY_NAME AttributeCreator_10    INPUT  FEA
 FACTORY_DEF * TestFactory    FACTORY_NAME Tester    INPUT  FEATURE_TYPE AttributeCreator_10_OUTPUT    TEST @EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>gdbp_ID_GEODBMETA<closeparen>,Tester) ATTRIBUTE_HAS_VALUE "" ENCODED    BOOLEAN_OPERATOR OR    OUTPUT PASSED FEATURE_TYPE Tester_PASSED
 # -------------------------------------------------------------------------
 
-INCLUDE [    set macroLine "MACRO AttributeKeeper_4_873a363e_3762_4b48_ba43_3d9b45d67f680_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
+INCLUDE [    set macroLine "MACRO AttributeKeeper_4_76327d39_98dd_4953_bc30_cb42a212b91b1_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
 
-FACTORY_DEF {*} TeeFactory    FACTORY_NAME AttributeKeeper_4    INPUT  FEATURE_TYPE Tester_PASSED    OUTPUT { FEATURE_TYPE AttributeKeeper_4_OUTPUT        @KeepAttributes(fme_encoded,metadatastate_id,fme_where,fme_pcre_match,"^fme_$(AttributeKeeper_4_873a363e_3762_4b48_ba43_3d9b45d67f680_LIST_EXP)")         }
+FACTORY_DEF {*} TeeFactory    FACTORY_NAME AttributeKeeper_4    INPUT  FEATURE_TYPE Tester_PASSED    OUTPUT { FEATURE_TYPE AttributeKeeper_4_OUTPUT        @KeepAttributes(fme_encoded,metadatastate_id,fme_where,fme_pcre_match,"^fme_$(AttributeKeeper_4_76327d39_98dd_4953_bc30_cb42a212b91b1_LIST_EXP)")         }
 
 # -------------------------------------------------------------------------
 
-INCLUDE [    set macroLine "MACRO AttributeKeeper_3_709f4b5c_642b_4fd4_a2b5_c85676b5bc890_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
+INCLUDE [    set macroLine "MACRO AttributeKeeper_3_892bcd58_782b_45de_b715_49595ba02f7f1_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
 
-FACTORY_DEF {*} TeeFactory    FACTORY_NAME AttributeKeeper_3    INPUT  FEATURE_TYPE AttributeCreator_OUTPUT_0_lQ+3mj5tm0E=    OUTPUT { FEATURE_TYPE AttributeKeeper_3_OUTPUT        @KeepAttributes(fme_encoded,STATUS,ID_KONTAKT,fme_db_operation,fme_pcre_match,"^fme_$(AttributeKeeper_3_709f4b5c_642b_4fd4_a2b5_c85676b5bc890_LIST_EXP)")         }
+FACTORY_DEF {*} TeeFactory    FACTORY_NAME AttributeKeeper_3    INPUT  FEATURE_TYPE AttributeCreator_OUTPUT_0_lQ+3mj5tm0E=    OUTPUT { FEATURE_TYPE AttributeKeeper_3_OUTPUT        @KeepAttributes(fme_encoded,STATUS,ID_KONTAKT,fme_db_operation,fme_pcre_match,"^fme_$(AttributeKeeper_3_892bcd58_782b_45de_b715_49595ba02f7f1_LIST_EXP)")         }
 
 # -------------------------------------------------------------------------
 
@@ -9277,9 +9277,9 @@ FACTORY_DEF * TeeFactory    FACTORY_NAME StringConcatenator_3    INPUT  FEATURE_
 FACTORY_DEF * XMLTemplaterFactory FACTORY_NAME XMLTemplater_2 INPUT CONTROL_FEATURE FEATURE_TYPE TimeStamper_4_OUTPUT_1_NMvhq3FLKJs= INPUT DATA_FEATURE FEATURE_TYPE XMLTemplater_2_DataFeatures RESULT_ATTR XML OUTPUT_XML_HEADER NO BUCKET_ATTR_NAME __xml_templater_bucket__ CONTROL_TEMPLATE_EXPR <lt>gmd:MD_Metadata<space>xmlns:gmd=<quote>http:<solidus><solidus>www.isotc211.org<solidus>2005<solidus>gmd<quote><space>xmlns:xlink=<quote>http:<solidus><solidus>www.w3.org<solidus>1999<solidus>xlink<quote><space>xmlns:gts=<quote>http:<solidus><solidus>www.isotc211.org<solidus>2005<solidus>gts<quote><space>xmlns:srv=<quote>http:<solidus><solidus>www.isotc211.org<solidus>2005<solidus>srv<quote><space>xmlns:bee=<quote>http:<solidus><solidus>www.be.ch<solidus>bve<solidus>agi<solidus>2010<solidus>bee<quote><space>xmlns:che=<quote>http:<solidus><solidus>www.geocat.ch<solidus>2008<solidus>che<quote><space>xmlns:gco=<quote>http:<solidus><solidus>www.isotc211.org<solidus>2005<solidus>gco<quote><space>xmlns:gml=<quote>http:<solidus><solidus>www.opengis.net<solidus>gml<quote><space>xmlns:geonet=<quote>http:<solidus><solidus>www.fao.org<solidus>geonetwork<quote><gt><lf><space><space><space><space><lt>gmd:language<gt><lf><space><space><space><space><space><space><lt>gco:CharacterString<gt>deu<lt><solidus>gco:CharacterString<gt><lf><space><space><space><space><lt><solidus>gmd:language<gt><lf><space><space><space><space><lt>gmd:characterSet<gt><lf><space><space><space><space><space><space><lt>gmd:MD_CharacterSetCode<space>codeListValue=<quote>utf8<quote><space>codeList=<quote>http:<solidus><solidus>www.isotc211.org<solidus>2005<solidus>resources<solidus>codeList.xml#MD_CharacterSetCode<quote><space><solidus><gt><lf><space><space><space><space><lt><solidus>gmd:characterSet<gt><lf><space><space><space><space><lt>gmd:locale<gt><lf><space><space><space><space><space><space><lt>gmd:PT_Locale<space>id=<quote>FR<quote><gt><lf><space><space><space><space><space><space><space><space><lt>gmd:languageCode<gt><lf><space><space><space><space><space><space><space><space><space><space><lt>gmd:LanguageCode<space>codeListValue=<quote>fra<quote><space>codeList=<quote>#LanguageCode<quote><gt>Fran<u00e7>ais<lt><solidus>gmd:LanguageCode<gt><lf><space><space><space><space><space><space><space><space><lt><solidus>gmd:languageCode<gt><lf><space><space><space><space><space><space><space><space><lt>gmd:characterEncoding<gt><lf><space><space><space><space><space><space><space><space><space><space><lt>gmd:MD_CharacterSetCode<space>codeListValue=<quote>utf8<quote><space>codeList=<quote>#MD_CharacterSetCode<quote><gt>UTF8<lt><solidus>gmd:MD_CharacterSetCode<gt><lf><space><space><space><space><space><space><space><space><lt><solidus>gmd:characterEncoding<gt><lf><space><space><space><space><space><space><lt><solidus>gmd:PT_Locale<gt><lf><space><space><space><space><lt><solidus>gmd:locale<gt><lf><space><space><space><space><lt>gmd:fileIdentifier<gt><lf><space><space><space><space><space><space><lt>gco:CharacterString<gt><opencurly>fme:get-attribute<openparen><quote>metadata_guid<quote><closeparen><closecurly><lt><solidus>gco:CharacterString<gt><lf><space><space><space><space><lt><solidus>gmd:fileIdentifier<gt><lf><space><space><space><space><lt>gmd:datestamp<gt><lf><space><space><space><space><space><space><lt>gco:DateTime<gt><opencurly>fme:get-attribute<openparen><quote>_timestamp<quote><closeparen><closecurly><lt><solidus>gco:DateTime<gt><lf><space><space><space><space><lt><solidus>gmd:datestamp<gt><lf><space><space><space><space><lt>gmd:metadataStandardName<gt><lf><space><space><space><space><space><space><lt>gco:CharacterString<gt>ISO<space>19115:2003<solidus>19139<space><openparen>Profil<space>BE<closeparen><lt><solidus>gco:CharacterString<gt><lf><space><space><space><space><lt><solidus>gmd:metadataStandardName<gt><lf><space><space><space><space><lt>gmd:metadataStandardversion<gt><lf><space><space><space><space><space><space><lt>gco:CharacterString<gt>1.0<lt><solidus>gco:CharacterString<gt><lf><space><space><space><space><lt><solidus>gmd:metadataStandardversion<gt><lf><space><space><space><space><lt>bee:cobraIdentifier<gt><lf><space><space><space><space><space><space><lt>gco:Decimal<gt><opencurly>fme:get-attribute<openparen><quote>ID<quote><closeparen><closecurly><lt><solidus>gco:Decimal<gt><lf><space><space><space><space><lt><solidus>bee:cobraIdentifier<gt><lf><space><space><space><space><lt>bee:contact<gt><lf><space><space><space><space><space><space><lt>gmd:CI_ResponsibleParty<gt><lf><space><space><space><space><space><space><space><space><lt>gmd:individualFirstName<gt><lf><space><space><space><space><space><space><space><space><space><space><lt>gco:CharacterString<gt><opencurly>fme:get-attribute<openparen><quote>FIRSTNAME0<quote><closeparen><closecurly><lt><solidus>gco:CharacterString<gt><lf><space><space><space><space><space><space><space><space><lt><solidus>gmd:individualFirstName<gt><lf><space><space><space><space><space><space><space><space><lt>gmd:individualLastName<gt><lf><space><space><space><space><space><space><space><space><space><space><lt>gco:CharacterString<gt><opencurly>fme:get-attribute<openparen><quote>LASTNAME0<quote><closeparen><closecurly><lt><solidus>gco:CharacterString<gt><lf><space><space><space><space><space><space><space><space><lt><solidus>gmd:individualLastName<gt><lf><space><space><space><space><space><space><space><space><lt>gmd:organisationName<gt><lf><space><space><space><space><space><space><space><space><space><space><lt>gco:CharacterString<gt><opencurly>fme:get-attribute<openparen><quote>COMPANY1<quote><closeparen><closecurly><space><opencurly>fme:get-attribute<openparen><quote>COMPANY2<quote><closeparen><closecurly><lt><solidus>gco:CharacterString<gt><lf><space><space><space><space><space><space><space><space><lt><solidus>gmd:organisationName<gt><lf><space><space><space><space><space><space><space><space><lt>gmd:address<gt><lf><space><space><space><space><space><space><space><space><space><space><lt>gmd:CI_Address<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><lt>gmd:streetName<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><space><space><lt>gco:CharacterString<gt><opencurly>fme:get-attribute<openparen><quote>STREET0<quote><closeparen><closecurly><lt><solidus>gco:CharacterString<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><lt><solidus>gmd:streetName<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><lt>gmd:addressLine<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><space><space><lt>gco:CharacterString<gt><opencurly>fme:get-attribute<openparen><quote>DEPARTMENT0<quote><closeparen><closecurly><lt><solidus>gco:CharacterString<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><lt><solidus>gmd:addressLine<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><lt>gmd:postBox<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><space><space><lt>gco:Decimal<gt><opencurly>fme:get-attribute<openparen><quote>POSTBOX0<quote><closeparen><closecurly><lt><solidus>gco:Decimal<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><lt><solidus>gmd:postBox<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><lt>gmd:postalCode<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><space><space><lt>gco:CharacterString<gt><opencurly>fme:get-attribute<openparen><quote>ZIP0<quote><closeparen><closecurly><lt><solidus>gco:CharacterString<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><lt><solidus>gmd:postalCode<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><lt>gmd:city<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><space><space><lt>gco:CharacterString<gt><opencurly>fme:get-attribute<openparen><quote>CITY0<quote><closeparen><closecurly><lt><solidus>gco:CharacterString<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><lt><solidus>gmd:city<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><lt>gmd:country<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><space><space><lt>gmd:CountryCodeISO<gt><opencurly>fme:get-attribute<openparen><quote>COUNTRY0<quote><closeparen><closecurly><lt><solidus>gmd:CountryCodeISO<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><lt><solidus>gmd:country<gt><lf><space><space><space><space><space><space><space><space><space><space><lt><solidus>gmd:CI_Address<gt><lf><space><space><space><space><space><space><space><space><lt><solidus>gmd:address<gt><lf><space><space><space><space><space><space><space><space><lt>gmd:phone<gt><lf><space><space><space><space><space><space><space><space><space><space><lt>gmd:CI_Telephone<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><lt>gmd:number<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><space><space><lt>gco:CharacterString<gt><opencurly>fme:get-attribute<openparen><quote>PHONE0<quote><closeparen><closecurly><lt><solidus>gco:CharacterString<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><lt><solidus>gmd:number<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><lt>gmd:numberType<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><space><space><lt>gmd:CI_NumberTypeCode<space>codeListValue=<quote>mainNumber<quote><space>codeList=<quote>http:<solidus><solidus>www.isotc211.org<solidus>2005<solidus>resources<solidus>codeList.xml#CI_NumberTypeCode<quote><space><solidus><gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><lt><solidus>gmd:numberType<gt><lf><space><space><space><space><space><space><space><space><space><space><lt><solidus>gmd:CI_Telephone<gt><lf><space><space><space><space><space><space><space><space><lt><solidus>gmd:phone<gt><lf><space><space><space><space><space><space><space><space><lt>gmd:phone<gt><lf><space><space><space><space><space><space><space><space><space><space><lt>gmd:CI_Telephone<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><lt>gmd:number<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><space><space><lt>gco:CharacterString<gt><opencurly>fme:get-attribute<openparen><quote>DIRECTPHONE0<quote><closeparen><closecurly><lt><solidus>gco:CharacterString<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><lt><solidus>gmd:number<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><lt>gmd:numberType<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><space><space><lt>gmd:CI_NumberTypeCode<space>codeListValue=<quote>directNumber<quote><space>codeList=<quote>http:<solidus><solidus>www.isotc211.org<solidus>2005<solidus>resources<solidus>codeList.xml#CI_NumberTypeCode<quote><space><solidus><gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><lt><solidus>gmd:numberType<gt><lf><space><space><space><space><space><space><space><space><space><space><lt><solidus>gmd:CI_Telephone<gt><lf><space><space><space><space><space><space><space><space><lt><solidus>gmd:phone<gt><lf><space><space><space><space><space><space><space><space><lt>gmd:phone<gt><lf><space><space><space><space><space><space><space><space><space><space><lt>gmd:CI_Telephone<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><lt>gmd:number<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><space><space><lt>gco:CharacterString<gt><opencurly>fme:get-attribute<openparen><quote>FAX2<quote><closeparen><closecurly><lt><solidus>gco:CharacterString<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><lt><solidus>gmd:number<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><lt>gmd:numberType<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><space><space><lt>gmd:CI_NumberTypeCode<space>codeListValue=<quote>facsimile<quote><space>codeList=<quote>http:<solidus><solidus>www.isotc211.org<solidus>2005<solidus>resources<solidus>codeList.xml#CI_NumberTypeCode<quote><space><solidus><gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><lt><solidus>gmd:numberType<gt><lf><space><space><space><space><space><space><space><space><space><space><lt><solidus>gmd:CI_Telephone<gt><lf><space><space><space><space><space><space><space><space><lt><solidus>gmd:phone<gt><lf><space><space><space><space><space><space><space><space><lt>gmd:electronicalMailAddress<gt><lf><space><space><space><space><space><space><space><space><space><space><lt>gco:CharacterString<gt><opencurly>fme:get-attribute<openparen><quote>EMAIL0<quote><closeparen><closecurly><lt><solidus>gco:CharacterString<gt><lf><space><space><space><space><space><space><space><space><lt><solidus>gmd:electronicalMailAddress<gt><lf><space><space><space><space><space><space><space><space><lt>gmd:linkage<gt><lf><space><space><space><space><space><space><space><space><space><space><lt>gco:CharacterString<gt><opencurly>fme:get-attribute<openparen><quote>INTERNET0<quote><closeparen><closecurly><lt><solidus>gco:CharacterString<gt><lf><space><space><space><space><space><space><space><space><space><space><lt>gmd:PT_FreeText<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><lt>gmd:textGroup<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><space><space><lt>gmd:LocalisedCharacterString<space>locale=<quote>#FR<quote><gt><opencurly>fme:get-attribute<openparen><quote>INTERNET0<quote><closeparen><closecurly><lt><solidus>gmd:LocalisedCharacterString<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><lt><solidus>gmd:textGroup<gt><lf><space><space><space><space><space><space><space><space><space><space><lt><solidus>gmd:PT_FreeText<gt><lf><space><space><space><space><space><space><space><space><lt><solidus>gmd:linkage<gt><lf><space><space><space><space><space><space><lt><solidus>gmd:CI_ResponsibleParty<gt><lf><space><space><space><space><lt><solidus>bee:contact<gt><lf><space><space><lt><solidus>gmd:MD_Metadata<gt> OUTPUT XML_DOCUMENT FEATURE_TYPE XMLTemplater_2_OUTPUT
 # -------------------------------------------------------------------------
 
-INCLUDE [    set macroLine "MACRO AttributeKeeper_11_37cec1c8_213c_4643_b2d8_a8d44ea9ab430_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
+INCLUDE [    set macroLine "MACRO AttributeKeeper_11_a5882aff_121e_4e3f_b9f4_f5dc5d0d9dec1_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
 
-FACTORY_DEF {*} TeeFactory    FACTORY_NAME AttributeKeeper_11    INPUT  FEATURE_TYPE XMLTemplater_2_OUTPUT    OUTPUT { FEATURE_TYPE AttributeKeeper_11_OUTPUT        @KeepAttributes(fme_encoded,metadata_guid,XML,fme_pcre_match,"^fme_$(AttributeKeeper_11_37cec1c8_213c_4643_b2d8_a8d44ea9ab430_LIST_EXP)")         }
+FACTORY_DEF {*} TeeFactory    FACTORY_NAME AttributeKeeper_11    INPUT  FEATURE_TYPE XMLTemplater_2_OUTPUT    OUTPUT { FEATURE_TYPE AttributeKeeper_11_OUTPUT        @KeepAttributes(fme_encoded,metadata_guid,XML,fme_pcre_match,"^fme_$(AttributeKeeper_11_a5882aff_121e_4e3f_b9f4_f5dc5d0d9dec1_LIST_EXP)")         }
 
 # -------------------------------------------------------------------------
 
@@ -9300,9 +9300,9 @@ FACTORY_DEF {*} AttrSetFactory    FACTORY_NAME AttributeRenamer_6    INPUT  FEAT
 
 # -------------------------------------------------------------------------
 
-INCLUDE [    set macroLine "MACRO AttributeKeeper_13_d62b962c_9e6b_4f01_8b1b_6e078e363dce0_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
+INCLUDE [    set macroLine "MACRO AttributeKeeper_13_310b62b1_2d3c_494a_ad8d_45588d6168691_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
 
-FACTORY_DEF {*} TeeFactory    FACTORY_NAME AttributeKeeper_13    INPUT  FEATURE_TYPE AttributeRenamer_6_OUTPUT    OUTPUT { FEATURE_TYPE AttributeKeeper_13_OUTPUT        @KeepAttributes(fme_encoded,MAINID,FIRMA3,EMAIL_ADRESSE,VORNAME,UPDATED,DIENSTELLE,NACHNAME,ID_GEODBMETA,MAINSUBMARK,ID_COBRA,AMT,fme_pcre_match,"^fme_$(AttributeKeeper_13_d62b962c_9e6b_4f01_8b1b_6e078e363dce0_LIST_EXP)")         }
+FACTORY_DEF {*} TeeFactory    FACTORY_NAME AttributeKeeper_13    INPUT  FEATURE_TYPE AttributeRenamer_6_OUTPUT    OUTPUT { FEATURE_TYPE AttributeKeeper_13_OUTPUT        @KeepAttributes(fme_encoded,MAINID,FIRMA3,EMAIL_ADRESSE,VORNAME,UPDATED,DIENSTELLE,NACHNAME,ID_GEODBMETA,MAINSUBMARK,ID_COBRA,AMT,fme_pcre_match,"^fme_$(AttributeKeeper_13_310b62b1_2d3c_494a_ad8d_45588d6168691_LIST_EXP)")         }
 
 # -------------------------------------------------------------------------
 
@@ -9313,8 +9313,8 @@ FACTORY_DEF {*} AttrSetFactory    FACTORY_NAME AttributeCreator_8    INPUT  FEAT
 
 MACRO casemac
 INCLUDE [ if { {NO} == {NO} } { puts {MACRO casemac -nocase}} ]
-Tcl2 proc StringReplacer_fe1f08f6_3a10_4faf_b953_f96130bff40f0_replacer { findText replaceText invalidValue} {     set attrs [split \"AMT\" {,}];     set findValue [FME_DecodeText $findText];     set replaceValue [FME_DecodeText $replaceText];     foreach attr $attrs {       set attrVal [FME_GetAttribute $attr];       set noMatch true;       if {{NO} == {YES}} {         set newAttrVal [FME_ReplaceRegex $(casemac) $findValue $attrVal $replaceValue];       } else {         set newAttrVal [string map $(casemac) [list $findValue $replaceValue] $attrVal];       };       if { $newAttrVal ne $attrVal } {         set noMatch false;         FME_SetAttribute $attr $newAttrVal;       };       if {$noMatch} {          if { $invalidValue == {FME_NULL_VALUE} } {             FME_SetAttributeNull $attr;          } elseif { $invalidValue != {_FME_NO_OP_} }  {             FME_SetAttribute $attr [FME_DecodeText $invalidValue];          };       };     }; }
-FACTORY_DEF * TeeFactory    FACTORY_NAME StringReplacer    INPUT  FEATURE_TYPE AttributeCreator_8_OUTPUT    OUTPUT FEATURE_TYPE StringReplacer_OUTPUT         @Tcl2("StringReplacer_fe1f08f6_3a10_4faf_b953_f96130bff40f0_replacer {<apos>} {<apos><apos>} {_FME_NO_OP_}")
+Tcl2 proc StringReplacer_ef11a20e_d731_44d5_826d_c7fec06e6c9c1_replacer { findText replaceText invalidValue} {     set attrs [split \"AMT\" {,}];     set findValue [FME_DecodeText $findText];     set replaceValue [FME_DecodeText $replaceText];     foreach attr $attrs {       set attrVal [FME_GetAttribute $attr];       set noMatch true;       if {{NO} == {YES}} {         set newAttrVal [FME_ReplaceRegex $(casemac) $findValue $attrVal $replaceValue];       } else {         set newAttrVal [string map $(casemac) [list $findValue $replaceValue] $attrVal];       };       if { $newAttrVal ne $attrVal } {         set noMatch false;         FME_SetAttribute $attr $newAttrVal;       };       if {$noMatch} {          if { $invalidValue == {FME_NULL_VALUE} } {             FME_SetAttributeNull $attr;          } elseif { $invalidValue != {_FME_NO_OP_} }  {             FME_SetAttribute $attr [FME_DecodeText $invalidValue];          };       };     }; }
+FACTORY_DEF * TeeFactory    FACTORY_NAME StringReplacer    INPUT  FEATURE_TYPE AttributeCreator_8_OUTPUT    OUTPUT FEATURE_TYPE StringReplacer_OUTPUT         @Tcl2("StringReplacer_ef11a20e_d731_44d5_826d_c7fec06e6c9c1_replacer {<apos>} {<apos><apos>} {_FME_NO_OP_}")
 
 # -------------------------------------------------------------------------
 MACRO SQLExecutor_3_DIRECTIVES PERSISTENT_CONNECTION YES QUERY_FEATURE_TYPES_FOR_MERGE_FILTERS Yes USE_UNIFIED_DATE_ATTRS YES USER_NAME "$(GDBP_USERNAME)" PASSWORD "$(GDBP_PASSWORD)" REMOVE_SCHEMA_QUALIFIER NO SERVER_TYPE ORACLE8i SHOW_SYSTEM_TABLES NO
@@ -9372,8 +9372,8 @@ FACTORY_DEF {*} AttrSetFactory    FACTORY_NAME AttributeCreator_5    INPUT  FEAT
 
 # -------------------------------------------------------------------------
 
-Tcl2 proc AttributeTrimmer_54ed01c9_cd70_464b_a33c_eae68378f17c0_trimmer { trimChars} {    set attrs [split {name} {,}];    set trimChars [FME_DecodeText $trimChars];    foreach attr $attrs {       set attrVal [FME_GetAttribute $attr];       set length [string length $attrVal];       if {$length > 0} {          if {[string length $trimChars] == 0} {             set result [string trim $attrVal];         } else {             set result [string trim $attrVal $trimChars];         };          if {[string length $result] == 0 && {Yes} == {No}} {              if { {trim} == {trimleft}} {                set lastPos [expr $length - 1];                set result [string range $attrVal $lastPos $lastPos ];              } elseif { {trim} == {trimright}} {                set result [string range $attrVal 0 0];              } else {                set midPos [expr $length / 2];                set result [string range $attrVal $midPos $midPos];              };          };          FME_SetAttribute $attr $result;       };    }; }
-FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeTrimmer    INPUT  FEATURE_TYPE AttributeCreator_5_OUTPUT    OUTPUT FEATURE_TYPE AttributeTrimmer_OUTPUT      @Tcl2("AttributeTrimmer_54ed01c9_cd70_464b_a33c_eae68378f17c0_trimmer {<space>} ")
+Tcl2 proc AttributeTrimmer_49dd5c04_8b74_44af_9e46_6a9f68af5d331_trimmer { trimChars} {    set attrs [split {name} {,}];    set trimChars [FME_DecodeText $trimChars];    foreach attr $attrs {       set attrVal [FME_GetAttribute $attr];       set length [string length $attrVal];       if {$length > 0} {          if {[string length $trimChars] == 0} {             set result [string trim $attrVal];         } else {             set result [string trim $attrVal $trimChars];         };          if {[string length $result] == 0 && {Yes} == {No}} {              if { {trim} == {trimleft}} {                set lastPos [expr $length - 1];                set result [string range $attrVal $lastPos $lastPos ];              } elseif { {trim} == {trimright}} {                set result [string range $attrVal 0 0];              } else {                set midPos [expr $length / 2];                set result [string range $attrVal $midPos $midPos];              };          };          FME_SetAttribute $attr $result;       };    }; }
+FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeTrimmer    INPUT  FEATURE_TYPE AttributeCreator_5_OUTPUT    OUTPUT FEATURE_TYPE AttributeTrimmer_OUTPUT      @Tcl2("AttributeTrimmer_49dd5c04_8b74_44af_9e46_6a9f68af5d331_trimmer {<space>} ")
 
 # -------------------------------------------------------------------------
 
@@ -9393,9 +9393,9 @@ FACTORY_DEF {*} AttrSetFactory    FACTORY_NAME AttributeCreator_7    INPUT  FEAT
 
 # -------------------------------------------------------------------------
 
-INCLUDE [    set macroLine "MACRO AttributeKeeper_12_6061339c_5fa3_4a35_962b_c1600247e9d50_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
+INCLUDE [    set macroLine "MACRO AttributeKeeper_12_c8ce61c5_d256_4475_bffe_ffff53c36de51_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
 
-FACTORY_DEF {*} TeeFactory    FACTORY_NAME AttributeKeeper_12    INPUT  FEATURE_TYPE AttributeCreator_6_OUTPUT_0_GyCla7I1Rxg=    OUTPUT { FEATURE_TYPE AttributeKeeper_12_OUTPUT        @KeepAttributes(fme_encoded,resource_guid,metadata_guid,version_guid,fme_pcre_match,"^fme_$(AttributeKeeper_12_6061339c_5fa3_4a35_962b_c1600247e9d50_LIST_EXP)")         }
+FACTORY_DEF {*} TeeFactory    FACTORY_NAME AttributeKeeper_12    INPUT  FEATURE_TYPE AttributeCreator_6_OUTPUT_0_GyCla7I1Rxg=    OUTPUT { FEATURE_TYPE AttributeKeeper_12_OUTPUT        @KeepAttributes(fme_encoded,resource_guid,metadata_guid,version_guid,fme_pcre_match,"^fme_$(AttributeKeeper_12_c8ce61c5_d256_4475_bffe_ffff53c36de51_LIST_EXP)")         }
 
 # -------------------------------------------------------------------------
 
@@ -9408,9 +9408,9 @@ FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeFilter    INPUT  FEATURE_TYPE 
 FACTORY_DEF * AttributeFilterFactory FACTORY_NAME AttributeFilter_Filter COMMAND_PARM_EVALUATION SINGLE_PASS INPUT FEATURE_TYPE AttributeFilter_FILTER FILTER_ATTRIBUTE gdbp_STATUS FILTER_VALUES <lt>EMPTY<gt> <lt>MISSING<gt> <lt>NULL<gt> <lt>UNFILTERED<gt> 1 2 3 4 5 OUTPUT <lt>EMPTY<gt> FEATURE_TYPE AttributeFilter_<lt>EMPTY<gt> OUTPUT <lt>MISSING<gt> FEATURE_TYPE AttributeFilter_<lt>MISSING<gt> OUTPUT <lt>NULL<gt> FEATURE_TYPE AttributeFilter_<lt>NULL<gt> OUTPUT <lt>UNFILTERED<gt> FEATURE_TYPE AttributeFilter_<lt>UNFILTERED<gt> OUTPUT 1 FEATURE_TYPE AttributeFilter_1 OUTPUT 2 FEATURE_TYPE AttributeFilter_2 OUTPUT 3 FEATURE_TYPE AttributeFilter_3 OUTPUT 4 FEATURE_TYPE AttributeFilter_4 OUTPUT 5 FEATURE_TYPE AttributeFilter_5
 # -------------------------------------------------------------------------
 
-INCLUDE [    set macroLine "MACRO AttributeKeeper_5_59304606_0e79_4ee2_98b4_2a9e65a6a9ef0_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
+INCLUDE [    set macroLine "MACRO AttributeKeeper_5_4b1ef44f_fcd3_4ee5_a06d_5b21a86966fd1_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
 
-FACTORY_DEF {*} TeeFactory    FACTORY_NAME AttributeKeeper_5    INPUT  FEATURE_TYPE AttributeFilter_2    OUTPUT { FEATURE_TYPE AttributeKeeper_5_OUTPUT        @KeepAttributes(fme_encoded,gdbp_ID_GEODBMETA,gdbp_ID_COBRA,gdbp_ID_KONTAKT,fme_pcre_match,"^fme_$(AttributeKeeper_5_59304606_0e79_4ee2_98b4_2a9e65a6a9ef0_LIST_EXP)")         }
+FACTORY_DEF {*} TeeFactory    FACTORY_NAME AttributeKeeper_5    INPUT  FEATURE_TYPE AttributeFilter_2    OUTPUT { FEATURE_TYPE AttributeKeeper_5_OUTPUT        @KeepAttributes(fme_encoded,gdbp_ID_GEODBMETA,gdbp_ID_COBRA,gdbp_ID_KONTAKT,fme_pcre_match,"^fme_$(AttributeKeeper_5_4b1ef44f_fcd3_4ee5_a06d_5b21a86966fd1_LIST_EXP)")         }
 
 # -------------------------------------------------------------------------
 
@@ -9426,9 +9426,9 @@ FACTORY_DEF * TeeFactory   FACTORY_NAME "Logger LOGGED Transformer Output Nuker"
 FACTORY_DEF * TestFactory    FACTORY_NAME Tester_2    INPUT  FEATURE_TYPE AttributeFilter_1    TEST @EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>gdbp_AMT<closeparen>,Tester_2) = @EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>cobra_COMPANY1<closeparen>,Tester_2) ENCODED TEST @EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>gdbp_DIENSTELLE<closeparen>,Tester_2) = @EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>cobra_DEPARTMENT0<closeparen>,Tester_2) ENCODED TEST @EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>gdbp_EMAIL_ADRESSE<closeparen>,Tester_2) = @EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>cobra_EMAIL0<closeparen>,Tester_2) ENCODED    BOOLEAN_OPERATOR OR    OUTPUT PASSED FEATURE_TYPE Tester_2_PASSED    OUTPUT FAILED FEATURE_TYPE Tester_2_FAILED
 # -------------------------------------------------------------------------
 
-INCLUDE [    set macroLine "MACRO AttributeKeeper_6_a82ee697_158e_4e7f_93ae_e12b607b9ebe0_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
+INCLUDE [    set macroLine "MACRO AttributeKeeper_6_fe7b38e5_039c_4765_82bf_38c5a16ca4c11_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
 
-FACTORY_DEF {*} TeeFactory    FACTORY_NAME AttributeKeeper_6    INPUT  FEATURE_TYPE Tester_2_FAILED    OUTPUT { FEATURE_TYPE AttributeKeeper_6_OUTPUT        @KeepAttributes(fme_encoded,gdbp_ID_KONTAKT,fme_pcre_match,"^fme_$(AttributeKeeper_6_a82ee697_158e_4e7f_93ae_e12b607b9ebe0_LIST_EXP)")         }
+FACTORY_DEF {*} TeeFactory    FACTORY_NAME AttributeKeeper_6    INPUT  FEATURE_TYPE Tester_2_FAILED    OUTPUT { FEATURE_TYPE AttributeKeeper_6_OUTPUT        @KeepAttributes(fme_encoded,gdbp_ID_KONTAKT,fme_pcre_match,"^fme_$(AttributeKeeper_6_fe7b38e5_039c_4765_82bf_38c5a16ca4c11_LIST_EXP)")         }
 
 # -------------------------------------------------------------------------
 
@@ -9441,9 +9441,9 @@ FACTORY_DEF {*} AttrSetFactory    FACTORY_NAME AttributeRenamer_3    INPUT  FEAT
 
 # -------------------------------------------------------------------------
 
-INCLUDE [    set macroLine "MACRO AttributeKeeper_7_d6027fe1_24fb_4fff_b93a_bc643e6e9ab20_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
+INCLUDE [    set macroLine "MACRO AttributeKeeper_7_67ab9a32_6c36_4256_8691_c5dd5ee40da21_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
 
-FACTORY_DEF {*} TeeFactory    FACTORY_NAME AttributeKeeper_7    INPUT  FEATURE_TYPE Tester_2_PASSED    INPUT  FEATURE_TYPE AttributeFilter_3    OUTPUT { FEATURE_TYPE AttributeKeeper_7_OUTPUT        @KeepAttributes(fme_encoded,cobra_FIRSTNAME0,cobra_PHONE0,cobra_LASTNAME0,cobra_STREET0,cobra_EMAIL0,cobra_POSTBOX0,cobra_INTERNET0,gdbp_ID_GEODBMETA,cobra_MAINSUBMARK,cobra_COMPANY1,cobra_ID,cobra_COMPANY2,gdbp_STATUS,cobra_DIRECTPHONE0,gdbp_ID_KONTAKT,gdbp_UPDATED,cobra_CITY0,cobra_COUNTRY0,cobra_DATEMODIFIED,cobra_FAX2,cobra_ZIP0,cobra_MAINID,cobra_DEPARTMENT0,fme_pcre_match,"^fme_$(AttributeKeeper_7_d6027fe1_24fb_4fff_b93a_bc643e6e9ab20_LIST_EXP)")         }
+FACTORY_DEF {*} TeeFactory    FACTORY_NAME AttributeKeeper_7    INPUT  FEATURE_TYPE Tester_2_PASSED    INPUT  FEATURE_TYPE AttributeFilter_3    OUTPUT { FEATURE_TYPE AttributeKeeper_7_OUTPUT        @KeepAttributes(fme_encoded,cobra_FIRSTNAME0,cobra_PHONE0,cobra_LASTNAME0,cobra_STREET0,cobra_EMAIL0,cobra_POSTBOX0,cobra_INTERNET0,gdbp_ID_GEODBMETA,cobra_MAINSUBMARK,cobra_COMPANY1,cobra_ID,cobra_COMPANY2,gdbp_STATUS,cobra_DIRECTPHONE0,gdbp_ID_KONTAKT,gdbp_UPDATED,cobra_CITY0,cobra_COUNTRY0,cobra_DATEMODIFIED,cobra_FAX2,cobra_ZIP0,cobra_MAINID,cobra_DEPARTMENT0,fme_pcre_match,"^fme_$(AttributeKeeper_7_67ab9a32_6c36_4256_8691_c5dd5ee40da21_LIST_EXP)")         }
 
 # -------------------------------------------------------------------------
 
@@ -9479,9 +9479,9 @@ FACTORY_DEF {*} AttrSetFactory    FACTORY_NAME AttributeRenamer_4    INPUT  FEAT
 
 # -------------------------------------------------------------------------
 
-INCLUDE [    set macroLine "MACRO AttributeKeeper_10_915be765_2789_4c95_854f_98657a6248620_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
+INCLUDE [    set macroLine "MACRO AttributeKeeper_10_3015a103_9d44_432a_b395_8e75b3aa34f11_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
 
-FACTORY_DEF {*} TeeFactory    FACTORY_NAME AttributeKeeper_10    INPUT  FEATURE_TYPE AttributeRenamer_4_OUTPUT    OUTPUT { FEATURE_TYPE AttributeKeeper_10_OUTPUT        @KeepAttributes(fme_encoded,MAINID,FIRMA3,EMAIL_ADRESSE,VORNAME,DIENSTELLE,ID_KONTAKT,NACHNAME,ID_GEODBMETA,MAINSUBMARK,ID_COBRA,AMT,fme_pcre_match,"^fme_$(AttributeKeeper_10_915be765_2789_4c95_854f_98657a6248620_LIST_EXP)")         }
+FACTORY_DEF {*} TeeFactory    FACTORY_NAME AttributeKeeper_10    INPUT  FEATURE_TYPE AttributeRenamer_4_OUTPUT    OUTPUT { FEATURE_TYPE AttributeKeeper_10_OUTPUT        @KeepAttributes(fme_encoded,MAINID,FIRMA3,EMAIL_ADRESSE,VORNAME,DIENSTELLE,ID_KONTAKT,NACHNAME,ID_GEODBMETA,MAINSUBMARK,ID_COBRA,AMT,fme_pcre_match,"^fme_$(AttributeKeeper_10_3015a103_9d44_432a_b395_8e75b3aa34f11_LIST_EXP)")         }
 
 # -------------------------------------------------------------------------
 
@@ -9523,9 +9523,9 @@ FACTORY_DEF {*} AttrSetFactory    FACTORY_NAME AttributeCreator_3    INPUT  FEAT
 FACTORY_DEF * XMLTemplaterFactory FACTORY_NAME XMLTemplater INPUT CONTROL_FEATURE FEATURE_TYPE AttributeCreator_3_OUTPUT INPUT DATA_FEATURE FEATURE_TYPE XMLTemplater_DataFeatures RESULT_ATTR XML OUTPUT_XML_HEADER NO BUCKET_ATTR_NAME __xml_templater_bucket__ CONTROL_TEMPLATE_EXPR <lt>gmd:MD_Metadata<space>xmlns:gmd=<quote>http:<solidus><solidus>www.isotc211.org<solidus>2005<solidus>gmd<quote><space>xmlns:xlink=<quote>http:<solidus><solidus>www.w3.org<solidus>1999<solidus>xlink<quote><space>xmlns:gts=<quote>http:<solidus><solidus>www.isotc211.org<solidus>2005<solidus>gts<quote><space>xmlns:srv=<quote>http:<solidus><solidus>www.isotc211.org<solidus>2005<solidus>srv<quote><space>xmlns:bee=<quote>http:<solidus><solidus>www.be.ch<solidus>bve<solidus>agi<solidus>2010<solidus>bee<quote><space>xmlns:che=<quote>http:<solidus><solidus>www.geocat.ch<solidus>2008<solidus>che<quote><space>xmlns:gco=<quote>http:<solidus><solidus>www.isotc211.org<solidus>2005<solidus>gco<quote><space>xmlns:gml=<quote>http:<solidus><solidus>www.opengis.net<solidus>gml<quote><space>xmlns:geonet=<quote>http:<solidus><solidus>www.fao.org<solidus>geonetwork<quote><gt><lf><space><space><space><space><lt>gmd:language<gt><lf><space><space><space><space><space><space><lt>gco:CharacterString<gt>deu<lt><solidus>gco:CharacterString<gt><lf><space><space><space><space><lt><solidus>gmd:language<gt><lf><space><space><space><space><lt>gmd:characterSet<gt><lf><space><space><space><space><space><space><lt>gmd:MD_CharacterSetCode<space>codeListValue=<quote>utf8<quote><space>codeList=<quote>http:<solidus><solidus>www.isotc211.org<solidus>2005<solidus>resources<solidus>codeList.xml#MD_CharacterSetCode<quote><space><solidus><gt><lf><space><space><space><space><lt><solidus>gmd:characterSet<gt><lf><space><space><space><space><lt>gmd:locale<gt><lf><space><space><space><space><space><space><lt>gmd:PT_Locale<space>id=<quote>FR<quote><gt><lf><space><space><space><space><space><space><space><space><lt>gmd:languageCode<gt><lf><space><space><space><space><space><space><space><space><space><space><lt>gmd:LanguageCode<space>codeListValue=<quote>fra<quote><space>codeList=<quote>#LanguageCode<quote><gt>Fran<u00e7>ais<lt><solidus>gmd:LanguageCode<gt><lf><space><space><space><space><space><space><space><space><lt><solidus>gmd:languageCode<gt><lf><space><space><space><space><space><space><space><space><lt>gmd:characterEncoding<gt><lf><space><space><space><space><space><space><space><space><space><space><lt>gmd:MD_CharacterSetCode<space>codeListValue=<quote>utf8<quote><space>codeList=<quote>#MD_CharacterSetCode<quote><gt>UTF8<lt><solidus>gmd:MD_CharacterSetCode<gt><lf><space><space><space><space><space><space><space><space><lt><solidus>gmd:characterEncoding<gt><lf><space><space><space><space><space><space><lt><solidus>gmd:PT_Locale<gt><lf><space><space><space><space><lt><solidus>gmd:locale<gt><lf><space><space><space><space><lt>gmd:fileIdentifier<gt><lf><space><space><space><space><space><space><lt>gco:CharacterString<gt><opencurly>fme:get-attribute<openparen><quote>ID_GEODBMETA<quote><closeparen><closecurly><lt><solidus>gco:CharacterString<gt><lf><space><space><space><space><lt><solidus>gmd:fileIdentifier<gt><lf><space><space><space><space><lt>gmd:datestamp<gt><lf><space><space><space><space><space><space><lt>gco:DateTime<gt><opencurly>fme:get-attribute<openparen><quote>_timestamp<quote><closeparen><closecurly><lt><solidus>gco:DateTime<gt><lf><space><space><space><space><lt><solidus>gmd:datestamp<gt><lf><space><space><space><space><lt>gmd:metadataStandardName<gt><lf><space><space><space><space><space><space><lt>gco:CharacterString<gt>ISO<space>19115:2003<solidus>19139<space><openparen>Profil<space>BE<closeparen><lt><solidus>gco:CharacterString<gt><lf><space><space><space><space><lt><solidus>gmd:metadataStandardName<gt><lf><space><space><space><space><lt>gmd:metadataStandardversion<gt><lf><space><space><space><space><space><space><lt>gco:CharacterString<gt>1.0<lt><solidus>gco:CharacterString<gt><lf><space><space><space><space><lt><solidus>gmd:metadataStandardversion<gt><lf><space><space><space><space><lt>bee:cobraIdentifier<gt><lf><space><space><space><space><space><space><lt>gco:Decimal<gt><opencurly>fme:get-attribute<openparen><quote>ID<quote><closeparen><closecurly><lt><solidus>gco:Decimal<gt><lf><space><space><space><space><lt><solidus>bee:cobraIdentifier<gt><lf><space><space><space><space><lt>bee:contact<gt><lf><space><space><space><space><space><space><lt>gmd:CI_ResponsibleParty<gt><lf><space><space><space><space><space><space><space><space><lt>gmd:individualFirstName<gt><lf><space><space><space><space><space><space><space><space><space><space><lt>gco:CharacterString<gt><opencurly>fme:get-attribute<openparen><quote>FIRSTNAME0<quote><closeparen><closecurly><lt><solidus>gco:CharacterString<gt><lf><space><space><space><space><space><space><space><space><lt><solidus>gmd:individualFirstName<gt><lf><space><space><space><space><space><space><space><space><lt>gmd:individualLastName<gt><lf><space><space><space><space><space><space><space><space><space><space><lt>gco:CharacterString<gt><opencurly>fme:get-attribute<openparen><quote>LASTNAME0<quote><closeparen><closecurly><lt><solidus>gco:CharacterString<gt><lf><space><space><space><space><space><space><space><space><lt><solidus>gmd:individualLastName<gt><lf><space><space><space><space><space><space><space><space><lt>gmd:organisationName<gt><lf><space><space><space><space><space><space><space><space><space><space><lt>gco:CharacterString<gt><opencurly>fme:get-attribute<openparen><quote>COMPANY1<quote><closeparen><closecurly><space><opencurly>fme:get-attribute<openparen><quote>COMPANY2<quote><closeparen><closecurly><lt><solidus>gco:CharacterString<gt><lf><space><space><space><space><space><space><space><space><lt><solidus>gmd:organisationName<gt><lf><space><space><space><space><space><space><space><space><lt>gmd:address<gt><lf><space><space><space><space><space><space><space><space><space><space><lt>gmd:CI_Address<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><lt>gmd:streetName<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><space><space><lt>gco:CharacterString<gt><opencurly>fme:get-attribute<openparen><quote>STREET0<quote><closeparen><closecurly><lt><solidus>gco:CharacterString<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><lt><solidus>gmd:streetName<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><lt>gmd:addressLine<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><space><space><lt>gco:CharacterString<gt><opencurly>fme:get-attribute<openparen><quote>DEPARTMENT0<quote><closeparen><closecurly><lt><solidus>gco:CharacterString<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><lt><solidus>gmd:addressLine<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><lt>gmd:postBox<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><space><space><lt>gco:Decimal<gt><opencurly>fme:get-attribute<openparen><quote>POSTBOX0<quote><closeparen><closecurly><lt><solidus>gco:Decimal<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><lt><solidus>gmd:postBox<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><lt>gmd:postalCode<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><space><space><lt>gco:CharacterString<gt><opencurly>fme:get-attribute<openparen><quote>ZIP0<quote><closeparen><closecurly><lt><solidus>gco:CharacterString<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><lt><solidus>gmd:postalCode<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><lt>gmd:city<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><space><space><lt>gco:CharacterString<gt><opencurly>fme:get-attribute<openparen><quote>CITY0<quote><closeparen><closecurly><lt><solidus>gco:CharacterString<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><lt><solidus>gmd:city<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><lt>gmd:country<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><space><space><lt>gmd:CountryCodeISO<gt><opencurly>fme:get-attribute<openparen><quote>COUNTRY0<quote><closeparen><closecurly><lt><solidus>gmd:CountryCodeISO<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><lt><solidus>gmd:country<gt><lf><space><space><space><space><space><space><space><space><space><space><lt><solidus>gmd:CI_Address<gt><lf><space><space><space><space><space><space><space><space><lt><solidus>gmd:address<gt><lf><space><space><space><space><space><space><space><space><lt>gmd:phone<gt><lf><space><space><space><space><space><space><space><space><space><space><lt>gmd:CI_Telephone<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><lt>gmd:number<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><space><space><lt>gco:CharacterString<gt><opencurly>fme:get-attribute<openparen><quote>PHONE0<quote><closeparen><closecurly><lt><solidus>gco:CharacterString<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><lt><solidus>gmd:number<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><lt>gmd:numberType<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><space><space><lt>gmd:CI_NumberTypeCode<space>codeListValue=<quote>mainNumber<quote><space>codeList=<quote>http:<solidus><solidus>www.isotc211.org<solidus>2005<solidus>resources<solidus>codeList.xml#CI_NumberTypeCode<quote><space><solidus><gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><lt><solidus>gmd:numberType<gt><lf><space><space><space><space><space><space><space><space><space><space><lt><solidus>gmd:CI_Telephone<gt><lf><space><space><space><space><space><space><space><space><lt><solidus>gmd:phone<gt><lf><space><space><space><space><space><space><space><space><lt>gmd:phone<gt><lf><space><space><space><space><space><space><space><space><space><space><lt>gmd:CI_Telephone<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><lt>gmd:number<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><space><space><lt>gco:CharacterString<gt><opencurly>fme:get-attribute<openparen><quote>DIRECTPHONE0<quote><closeparen><closecurly><lt><solidus>gco:CharacterString<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><lt><solidus>gmd:number<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><lt>gmd:numberType<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><space><space><lt>gmd:CI_NumberTypeCode<space>codeListValue=<quote>directNumber<quote><space>codeList=<quote>http:<solidus><solidus>www.isotc211.org<solidus>2005<solidus>resources<solidus>codeList.xml#CI_NumberTypeCode<quote><space><solidus><gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><lt><solidus>gmd:numberType<gt><lf><space><space><space><space><space><space><space><space><space><space><lt><solidus>gmd:CI_Telephone<gt><lf><space><space><space><space><space><space><space><space><lt><solidus>gmd:phone<gt><lf><space><space><space><space><space><space><space><space><lt>gmd:phone<gt><lf><space><space><space><space><space><space><space><space><space><space><lt>gmd:CI_Telephone<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><lt>gmd:number<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><space><space><lt>gco:CharacterString<gt><opencurly>fme:get-attribute<openparen><quote>FAX2<quote><closeparen><closecurly><lt><solidus>gco:CharacterString<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><lt><solidus>gmd:number<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><lt>gmd:numberType<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><space><space><lt>gmd:CI_NumberTypeCode<space>codeListValue=<quote>facsimile<quote><space>codeList=<quote>http:<solidus><solidus>www.isotc211.org<solidus>2005<solidus>resources<solidus>codeList.xml#CI_NumberTypeCode<quote><space><solidus><gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><lt><solidus>gmd:numberType<gt><lf><space><space><space><space><space><space><space><space><space><space><lt><solidus>gmd:CI_Telephone<gt><lf><space><space><space><space><space><space><space><space><lt><solidus>gmd:phone<gt><lf><space><space><space><space><space><space><space><space><lt>gmd:electronicalMailAddress<gt><lf><space><space><space><space><space><space><space><space><space><space><lt>gco:CharacterString<gt><opencurly>fme:get-attribute<openparen><quote>EMAIL0<quote><closeparen><closecurly><lt><solidus>gco:CharacterString<gt><lf><space><space><space><space><space><space><space><space><lt><solidus>gmd:electronicalMailAddress<gt><lf><space><space><space><space><space><space><space><space><lt>gmd:linkage<gt><lf><space><space><space><space><space><space><space><space><space><space><lt>gco:CharacterString<gt><opencurly>fme:get-attribute<openparen><quote>INTERNET0<quote><closeparen><closecurly><lt><solidus>gco:CharacterString<gt><lf><space><space><space><space><space><space><space><space><space><space><lt>gmd:PT_FreeText<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><lt>gmd:textGroup<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><space><space><lt>gmd:LocalisedCharacterString<space>locale=<quote>#FR<quote><gt><opencurly>fme:get-attribute<openparen><quote>INTERNET0<quote><closeparen><closecurly><lt><solidus>gmd:LocalisedCharacterString<gt><lf><space><space><space><space><space><space><space><space><space><space><space><space><lt><solidus>gmd:textGroup<gt><lf><space><space><space><space><space><space><space><space><space><space><lt><solidus>gmd:PT_FreeText<gt><lf><space><space><space><space><space><space><space><space><lt><solidus>gmd:linkage<gt><lf><space><space><space><space><space><space><lt><solidus>gmd:CI_ResponsibleParty<gt><lf><space><space><space><space><lt><solidus>bee:contact<gt><lf><space><space><lt><solidus>gmd:MD_Metadata<gt> OUTPUT XML_DOCUMENT FEATURE_TYPE XMLTemplater_OUTPUT
 # -------------------------------------------------------------------------
 
-INCLUDE [    set macroLine "MACRO AttributeKeeper_8_4955411c_da23_4f71_80d5_14d1d500b22b0_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
+INCLUDE [    set macroLine "MACRO AttributeKeeper_8_78881012_555c_4856_9d6d_97053a59609d1_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
 
-FACTORY_DEF {*} TeeFactory    FACTORY_NAME AttributeKeeper_8    INPUT  FEATURE_TYPE XMLTemplater_OUTPUT    OUTPUT { FEATURE_TYPE AttributeKeeper_8_OUTPUT        @KeepAttributes(fme_encoded,XML,metadatastate_id,modified,fme_where,ID_GEODBMETA,fme_pcre_match,"^fme_$(AttributeKeeper_8_4955411c_da23_4f71_80d5_14d1d500b22b0_LIST_EXP)")         }
+FACTORY_DEF {*} TeeFactory    FACTORY_NAME AttributeKeeper_8    INPUT  FEATURE_TYPE XMLTemplater_OUTPUT    OUTPUT { FEATURE_TYPE AttributeKeeper_8_OUTPUT        @KeepAttributes(fme_encoded,XML,metadatastate_id,modified,fme_where,ID_GEODBMETA,fme_pcre_match,"^fme_$(AttributeKeeper_8_78881012_555c_4856_9d6d_97053a59609d1_LIST_EXP)")         }
 
 # -------------------------------------------------------------------------
 MACRO SQLExecutor_DIRECTIVES QUERY_FEATURE_TYPES_FOR_MERGE_FILTERS Yes PORT "$(MYSQL_PORT)" USER_NAME "$(MYSQL_USERNAME)" PASSWORD "$(MYSQL_PASSWORD)" HOST "$(MYSQL_HOST)"
@@ -9562,9 +9562,9 @@ FACTORY_DEF * TeeFactory    FACTORY_NAME StringConcatenator_2    INPUT  FEATURE_
 FACTORY_DEF * TeeFactory   FACTORY_NAME "StringConcatenator_2 OUTPUT Splitter"   INPUT FEATURE_TYPE StringConcatenator_2_OUTPUT   OUTPUT FEATURE_TYPE StringConcatenator_2_OUTPUT_0_wWj26op00Uo=   OUTPUT FEATURE_TYPE StringConcatenator_2_OUTPUT_1_tDNP6FbsRtk=
 # -------------------------------------------------------------------------
 
-INCLUDE [    set macroLine "MACRO AttributeKeeper_9_f6bd311b_534c_4c73_a66d_bf844d5e80080_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
+INCLUDE [    set macroLine "MACRO AttributeKeeper_9_1e12d1f2_ae40_48b9_bfb7_b6060f31a1051_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
 
-FACTORY_DEF {*} TeeFactory    FACTORY_NAME AttributeKeeper_9    INPUT  FEATURE_TYPE StringConcatenator_2_OUTPUT_1_tDNP6FbsRtk=    OUTPUT { FEATURE_TYPE AttributeKeeper_9_OUTPUT        @KeepAttributes(fme_encoded,XML,ID_GEODBMETA,fme_pcre_match,"^fme_$(AttributeKeeper_9_f6bd311b_534c_4c73_a66d_bf844d5e80080_LIST_EXP)")         }
+FACTORY_DEF {*} TeeFactory    FACTORY_NAME AttributeKeeper_9    INPUT  FEATURE_TYPE StringConcatenator_2_OUTPUT_1_tDNP6FbsRtk=    OUTPUT { FEATURE_TYPE AttributeKeeper_9_OUTPUT        @KeepAttributes(fme_encoded,XML,ID_GEODBMETA,fme_pcre_match,"^fme_$(AttributeKeeper_9_1e12d1f2_ae40_48b9_bfb7_b6060f31a1051_LIST_EXP)")         }
 
 # -------------------------------------------------------------------------
 
@@ -9581,8 +9581,8 @@ FACTORY_DEF * HTTPFactory    FACTORY_NAME HTTPCaller       INPUT  FEATURE_TYPE P
 
 MACRO casemac
 INCLUDE [ if { {no} == {no} } { puts {MACRO casemac -nocase}} ]
-Tcl2 proc StringSearcher_e4b32b82_1fd4_4c15_aa24_08078effe5600_doGrep { stringToSearch regExp matchedChars matches matchedParts } {   set subMatches 1;   set matches [FME_DecodeText $matches];   set matchedParts [FME_DecodeText $matchedParts];   set results [FME_GetRegex $(casemac) [FME_DecodeText $regExp] [FME_DecodeText $stringToSearch]];   if {[llength [lindex $results 0]] > 0} {      set attrName [FME_DecodeText $matchedChars];      FME_SetAttribute $attrName [lindex [lindex [lindex $results 0] 0] 0];      set index 0;      set parts [lindex $results 1];      foreach part $parts {         if {[llength $matchedParts] > 0} {             set attrName "$matchedParts{$index}.part";             FME_SetAttribute $attrName [lindex $part 0];             set attrName "$matchedParts{$index}.startIndex";             FME_SetAttribute $attrName [lindex $part 1];         };         incr index;      };      set index 0;      set regexMatches [lindex $results 0];      foreach part $regexMatches {         if {[llength $matches] > 0} {             set attrName "$matches{$index}.match";             FME_SetAttribute $attrName [lindex $part 0];             set attrName "$matches{$index}.startIndex";             FME_SetAttribute $attrName [lindex $part 1];         };         set isFirstMatch 0;         incr index;      };      return $index;   };   return -1; }
-FACTORY_DEF * TestFactory    FACTORY_NAME StringSearcher    INPUT  FEATURE_TYPE HTTPCaller_Output    TEST @Tcl2("StringSearcher_e4b32b82_1fd4_4c15_aa24_08078effe5600_doGrep {@EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>_response_body<closeparen>,StringSearcher)} {TransactionResponse<space>} {_first_match} {} {}") > 0    OUTPUT PASSED FEATURE_TYPE StringSearcher_MATCHED    OUTPUT FAILED FEATURE_TYPE StringSearcher_NOT_MATCHED
+Tcl2 proc StringSearcher_7d3f21e2_8c63_4a2a_8416_b0869894e8c41_doGrep { stringToSearch regExp matchedChars matches matchedParts } {   set subMatches 1;   set matches [FME_DecodeText $matches];   set matchedParts [FME_DecodeText $matchedParts];   set results [FME_GetRegex $(casemac) [FME_DecodeText $regExp] [FME_DecodeText $stringToSearch]];   if {[llength [lindex $results 0]] > 0} {      set attrName [FME_DecodeText $matchedChars];      FME_SetAttribute $attrName [lindex [lindex [lindex $results 0] 0] 0];      set index 0;      set parts [lindex $results 1];      foreach part $parts {         if {[llength $matchedParts] > 0} {             set attrName "$matchedParts{$index}.part";             FME_SetAttribute $attrName [lindex $part 0];             set attrName "$matchedParts{$index}.startIndex";             FME_SetAttribute $attrName [lindex $part 1];         };         incr index;      };      set index 0;      set regexMatches [lindex $results 0];      foreach part $regexMatches {         if {[llength $matches] > 0} {             set attrName "$matches{$index}.match";             FME_SetAttribute $attrName [lindex $part 0];             set attrName "$matches{$index}.startIndex";             FME_SetAttribute $attrName [lindex $part 1];         };         set isFirstMatch 0;         incr index;      };      return $index;   };   return -1; }
+FACTORY_DEF * TestFactory    FACTORY_NAME StringSearcher    INPUT  FEATURE_TYPE HTTPCaller_Output    TEST @Tcl2("StringSearcher_7d3f21e2_8c63_4a2a_8416_b0869894e8c41_doGrep {@EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>_response_body<closeparen>,StringSearcher)} {TransactionResponse<space>} {_first_match} {} {}") > 0    OUTPUT PASSED FEATURE_TYPE StringSearcher_MATCHED    OUTPUT FAILED FEATURE_TYPE StringSearcher_NOT_MATCHED
 
 # -------------------------------------------------------------------------
 
@@ -9602,9 +9602,9 @@ FACTORY_DEF * TeeFactory    FACTORY_NAME Logger_2_Logger    INPUT  FEATURE_TYPE 
 FACTORY_DEF * TeeFactory   FACTORY_NAME "Logger_2 LOGGED Transformer Output Nuker"   INPUT FEATURE_TYPE Logger_2_LOGGED
 # -------------------------------------------------------------------------
 
-INCLUDE [    set macroLine "MACRO AttributeKeeper_14_0a9c717e_182e_412b_90d4_7399a63ab4e30_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
+INCLUDE [    set macroLine "MACRO AttributeKeeper_14_639ea23d_f72d_49e3_b7d4_e118635d73f91_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
 
-FACTORY_DEF {*} TeeFactory    FACTORY_NAME AttributeKeeper_14    INPUT  FEATURE_TYPE AttributeFilter_<lt>EMPTY<gt>    INPUT  FEATURE_TYPE AttributeFilter_<lt>MISSING<gt>    INPUT  FEATURE_TYPE AttributeFilter_<lt>NULL<gt>    INPUT  FEATURE_TYPE AttributeFilter_<lt>UNFILTERED<gt>    INPUT  FEATURE_TYPE AttributeFilter_4    INPUT  FEATURE_TYPE AttributeFilter_5    OUTPUT { FEATURE_TYPE AttributeKeeper_14_OUTPUT        @KeepAttributes(fme_encoded,gdbp_STATUS,cobra_ID,gdbp_ID_KONTAKT,gdbp_ID_GEODBMETA,fme_pcre_match,"^fme_$(AttributeKeeper_14_0a9c717e_182e_412b_90d4_7399a63ab4e30_LIST_EXP)")         }
+FACTORY_DEF {*} TeeFactory    FACTORY_NAME AttributeKeeper_14    INPUT  FEATURE_TYPE AttributeFilter_<lt>EMPTY<gt>    INPUT  FEATURE_TYPE AttributeFilter_<lt>MISSING<gt>    INPUT  FEATURE_TYPE AttributeFilter_<lt>NULL<gt>    INPUT  FEATURE_TYPE AttributeFilter_<lt>UNFILTERED<gt>    INPUT  FEATURE_TYPE AttributeFilter_4    INPUT  FEATURE_TYPE AttributeFilter_5    OUTPUT { FEATURE_TYPE AttributeKeeper_14_OUTPUT        @KeepAttributes(fme_encoded,gdbp_STATUS,cobra_ID,gdbp_ID_KONTAKT,gdbp_ID_GEODBMETA,fme_pcre_match,"^fme_$(AttributeKeeper_14_639ea23d_f72d_49e3_b7d4_e118635d73f91_LIST_EXP)")         }
 
 # -------------------------------------------------------------------------
 
@@ -9613,7 +9613,7 @@ FACTORY_DEF * TeeFactory    FACTORY_NAME Folgende_Features_haben_einen_ungültig
 FACTORY_DEF * TeeFactory   FACTORY_NAME "Folgende_Features_haben_einen_ungültigen_Status: LOGGED Transformer Output Nuker"   INPUT FEATURE_TYPE Folgende_Features_haben_einen_ungültigen_Status:_LOGGED
 # -------------------------------------------------------------------------
 
-FACTORY_DEF * RoutingFactory FACTORY_NAME "Destination Feature Type Routing Correlator"   COMMAND_PARM_EVALUATION SINGLE_PASS   INPUT FEATURE_TYPE *    ROUTE FME_GENERIC AttributeKeeper_3_OUTPUT TO ORACLE_NONSPATIAL __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,0,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>GDBP.KONTAKTE<closeparen> GEOMETRY    ROUTE FME_GENERIC AttributeRenamer_3_OUTPUT TO ORACLE_NONSPATIAL __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,0,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>GDBP.KONTAKTE<closeparen> GEOMETRY    ROUTE FME_GENERIC AttributeCreator_7_OUTPUT TO MYSQL_DB __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,5,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>jos_sdi_version<closeparen> GEOMETRY    ROUTE FME_GENERIC AttributeCreator_6_OUTPUT_1_kG9yipENWGo= TO MYSQL_DB __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,5,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>jos_sdi_resource<closeparen> GEOMETRY    ROUTE FME_GENERIC AttributeCreator_9_OUTPUT TO MYSQL_DB __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,5,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>jos_sdi_metadata<closeparen> GEOMETRY    ROUTE FME_GENERIC AttributeRenamer_7_OUTPUT TO ORACLE_NONSPATIAL __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,2,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>GDBP.KONTAKTE<closeparen> GEOMETRY    ROUTE FME_GENERIC StringConcatenator_3_OUTPUT TO ORACLE_NONSPATIAL __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,2,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>GDBP.META_CONTACT_DETAILS<closeparen> GEOMETRY    ROUTE FME_GENERIC AttributeRenamer_5_OUTPUT TO FFS __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,6,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>GUIDCOL<closeparen> GEOMETRY    ROUTE FME_GENERIC AttributeKeeper_4_OUTPUT TO MYSQL_DB __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,3,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>jos_sdi_metadata<closeparen> GEOMETRY    ROUTE FME_GENERIC SQLExecutor_2_RESULT_1_255TfJJCeOQ= TO MYSQL_DB __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,4,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>jos_sdi_version<closeparen> GEOMETRY    ROUTE FME_GENERIC StringConcatenator_2_OUTPUT_0_wWj26op00Uo= TO MYSQL_DB __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,4,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>jos_sdi_resource<closeparen> GEOMETRY    ROUTE FME_GENERIC SQLExecutor_RESULT_1_N3993qDbe+E= TO MYSQL_DB __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,4,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>jos_sdi_metadata<closeparen> GEOMETRY    ROUTE FME_GENERIC TimeStamper_3_OUTPUT TO ORACLE_NONSPATIAL __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,1,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>GDBP.KONTAKTE<closeparen> GEOMETRY    ROUTE FME_GENERIC AttributeCreator_11_OUTPUT TO ORACLE_NONSPATIAL __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,1,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>GDBP.META_CONTACT_DETAILS<closeparen> GEOMETRY    ROUTE FME_GENERIC __WB_BYPASS_TERMINATOR__ <at>Tcl2<openparen>FME_StatMessage<space>818062<space><opencurly><at>Value<openparen>_wb_termination_message<closeparen><space><openparen><at>Value<openparen>_wb_termination_xformer<closeparen><closeparen><closecurly><space>818063<closeparen> TO FME_GENERIC __WB_BYPASS_TERMINATOR__ __wb_out_feat_type__,__WB_BYPASS_TERMINATOR__ GEOMETRY   FEATURE_TYPE_ATTRIBUTE __wb_out_feat_type__   OUTPUT ROUTED FEATURE_TYPE *    OUTPUT NOT_ROUTED FEATURE_TYPE __nuke_me__ @Tcl2("FME_StatMessage 818059 [FME_GetAttribute fme_template_feature_type] 818060 818061 fme_warn")
+FACTORY_DEF * RoutingFactory FACTORY_NAME "Destination Feature Type Routing Correlator"   COMMAND_PARM_EVALUATION SINGLE_PASS   INPUT FEATURE_TYPE *    ROUTE FME_GENERIC AttributeKeeper_4_OUTPUT TO MYSQL_DB __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,3,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>jos_sdi_metadata<closeparen> GEOMETRY    ROUTE FME_GENERIC AttributeCreator_7_OUTPUT TO MYSQL_DB __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,5,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>jos_sdi_version<closeparen> GEOMETRY    ROUTE FME_GENERIC AttributeCreator_6_OUTPUT_1_kG9yipENWGo= TO MYSQL_DB __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,5,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>jos_sdi_resource<closeparen> GEOMETRY    ROUTE FME_GENERIC AttributeCreator_9_OUTPUT TO MYSQL_DB __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,5,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>jos_sdi_metadata<closeparen> GEOMETRY    ROUTE FME_GENERIC TimeStamper_3_OUTPUT TO ORACLE_NONSPATIAL __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,1,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>GDBP.KONTAKTE<closeparen> GEOMETRY    ROUTE FME_GENERIC AttributeCreator_11_OUTPUT TO ORACLE_NONSPATIAL __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,1,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>GDBP.META_CONTACT_DETAILS<closeparen> GEOMETRY    ROUTE FME_GENERIC AttributeRenamer_5_OUTPUT TO FFS __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,6,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>GUIDCOL<closeparen> GEOMETRY    ROUTE FME_GENERIC AttributeKeeper_3_OUTPUT TO ORACLE_NONSPATIAL __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,0,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>GDBP.KONTAKTE<closeparen> GEOMETRY    ROUTE FME_GENERIC AttributeRenamer_3_OUTPUT TO ORACLE_NONSPATIAL __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,0,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>GDBP.KONTAKTE<closeparen> GEOMETRY    ROUTE FME_GENERIC SQLExecutor_2_RESULT_1_255TfJJCeOQ= TO MYSQL_DB __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,4,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>jos_sdi_version<closeparen> GEOMETRY    ROUTE FME_GENERIC StringConcatenator_2_OUTPUT_0_wWj26op00Uo= TO MYSQL_DB __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,4,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>jos_sdi_resource<closeparen> GEOMETRY    ROUTE FME_GENERIC SQLExecutor_RESULT_1_N3993qDbe+E= TO MYSQL_DB __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,4,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>jos_sdi_metadata<closeparen> GEOMETRY    ROUTE FME_GENERIC AttributeRenamer_7_OUTPUT TO ORACLE_NONSPATIAL __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,2,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>GDBP.KONTAKTE<closeparen> GEOMETRY    ROUTE FME_GENERIC StringConcatenator_3_OUTPUT TO ORACLE_NONSPATIAL __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,2,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>GDBP.META_CONTACT_DETAILS<closeparen> GEOMETRY    ROUTE FME_GENERIC __WB_BYPASS_TERMINATOR__ <at>Tcl2<openparen>FME_StatMessage<space>818062<space><opencurly><at>Value<openparen>_wb_termination_message<closeparen><space><openparen><at>Value<openparen>_wb_termination_xformer<closeparen><closeparen><closecurly><space>818063<closeparen> TO FME_GENERIC __WB_BYPASS_TERMINATOR__ __wb_out_feat_type__,__WB_BYPASS_TERMINATOR__ GEOMETRY   FEATURE_TYPE_ATTRIBUTE __wb_out_feat_type__   OUTPUT ROUTED FEATURE_TYPE *    OUTPUT NOT_ROUTED FEATURE_TYPE __nuke_me__ @Tcl2("FME_StatMessage 818059 [FME_GetAttribute fme_template_feature_type] 818060 818061 fme_warn")
 # -------------------------------------------------------------------------
 
 FACTORY_DEF * TeeFactory   FACTORY_NAME "Final Output Nuker"   INPUT FEATURE_TYPE __nuke_me__
@@ -9621,21 +9621,21 @@ FACTORY_DEF * TeeFactory   FACTORY_NAME "Final Output Nuker"   INPUT FEATURE_TYP
 # -------------------------------------------------------------------------
 ORACLE_NONSPATIAL_2_DEF GDBP.KONTAKTE   oracle_create_table          ""   oracle_drop_table            ""   oracle_table_writer_mode     ""   oracle_update_key_columns    ""   oracle_truncate_table        ""   fme_feature_operation        MULTIPLE   fme_table_handling           USE_EXISTING   fme_selection_method         MATCH_COLUMNS   fme_match_columns            ID_KONTAKT   ID_KONTAKT                   number(38,0)   STATUS                       number(10,10)
 # -------------------------------------------------------------------------
-ORACLE_NONSPATIAL_3_DEF GDBP.META_CONTACT_DETAILS   oracle_create_table          ""   oracle_drop_table            ""   oracle_table_writer_mode     ""   oracle_update_key_columns    ""   oracle_truncate_table        ""   fme_feature_operation        MULTIPLE   fme_table_handling           USE_EXISTING   fme_selection_method         MATCH_COLUMNS   fme_match_columns            CONTACT_UUID   CONTACT_UUID                 nvarchar(255)   COBRA_ID                     nvarchar(255)   FIRSTNAME                    nvarchar(255)   LASTNAME                     nvarchar(255)   ORGANISATION                 nvarchar(255)   STREETNAME                   nvarchar(255)   ADDRESSLINE                  nvarchar(255)   POSTBOX                      nvarchar(255)   POSTALCODE                   nvarchar(255)   CITY                         nvarchar(255)   COUNTRY                      nvarchar(255)   PHONEMAIN                    nvarchar(255)   PHONEDIRECT                  nvarchar(255)   FAX                          nvarchar(255)   EMAIL                        nvarchar(255)   INTERNET                     nvarchar(255)
-# -------------------------------------------------------------------------
 ORACLE_NONSPATIAL_3_DEF GDBP.KONTAKTE   oracle_create_table          ""   oracle_drop_table            ""   oracle_table_writer_mode     ""   oracle_update_key_columns    ""   oracle_truncate_table        ""   fme_feature_operation        MULTIPLE   fme_table_handling           USE_EXISTING   fme_selection_method         MATCH_COLUMNS   fme_match_columns            ID_KONTAKT   ID_KONTAKT                   number(38,0)   ID_COBRA                     number(38,0)   AMT                          varchar2(250)   DIENSTELLE                   varchar2(250)   VORNAME                      varchar2(50)   NACHNAME                     varchar2(50)   EMAIL_ADRESSE                varchar2(50)   FIRMA3                       varchar2(250)   STATUS                       varchar2(10)   ID_GEODBMETA                 varchar2(36)   UPDATED                      timestamp   MAINID                       number(38,0)   MAINSUBMARK                  varchar2(4)
 # -------------------------------------------------------------------------
-ORACLE_NONSPATIAL_4_DEF GDBP.META_CONTACT_DETAILS   oracle_create_table          ""   oracle_drop_table            ""   oracle_table_writer_mode     ""   oracle_update_key_columns    ""   oracle_truncate_table        ""   fme_feature_operation        INSERT   fme_table_handling           USE_EXISTING   CONTACT_UUID                 nvarchar(255)   COBRA_ID                     nvarchar(255)   FIRSTNAME                    nvarchar(255)   LASTNAME                     nvarchar(255)   ORGANISATION                 nvarchar(255)   STREETNAME                   nvarchar(255)   ADDRESSLINE                  nvarchar(255)   POSTBOX                      nvarchar(255)   POSTALCODE                   nvarchar(255)   CITY                         nvarchar(255)   COUNTRY                      nvarchar(255)   PHONEMAIN                    nvarchar(255)   PHONEDIRECT                  nvarchar(255)   FAX                          nvarchar(255)   EMAIL                        nvarchar(255)   INTERNET                     nvarchar(255)
+ORACLE_NONSPATIAL_3_DEF GDBP.META_CONTACT_DETAILS   oracle_create_table          ""   oracle_drop_table            ""   oracle_table_writer_mode     ""   oracle_update_key_columns    ""   oracle_truncate_table        ""   fme_feature_operation        MULTIPLE   fme_table_handling           USE_EXISTING   fme_selection_method         MATCH_COLUMNS   fme_match_columns            CONTACT_UUID   CONTACT_UUID                 nvarchar(255)   COBRA_ID                     nvarchar(255)   FIRSTNAME                    nvarchar(255)   LASTNAME                     nvarchar(255)   ORGANISATION                 nvarchar(255)   STREETNAME                   nvarchar(255)   ADDRESSLINE                  nvarchar(255)   POSTBOX                      nvarchar(255)   POSTALCODE                   nvarchar(255)   CITY                         nvarchar(255)   COUNTRY                      nvarchar(255)   PHONEMAIN                    nvarchar(255)   PHONEDIRECT                  nvarchar(255)   FAX                          nvarchar(255)   EMAIL                        nvarchar(255)   INTERNET                     nvarchar(255)
 # -------------------------------------------------------------------------
 ORACLE_NONSPATIAL_4_DEF GDBP.KONTAKTE   oracle_create_table          ""   oracle_drop_table            ""   oracle_table_writer_mode     ""   oracle_update_key_columns    ""   oracle_truncate_table        ""   fme_feature_operation        INSERT   fme_table_handling           USE_EXISTING   ID_COBRA                     number(38,0)   AMT                          varchar2(250)   ID_AMTTYP                    number(38,0)   DIENSTELLE                   varchar2(250)   VORNAME                      varchar2(50)   NACHNAME                     varchar2(50)   EMAIL_ADRESSE                varchar2(50)   ID_KONTAKT1                  number(38,0)   KUERZEL                      varchar2(4)   FIRMA3                       varchar2(250)   STATUS                       varchar2(10)   DIREKTION                    varchar2(50)   ID_GEODBMETA                 varchar2(36)   UPDATED                      timestamp   MAINID                       number(38,0)   MAINSUBMARK                  varchar2(4)
+# -------------------------------------------------------------------------
+ORACLE_NONSPATIAL_4_DEF GDBP.META_CONTACT_DETAILS   oracle_create_table          ""   oracle_drop_table            ""   oracle_table_writer_mode     ""   oracle_update_key_columns    ""   oracle_truncate_table        ""   fme_feature_operation        INSERT   fme_table_handling           USE_EXISTING   CONTACT_UUID                 nvarchar(255)   COBRA_ID                     nvarchar(255)   FIRSTNAME                    nvarchar(255)   LASTNAME                     nvarchar(255)   ORGANISATION                 nvarchar(255)   STREETNAME                   nvarchar(255)   ADDRESSLINE                  nvarchar(255)   POSTBOX                      nvarchar(255)   POSTALCODE                   nvarchar(255)   CITY                         nvarchar(255)   COUNTRY                      nvarchar(255)   PHONEMAIN                    nvarchar(255)   PHONEDIRECT                  nvarchar(255)   FAX                          nvarchar(255)   EMAIL                        nvarchar(255)   INTERNET                     nvarchar(255)
 # -------------------------------------------------------------------------
 MYSQL_DB_1_DEF jos_sdi_metadata   mysql_type                   All   mysql_mode                   UPDATE   mysql_table_type             MYISAM   mysql_drop_table             NO   mysql_truncate_table         NO   mysql_ops_per_sql_stmt       1000   metadatastate_id             int
 # -------------------------------------------------------------------------
 MYSQL_DB_2_DEF jos_sdi_version   mysql_type                   All   mysql_mode                   UPDATE   mysql_table_type             MYISAM   mysql_drop_table             NO   mysql_truncate_table         NO   mysql_ops_per_sql_stmt       1000   modified                     datetime
 # -------------------------------------------------------------------------
-MYSQL_DB_2_DEF jos_sdi_metadata   mysql_type                   All   mysql_mode                   UPDATE   mysql_table_type             MYISAM   mysql_drop_table             NO   mysql_truncate_table         NO   mysql_ops_per_sql_stmt       1000   modified                     datetime   metadatastate_id             int
-# -------------------------------------------------------------------------
 MYSQL_DB_2_DEF jos_sdi_resource   mysql_type                   All   mysql_mode                   UPDATE   mysql_table_type             MYISAM   mysql_drop_table             NO   mysql_truncate_table         NO   mysql_ops_per_sql_stmt       1000   modified                     datetime
+# -------------------------------------------------------------------------
+MYSQL_DB_2_DEF jos_sdi_metadata   mysql_type                   All   mysql_mode                   UPDATE   mysql_table_type             MYISAM   mysql_drop_table             NO   mysql_truncate_table         NO   mysql_ops_per_sql_stmt       1000   modified                     datetime   metadatastate_id             int
 # -------------------------------------------------------------------------
 MYSQL_DB_3_DEF jos_sdi_version   mysql_type                   All   mysql_mode                   INSERT   mysql_table_type             MYISAM   mysql_drop_table             NO   mysql_truncate_table         NO   mysql_ops_per_sql_stmt       1000   guid                         varchar(36)   alias                        varchar(50)   created_by                   int   created                      datetime   modified_by                  int   modified                     datetime   ordering                     int   state                        tinyint   checked_out                  int   checked_out_time             datetime   name                         varchar(255)   resource_id                  int   access                       int   asset_id                     int
 # -------------------------------------------------------------------------
